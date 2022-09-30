@@ -20,3 +20,4 @@
 
 * [Abbott](extra-werkzaamheden/abbott.md)
 * [Abbvie](extra-werkzaamheden/abbvie.md)
+* [De Rooi Pannen](extra-werkzaamheden/de-rooi-pannen.md)

@@ -20,4 +20,4 @@ Om een beter en duidelijker beeld te krijgen van de doelgroep van Blue Dragon, b
 
 Om een duidelijker beeld te krijgen van de doelgroep heb ik besloten om persona's te gaan maken. Daarom ben ik een enquête gaan opstellen, zodat ik wat aanvullende informatie kan verkrijgen over de personen in deze desbetreffende doelgroep.
 
-<figure><img src="../.gitbook/assets/afbeelding.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/enqueteigmblurred.png" alt=""><figcaption></figcaption></figure>
