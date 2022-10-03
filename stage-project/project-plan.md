@@ -71,4 +71,4 @@ De documentatie van dit project houd ik bij in Gitbook.
 
 Voor het onderhouden van verschillende taken en user stories gebruik ik [Trello](https://trello.com/b/ULXzDgUj/blue-dragon-cms-project), zo krijg ik een goed overzicht van alle taken die ik moet afronden. Ook houdt ik dit ook bij in Git zodat mijn bedrijfsbegeleider ook kan zien waar ik mee bezig ben.
 
-<figure><img src="../.gitbook/assets/Schermafbeelding 2022-09-15 om 12.40.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sstrello.png" alt=""><figcaption></figcaption></figure>
