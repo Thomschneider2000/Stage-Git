@@ -56,7 +56,7 @@ Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen 
 
 ### De Oplossing
 
-Om het probleem op te lossen ga ik opzoek naar wat de verschillende eisen zijn om iets gebruiksvriendelijk te maken en hoe ik iets gebruiksvriendelijk maak. Natuurlijk hangt dit ook af van de doelgroep dus daarom is het ook handig om een goed beeld te krijgen van wie de doelgroep zijn.&#x20;
+Om het probleem op te lossen ga ik opzoek naar wat de verschillende eisen zijn om iets gebruiksvriendelijk te maken en hoe ik iets gebruiksvriendelijk maak. Natuurlijk hangt dit ook af van de doelgroep dus daarom is het ook handig om een goed beeld te krijgen van wie de doelgroep is.&#x20;
 
 ##
 

@@ -12,7 +12,7 @@ description: >-
 
 ## Inleiding
 
-Om een beter en duidelijker beeld te krijgen van de doelgroep van Blue Dragon, ben ik een aantal persona's gaan opstellen met de informatie die ik heb verkregen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de past.
+Om een beter en duidelijker beeld te krijgen van de doelgroep van Blue Dragon, ben ik een aantal persona's gaan opstellen met de informatie die ik heb verkregen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
 
 ## Onderzoeksmethoden
 
