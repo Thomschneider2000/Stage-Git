@@ -21,7 +21,7 @@ Ik heb een marktonderzoek gedaan om erachter te komen wat voor een verschillende
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/cmdmethods.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cmdmethodmarktonderzoek.png" alt=""><figcaption></figcaption></figure>
 
 ## De USP's (Unique Selling Points)
 
