@@ -14,7 +14,7 @@ description: >-
 
 Ik heb een marktonderzoek gedaan om erachter te komen wat voor een verschillende dingen er spelen in de IT branche, zoals:
 
-* Hoe gaat het met de IT branche de afgelopen jaren?
+* Hoe gaat het met de groei van de IT branche de afgelopen jaren?
 * Wat zijn de grote bekende concurrenten?
 * Wat zijn de usp's van deze concurrenten?
 * Wat zijn de punten van concurrenten die beter kunnen?

@@ -18,6 +18,7 @@
 
 ## 🔹 Extra Werkzaamheden
 
-* [Abbott](extra-werkzaamheden/abbott.md)
+* [Abbott Mail Templates](extra-werkzaamheden/abbott-mail-templates.md)
+* [Abbott Formulieren](extra-werkzaamheden/abbott-formulieren.md)
 * [Abbvie](extra-werkzaamheden/abbvie.md)
 * [De Rooi Pannen](extra-werkzaamheden/de-rooi-pannen.md)
