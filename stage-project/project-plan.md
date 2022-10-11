@@ -28,7 +28,7 @@ De betrokkenen zijn:
 
 ## Design Challenge
 
-> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen op hun website.
+> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
 
 ## Project Onderdelen
 
