@@ -16,3 +16,4 @@ Mijn taak voor deze opdracht is het aanpassen van de resolutie van de images en 
 
 ## Realisatie
 
+Voor het realiseren van deze opdracht heb ik de images die in Blue Dragons content management systeem even gedownload zodat ik deze kan aanpassen in Adobe Photoshop. Tijdens het aanpassen van deze images heb ik de hoogte en de breedte van de image verkleint en de dpi (Dots per pixel) Verghoogd.
