@@ -8,4 +8,4 @@ description: Op deze pagina beschrijf ik de concept fase van het ontwerpen van d
 
 ## Inleiding
 
-Nu dat ik informatie heb verzameld over de doelgroep door middel van de persona's die ik gemaakt heb, kan ik gaan beginnen met het maken van een eerste opzet van de wireframes.&#x20;
+Nu dat ik informatie heb verzameld over de doelgroep door middel van de persona's die ik gemaakt heb, kan ik gaan beginnen met het maken van een eerste opzet van de wireframes op basis van de behoeften en eisen van de stakeholders.&#x20;
