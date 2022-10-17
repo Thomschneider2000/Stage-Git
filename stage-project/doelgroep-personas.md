@@ -32,7 +32,7 @@ Na wat zoeken ben ik uiteindelijk bij een website gekomen met een artikel over "
 
 Met behulp van dit artikel heb ik een mooie email weten te formuleren.
 
-> Beste, Naam
+> Beste Naam,
 >
 > Hoi mijn naam is Thom Schneider, ik zit in het 3de leerjaar van de studie ICT op het Fontys in Eindhoven.  Op dit moment loop ik stage bij Blue Dragon, tijdens mijn stageperiode ben ik bezig met een project om het content managementsysteem van Blue Dragon gebruiksvriendelijker te maken. &#x20;
 >
@@ -44,7 +44,19 @@ Met behulp van dit artikel heb ik een mooie email weten te formuleren.
 >
 > Bij voorbaat dank!
 
-Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat feedback
+Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat feedback te vragen. Uiteindelijk heb ik wat nuttige feedback gehad wat erg fijn was. Ik heb deze feedback gelijk verwerkt en heb daarna de mail verstuurd naar de stakeholders.
+
+> Hallo Naam,
+>
+> Momenteel loop ik stage bij Blue Dragon, tijdens mijn stageperiode ben ik bezig met een project om het content managementsysteem van Blue Dragon wat je momenteel in gebruik hebt nog gebruiksvriendelijker te maken.
+>
+> Om het systeem meer gebruiksvriendelijk te maken zou het fijn zijn om meer informatie te verkrijgen over de doelgroep die dit systeem in gebruik heeft. Daarom heb ik een enquête opgesteld met wat vragen, zodat ik een aantal persona’s kan maken waardoor het een stuk makkelijker wordt om de gebruiksvriendelijk mogelijk verder te optimaliseren naar de behoeften en wensen van jullie als klant. Het invullen van de enquête duurt ongeveer 10 minuten, en je gegevens worden anoniem verwerkt.
+>
+> Enquête:
+>
+> [https://docs.google.com/forms/d/e/1FAIpQLSeAo7fffJJ1RF\_VbFnlMpsKi\_C33IXOG4NkqskCH6h6Za04yA/viewform?usp=sf\_link](https://docs.google.com/forms/d/e/1FAIpQLSeAo7fffJJ1RF\_VbFnlMpsKi\_C33IXOG4NkqskCH6h6Za04yA/viewform?usp=sf\_link)
+>
+> Bij voorbaat dank!
 
 ## Persona's
 
