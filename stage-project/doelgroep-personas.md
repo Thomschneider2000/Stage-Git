@@ -60,6 +60,8 @@ Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat f
 
 ## Persona's
 
+<figure><img src="../.gitbook/assets/sspersona1.png" alt=""><figcaption></figcaption></figure>
+
 ## Feedback
 
 Nadat ik mijn enquête had opgesteld, heb ik het formulier opgestuurd naar mijn bedrijfsbegeleider zodat hij er nog een keer overheen kan kijken voordat het verstuurd wordt. Toen mijn bedrijfsbegeleider de enquête had doorgenomen had hij een aantal feedback punten die ik moest verbeteren.
