@@ -60,7 +60,9 @@ Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat f
 
 ## Persona's
 
-<figure><img src="../.gitbook/assets/sspersona1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/persona1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
 ## Feedback
 
