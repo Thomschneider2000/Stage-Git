@@ -1,7 +1,3 @@
----
-description: Op deze pagina beschrijf ik de concept fase van het ontwerpen van de UI.
----
-
 # Concept UI
 
 <figure><img src="../.gitbook/assets/vakconceptfase.png" alt=""><figcaption></figcaption></figure>
@@ -12,13 +8,29 @@ Nu dat ik informatie heb verzameld over de doelgroep door middel van de persona'
 
 ## User Flows
 
-Ik ben begonnen met een aantal user flows maken op basis van verschillende user stories die ik heb gemaakt. Ik heb gekozen om de user flows te maken om een beter beeld te krijgen van hoe het cms van blue dragon in elkaar zit en om te kijken hoe verschillende processen verlopen.&#x20;
+Ik ben begonnen met een aantal user flows maken op basis van verschillende user story's die ik heb gemaakt. Ik heb gekozen om deze user flows te maken om een beter beeld te krijgen van hoe het cms van Blue Dragon in elkaar zit, en om te kijken hoe verschillende processen verlopen. Ik heb dit gedaan zodat ik kan zien waar ik een extra stap uit kan halen zodat de user experience wordt verbeterd.&#x20;
 
+{% embed url="https://miro.com/app/board/uXjVPN12EWU=/?share_link_id=599190674290" %}
 
+## Inspiratie
+
+Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem gebruikt redelijk jong is, ben ik gaan kijken naar een modern design wat erg duidelijk en gebruiksvriendelijk is. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen.    &#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/ssinspiratie1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ssinspiratie2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Nadat ik een keuze had gemaakt in welke richting ik mijn design wil laten gaan, ben ik begonnen met het maken van wat wireframes.
 
 ## Wireframes
 
-Voordat ik ben begonnen met het maken van de wireframes heb ik een design gemaakt op een vel papier zodat ik dan sneller wat verschillende designs heb gemaakt. Uiteindelijk heb ik de 2 ontwerpen gekozen die het meest duidelijkheid geven, en die passen bij de behoeften van de klanten.
+Voordat ik ben begonnen met het maken van de wireframes heb ik een design gemaakt op een vel papier zodat ik dan sneller wat verschillende designs kan maken. Uiteindelijk heb ik de 2 ontwerpen gekozen die ik het meeste vind passen bij de behoeften van de doelgroep.
 
 <div>
 
@@ -30,8 +42,11 @@ Voordat ik ben begonnen met het maken van de wireframes heb ik een design gemaak
 
 </div>
 
-Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat verschillende feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes.
+Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes.
 
-## Mockup Design
+## De huisstijl van Blue Dragon
 
-Vervolgens ben ik begonnen met het maken van de mockup van dit cms,&#x20;
+Omdat Blue Dragon een huisstijl heeft moet ik mij houden aan wat verschillende design aspecten zoals het kleur gebruik, de verschillende lettertypes en het gebruik van het Blue Dragon logo. Het is wel fijn om een vaste huisstijl te hebben omdat ik dan makkelijk mijn design keuzes kan maken.
+
+
+

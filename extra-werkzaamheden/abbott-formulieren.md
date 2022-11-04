@@ -1,10 +1,4 @@
----
-description: >-
-  Hierin beschrijf ik welke werkzaamheden ik heb verricht voor deze
-  opdrachtgever.
----
-
-# Abbott
+# Abbott Formulieren
 
 <figure><img src="../.gitbook/assets/vakabbott.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +18,7 @@ Nadat ik het formulier wat compacter heb gemaakt ben ik aan de slag gegaan met h
 
 Vervolgens heeft mijn bedrijfsbegeleider contact gehad met Abbott om te vragen voor wat feedback. Op de feedback na waren ze zeer te spreken over het design, alleen waren er nog een aantal dingen die verbeterd moesten worden zoals de progressie balk. Uiteindelijk is dit project verder opgepakt door een andere collega die dit design heeft gefinaliseerd.
 
-&#x20;
+
 
 <figure><img src="../.gitbook/assets/Anamnese.png" alt=""><figcaption></figcaption></figure>
 

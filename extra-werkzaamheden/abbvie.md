@@ -1,9 +1,3 @@
----
-description: >-
-  Hierin beschrijf ik welke werkzaamheden ik heb verricht voor deze
-  opdrachtgever.
----
-
 # Abbvie
 
 <figure><img src="../.gitbook/assets/vakabbvie.png" alt=""><figcaption></figcaption></figure>
@@ -47,8 +41,3 @@ Ik was alleen vergeten de kopjes in lowercase te zetten maar uiteindelijk heb ik
 <figure><img src="../.gitbook/assets/ssfeedbackabbvie2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-
-
-
-

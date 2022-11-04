@@ -1,7 +1,3 @@
----
-description: In dit document staat een onderzoek over gebruiksvriendelijkheid.
----
-
 # Gebruiksvriendelijkheid Onderzoek
 
 <figure><img src="../.gitbook/assets/vakgebruiksvriendelijkheidonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>

@@ -1,9 +1,3 @@
----
-description: >-
-  Hierin beschrijf ik welke werkzaamheden ik heb verricht voor deze
-  opdrachtgever.
----
-
 # Abbott Mail Templates
 
 <figure><img src="../.gitbook/assets/vakabbott.png" alt=""><figcaption></figcaption></figure>

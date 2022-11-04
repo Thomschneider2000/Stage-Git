@@ -1,9 +1,3 @@
----
-description: >-
-  Op deze pagina staan een aantal persona's die ik heb gemaakt op basis van de
-  doelgroep.
----
-
 # Doelgroep Persona's
 
 <figure><img src="../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>

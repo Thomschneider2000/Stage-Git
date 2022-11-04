@@ -1,9 +1,3 @@
----
-description: >-
-  In dit document vindt u alle informatie wat betreft afspraken en planning voor
-  het project.
----
-
 # Project Plan
 
 <figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>

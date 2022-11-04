@@ -1,9 +1,3 @@
----
-description: >-
-  In dit document vindt u alle relevante informatie wat betreft de IT branche en
-  mijn project.
----
-
 # Marktonderzoek
 
 <figure><img src="../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
