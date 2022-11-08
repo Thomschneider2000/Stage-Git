@@ -6,11 +6,52 @@
 
 ## Inleiding
 
-Om een beter en duidelijker beeld te krijgen van de doelgroep van Blue Dragon, ben ik een aantal persona's gaan opstellen met de informatie die ik heb verkregen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
+Nu dat ik weet hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/cmdmethodsdoelgroep.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 3.png" alt=""><figcaption></figcaption></figure>
+
+#### Survey&#x20;
+
+Om de persona’s te maken op basis van de doelgroep heb ik informatie nodig van personen binnen deze doelgroep, daarom heb ik een enquête gemaakt met een aantal vragen om zo een beter beeld te krijgen van de personen binnen deze doelgroep.&#x20;
+
+#### Persona&#x20;
+
+Een persona kan functioneren als een model om een groep gebruikers te vertegenwoordigen die een product op een vergelijkbare manier zouden gebruiken op basis van hun gedeelde kenmerken, eigenschappen, houdingen of doelen.&#x20;
+
+#### Co-reflection&#x20;
+
+Betrek belanghebbenden en andere deskundigen vroeg in het ontwerpproces om een innovatieve koers uit te zetten en de belanghebbenden open te stellen voor nieuwe ideeën.&#x20;
+
+#### Literature study&#x20;
+
+Bij Literature study maak je gebruik van bestaande informatie. Bijvoorbeeld informatie die je online vindt. Dit vraagt wel een tijdsinvestering, omdat je de resultaten vervolgens ook goed moet analyseren.&#x20;
+
+## Hoe maak je een persona?
+
+### Online Desk reasearch
+
+Je kunt veel informatie voor het maken van je persona online vinden. Gebruik informatie uit Google Analytics zoals geslacht en leeftijd van je websitebezoekers.&#x20;
+
+Als je doelgroep uit een bepaalde stad of provincie komt, kun je bijvoorbeeld Wikipedia gebruiken om meer te leren over deze locatie. Bekijk hoe er over je product of dienst wordt gesproken op social media.
+
+* Bestaan er relevante LinkedIngroepen rondom je business?
+* Zijn er video’s over je product op YouTube?
+* Hoe zoekt je doelgroep in zoekmachines?
+* Welke vragen worden er gesteld in Google?
+
+### Field research bij bestaande klanten
+
+Gebruik informatie die je al hebt van bestaande klanten. Dan bedoel ik niet alleen demografische gegevens en andere data die je uit het crm-systeem kunt halen, maar ook achterliggende vraagstukken of uitdagingen.
+
+* Wat speelt er momenteel bij ze?
+* Welke problemen los je voor ze op?
+* Waarom hebben ze voor jou gekozen?
+
+### Analyseer je gegevens
+
+Nu dat je een behoorlijke hoeveelheid gegevens verzameld hebt. Kun je deze informatie samenvatten met behulp van het online onderzoek en fieldonderzoek.
 
 ## Enquête
 

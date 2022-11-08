@@ -42,7 +42,7 @@ Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding
 
 </div>
 
-Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design een wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken.
+Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken.
 
 <div>
 

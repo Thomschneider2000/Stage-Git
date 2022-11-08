@@ -8,7 +8,7 @@ Nu dat ik informatie heb verzameld over de doelgroep door middel van de persona'
 
 ## User Flows
 
-Ik ben begonnen met een aantal user flows maken op basis van verschillende user story's die ik heb gemaakt. Ik heb gekozen om deze user flows te maken om een beter beeld te krijgen van hoe het cms van Blue Dragon in elkaar zit, en om te kijken hoe verschillende processen verlopen. Ik heb dit gedaan zodat ik kan zien waar ik een extra stap uit kan halen zodat de user experience wordt verbeterd.&#x20;
+Ik ben begonnen met een aantal user flows maken op basis van verschillende user story's die ik heb gemaakt. Ik heb gekozen om deze user flows te maken om een beter beeld te krijgen van hoe het cms van Blue Dragon in elkaar zit, en om te kijken hoe verschillende processen verlopen. Ik heb dit gedaan zodat ik kan zien waar ik een extra stap uit kan halen zodat de user experience wordt geoptimaliseerd.&#x20;
 
 {% embed url="https://miro.com/app/board/uXjVPN12EWU=/?share_link_id=599190674290" %}
 
@@ -48,5 +48,7 @@ Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar c
 
 Omdat Blue Dragon een huisstijl heeft moet ik mij houden aan wat verschillende design aspecten zoals het kleur gebruik, de verschillende lettertypes en het gebruik van het Blue Dragon logo. Het is wel fijn om een vaste huisstijl te hebben omdat ik dan makkelijk mijn design keuzes kan maken.
 
+## Mockup
 
+Nadat ik de styleguide van Blue Dragon goed heb doorgenomen, ben ik begonnen met het maken van de verschillende mockups. Op basis van de verschillende wireframes heb ik de layout van het dashboard bepaald.&#x20;
 
