@@ -29,14 +29,9 @@ De betrokkenen zijn:
 ### Research
 
 * Doelgroep Persona's
-* CMS Comparison
+* CMS Vergelijking
 * Marktonderzoek
 * Gebruiksvriendelijkheid Onderzoek
-
-### Styleguide
-
-* Analyseren Style Blue Dragon
-* Ontwerpen Styleguide
 
 ### UI Design & Realisatie
 

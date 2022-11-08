@@ -10,7 +10,7 @@ Nu dat ik weet hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik b
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/Group 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cmdmethodsdoelgroep.png" alt=""><figcaption></figcaption></figure>
 
 #### Survey&#x20;
 
@@ -30,18 +30,18 @@ Bij Literature study maak je gebruik van bestaande informatie. Bijvoorbeeld info
 
 ## Hoe maak je een persona?
 
-### Online Desk reasearch
+### 1. Online Desk research
 
 Je kunt veel informatie voor het maken van je persona online vinden. Gebruik informatie uit Google Analytics zoals geslacht en leeftijd van je websitebezoekers.&#x20;
 
 Als je doelgroep uit een bepaalde stad of provincie komt, kun je bijvoorbeeld Wikipedia gebruiken om meer te leren over deze locatie. Bekijk hoe er over je product of dienst wordt gesproken op social media.
 
-* Bestaan er relevante LinkedIngroepen rondom je business?
+* Bestaan er relevante LinkedIn groepen rondom je business?
 * Zijn er video’s over je product op YouTube?
 * Hoe zoekt je doelgroep in zoekmachines?
 * Welke vragen worden er gesteld in Google?
 
-### Field research bij bestaande klanten
+### 2. Field research bij bestaande klanten
 
 Gebruik informatie die je al hebt van bestaande klanten. Dan bedoel ik niet alleen demografische gegevens en andere data die je uit het crm-systeem kunt halen, maar ook achterliggende vraagstukken of uitdagingen.
 
@@ -49,9 +49,17 @@ Gebruik informatie die je al hebt van bestaande klanten. Dan bedoel ik niet alle
 * Welke problemen los je voor ze op?
 * Waarom hebben ze voor jou gekozen?
 
-### Analyseer je gegevens
+### 3. Analyseer je gegevens
 
-Nu dat je een behoorlijke hoeveelheid gegevens verzameld hebt. Kun je deze informatie samenvatten met behulp van het online onderzoek en fieldonderzoek.
+Nu dat je een behoorlijke hoeveelheid gegevens verzameld hebt. Kun je deze informatie samenvatten met behulp van het online onderzoek en field onderzoek.
+
+### 4. Persona maken
+
+Nu dat er onderzoek is gedaan en alle informatie geanalyseerd is, is het tijd om de persona's te gaan uitwerken.
+
+## Wat moet je voorkomen bij het maken van persona’s?
+
+Probeer te voorkomen dat je jouw persona te veel baseert op één bestaande klant. Het is juist de bedoeling om gegevens van al je belangrijke klanten te bundelen. Voorkom ook dat je te veel aan de oppervlakte blijft, bijvoorbeeld door je persona alleen op demografische gegevens te baseren. Juist de doelen en motivaties zijn belangrijk om de persona volledig te begrijpen.
 
 ## Enquête
 

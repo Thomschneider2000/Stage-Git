@@ -48,11 +48,13 @@ Dit Portfolio beschrijft het proces dat ik doorlopen heb tijdens het ontwerpen e
 
 Mijn naam is Thom Schneider, ik heb het afgelopen semester (semester 5) stage gelopen bij het bedrijf Blue Dragon in 's-Hertogenbosch. Ik ben bij het bedrijf gekomen door zelf op zoek te gaan naar een bedrijf wat ik goed bij mij vond passen. Blue Dragon stond mij erg aan omdat de website er goed en verzorgt uitziet, de verschillende diensten die ze aanbieden en omdat er nog redelijk jong personeel in dienst is. Ook ziet het pand er heel mooi uit en zorgt dit voor een goede werkomgeving.&#x20;
 
+## Het Bedrijf
+
 ## De Opdracht
 
 ### Het Probleem
 
-Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen content in kunnen beheren. Dan moet je denken aan nieuwe pagina's aanmaken, nieuwe modules plaatsen en  content aanpassen zoals Tekst en dergelijke. Bij het ontwikkelen van Blue Dragons CMS is nog niet gekeken naar gebruiksvriendelijkheid omdat het in eerste instant alleen bedoeld was om intern te gebruiken, maar later was er al snel vraag naar vanuit de klant. Dus nu is het probleem dat de UI van Blue Dragons CMS niet gebruiksvriendelijk is, dit kan enigszins lastig zijn voor klanten zonder een technische achtergrond.
+Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen content in kunnen beheren. Dan moet je denken aan nieuwe pagina's aanmaken, nieuwe modules plaatsen en  content aanpassen zoals Tekst en dergelijke. Bij het ontwikkelen van Blue Dragons CMS is nog niet gekeken naar gebruiksvriendelijkheid omdat het in eerste instantie alleen bedoeld was om intern te gebruiken, maar later was er al snel vraag naar vanuit de klant. Dus nu is het probleem dat de UI van Blue Dragons CMS niet gebruiksvriendelijk is,  wat enigszins lastig kan zijn voor klanten zonder een technische achtergrond.
 
 ### De Oplossing
 
