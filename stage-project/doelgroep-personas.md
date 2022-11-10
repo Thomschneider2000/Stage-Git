@@ -109,6 +109,8 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 
 ## Conclusie
 
-Van deze persona's kun je afleiden dat ze allebei ongeveer dezelfde tools gebruiken. Nu dat ik weet welke tools mijn persona's gebruiken op een dagelijkse basis, kan ik rekening houden met het design van die tools. Ook zie ik hier dat de voorkeur van communicatie via de mail en telefoon word gedaan, dus hier kan ik ook op letten dat ik ergens het mail adres of telefoon nummer van het contact persoon vermeld. Verder zie je ook dat reizen een hobby is van de persona dus is het ook wel handig als je het cms kan openen op je mobiel zodat je onderweg ook dingen kan aanpassen.
+Tijdens het maken van deze persona’s, is het mij duidelijker geworden op welke aspecten ik mij moet focussen bij het designen van het nieuwe Blue Dragon CMS.
+
+Van de persona's die ik heb gemaakt kun je afleiden dat ze allebei ongeveer dezelfde tools gebruiken, omdat ze in hetzelfde vakgebied zitten. Nu dat ik weet welke tools mijn persona's gebruiken op een dagelijkse basis, kan ik rekening houden met het design van die tools. Ook kun je zien dat de voorkeur van communicatie via de mail en telefoon word gedaan, dus hier kan ik ook op letten dat ik ergens het mail adres of telefoon nummer van het contact persoon vermeld. Verder zie je ook dat reizen een hobby is van de persona, dus is het ook wel handig als je het cms kan openen op je mobiel zodat je onderweg ook dingen kan aanpassen.
 
 &#x20;

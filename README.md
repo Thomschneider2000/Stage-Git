@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/vakleeswijzer.png" alt=""><figcaption></figcaption></figure>
 
-### **Student**
+## **Student**
 
 **Naam:** Schneider, TFA
 
@@ -14,7 +14,7 @@
 
 **Aantal werkdagen:** Nog niet van toepassing
 
-### Gegevens Bedrijf
+## Gegevens Bedrijf
 
 **Naam:** Blue Dragon
 
@@ -30,11 +30,11 @@
 
 **Functie:** Senior front-end developer
 
-### Gegevens Docentbegeleider
+## Gegevens Docentbegeleider
 
 **Naam:** Janssen, Olaf O.T.A.
 
-### Gegevens Verslag
+## Gegevens Verslag
 
 **Auteur:** Thom Schneider
 
