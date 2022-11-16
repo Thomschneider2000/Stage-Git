@@ -13,7 +13,7 @@ Een marktonderzoek is ook een uitstekend middel om aan belangrijke informatie te
 In dit marktonderzoek wil ik antwoord hebben op de volgende vragen:
 
 * Wat zijn de grote bekende concurrenten?
-* Wat zijn de usp's van deze concurrenten?
+* Wat zijn de usp's van de concurrenten?
 * Wat zijn de punten van concurrenten die beter kunnen?
 
 ## Onderzoeksmethoden
@@ -112,7 +112,16 @@ Paginasnelheid is cruciaal voor uw website. U wilt een snel ladende website zoda
 
 ## De USP's (Unique Selling Points)
 
-Nadat ik onderzoek heb gedaan naar de IT-branche en wat de verschillende concurrenten zijn, kan ik een aantal unique selling points benoemen waardoor een van de concurrenten uitblinkt vergleken met de rest. Een unique selling point is een eigenschap waarmee een zich product onderscheidt van andere vergelijkbare producten. Hieronder beschrijf ik een paar usp van het systeem wat Blue Dragon heeft.
+Nadat ik onderzoek heb gedaan naar de IT-branche en wat de verschillende concurrenten zijn, kan ik een aantal unique selling points benoemen waardoor een van de concurrenten uitblinkt vergeleken met de rest. Een unique selling point is een eigenschap waarmee een zich product onderscheidt van andere vergelijkbare producten.&#x20;
+
+Om een aantal usp's te achterhalen heb ik gekozen om de usp's te benoemen van WordPress een van de grootste CMS concurrenten.&#x20;
+
+* Het gebruik van WordPress is zeer eenvoudig, zo kan iemand zonder enige technische kennis een website opzetten.
+* WordPress heeft heel veel plug-ins die je kan installeren voor extra features.
+* WordPress is open source software die iedereen kan gebruiken.
+* WordPress heeft veel verschillende thema's die de gebruiker kan kiezen, ook zijn deze thema's goed responsive.
+
+Hieronder beschrijf ik ook een paar usp van het systeem wat Blue Dragon heeft.
 
 * Het CMS wordt meegeleverd als service van Blue Dragon.
 * Het CMS wordt zo geoptimaliseerd dat er geen onnodige plug-ins gebruikt moeten worden.
@@ -129,4 +138,6 @@ In de tabel hieronder heb ik een aantal van de meest gebruikt CMS-systemen verge
 Uit deze vergelijkingstabel blijkt dat WordPress de beste optie is van deze CMS-systemen. Maar omdat WordPress populairder is dan de rest loopt het ook meer risico op het gebied van veiligheid. Ook kun je uit deze tabel afleiden dat het gebruiksgemak van Joomla niet zo goed is, omdat je veel technische kennis nodig hebt om deze CMS te gebruiken.
 
 ## Conclusie
+
+Met dit marktonderzoek wilde ik antwoord hebben op een aantal vragen die ik aan het begin van het onderzoek heb vastgesteld. Na wat onderzoek te doen heb ik die antwoorden gekregen. Zo heb ik gekeken naar wat de grootste CMS concurrenten zijn die er bestaan, na wat gezocht te hebben op het internet kwam ik al snel bij WordPress, Shopify en Hubspot enz. Ook heb ik onderzoek gedaan naar de vraag wat de unique selling points zijn van deze concurrenten, en dat is vooral dat de user interface duidelijk en makkelijk is voor de gebruiker, ookal heeft de gebruiker niet zoveel kennis van CMS-systemen. En als laatste heb ik ook nog onderzoek gedaan naar wat voor een punten beter kunnen bij de concurrenie, zo kan ik kijken waarop ik kan letten zodat ik dit in het CMS van Blue Dragon kan verbeteren.
 
