@@ -8,7 +8,7 @@
 
 In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een CMS ontwikkelt die moet concurreren met professionele tegenhangers zoals WordPress en Magento. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
 
-In dit gebruiksvriendelijkheid onderzoek wil ik antwoord krijgen op de volgdende vragen:
+In dit gebruiksvriendelijkheid onderzoek wil ik antwoord krijgen op de volgende vragen:
 
 * Wat houdt gebruiksvriendelijkheid in?
 * Hoe maak ik iets gebruiksvriendelijk?
