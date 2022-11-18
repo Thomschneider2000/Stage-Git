@@ -30,7 +30,7 @@ Bij Competitive Analysis identificeer ik de belangrijkste concurrenten en maak i
 
 #### Usp&#x20;
 
-Bij de usp's benoem ik alle belangrijke unieke verkoop punten.
+Bij de usp's benoem ik alle belangrijke unieke verkooppunten.
 
 #### Comparison Chart
 
@@ -139,5 +139,9 @@ Uit deze vergelijkingstabel blijkt dat WordPress de beste optie is van deze CMS-
 
 ## Conclusie
 
-Met dit marktonderzoek wilde ik antwoord hebben op een aantal vragen die ik aan het begin van het onderzoek heb vastgesteld. Na wat onderzoek te doen heb ik die antwoorden gekregen. Zo heb ik gekeken naar wat de grootste CMS concurrenten zijn die er bestaan, na wat gezocht te hebben op het internet kwam ik al snel bij WordPress, Shopify en Hubspot enz. Ook heb ik onderzoek gedaan naar de vraag wat de unique selling points zijn van deze concurrenten, en dat is vooral dat de user interface duidelijk en makkelijk is voor de gebruiker, ookal heeft de gebruiker niet zoveel kennis van CMS-systemen. En als laatste heb ik ook nog onderzoek gedaan naar wat voor een punten beter kunnen bij de concurrenie, zo kan ik kijken waarop ik kan letten zodat ik dit in het CMS van Blue Dragon kan verbeteren.
+In dit onderzoek is gezocht naar een antwoord op de vraag: “wie zijn de concurrenten en wat zijn daar de unique selling points van?” Hiervoor heb ik een kwantitatief onderzoek uitgevoerd naar de huidige groei van de iT en de concurrenten die zich hierin bevinden op het vlak van CMS-systemen. Uit de resultaten naar de huidige concurrenten is gebleken dat er heel veel verschillende CMS-systemen zijn die allemaal weer andere unique selling points hebben. Zo heb je WordPress een van de allergrootste concurrenten die als unique selling point vooral gebruiksvriendelijkheid biedt. Nadat ik een opsomming heb gemaakt van alle unique selling points op het gebied van gebruiksvriendelijkheid, kan ik gaan kijken welke ik kan gaan toepassen bij de CMS van Blue Dragon.
+
+Ik heb voor dit onderzoek ook een vergelijkingstabel gemaakt met verschillende kenmerken van andere CMS-systemen. Ik heb deze kenmerken op basis van gebruiksvriendelijkheid gekozen omdat elk goed systeem dit nodig heeft. Uit die vergelijkingstabel is gebleken dat WordPress het meest gebruiksvriendelijk is en Drupal het minst. Dat Drupal de minste gebruiksvriendelijkheid heeft komt vooral door de complexe user interface dat dit systeem gebruikt. Daarentegen heeft Wordpress de meeste gebruiksvriendelijkheid, dit komt doordat de user interface goed en duidelijk is ingericht en dat de bewerk opties ook goed zijn aangegeven. Ook heb ik nog gekeken naar een aantal plus punten en minpunten van de concurrentie, ik heb dit gedaan om zo een beter beeld te krijgen van op welke features ik moet letten zodat ik deze ook beter kan visualiseren.
+
+Dus nu dat ik weet welke gebruiksvriendelijke aspecten de concurrenten gebruiken, kan ik gaan kijken naar welke aspecten er nog meer zijn en hoe ik die kan toetsen.
 
