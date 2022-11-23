@@ -78,15 +78,15 @@ Nu dat ik klaar ben met het ontwerpen van het login scherm ga ik beginnen met he
 
 </div>
 
-Zoals je ziet is het huidige dashboard ontwerp akelig leeg, er staan geen shortcuts of content in waar de gebruiker iets aan kan hebben. Daarom heb ik ervoor gekozen om het nieuwe dashboard vol te zetten met wat content modules. Als eerste heb ik gekozen voor een welkoms bericht waar wat informatie komt te staan over het CMS zelf.  In het blok onder het welkoms bericht heb ik een tabel staan met de laatste veranderingen. Zo kan je zien welke gebruiker wat heeft veranderd en op welke pagina dit is veranderd. Uiteindelijk kun je dan op de pagina naam klikken waar iets veranderd is. &#x20;
+Zoals je ziet is het huidige dashboard ontwerp akelig leeg, er staan geen shortcuts of content in waar de gebruiker iets aan kan hebben. Daarom heb ik ervoor gekozen om het nieuwe dashboard vol te zetten met wat content componenten. Als eerste heb ik gekozen voor een welkoms bericht waar wat informatie komt te staan over het CMS zelf.  In het blok onder het welkoms bericht heb ik een tabel staan met de laatste veranderingen. Zo kan je zien welke gebruiker wat heeft veranderd en op welke pagina dit is veranderd. Uiteindelijk kun je dan op de pagina naam klikken waar iets veranderd is. &#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/latestchangesmodule.png" alt=""><figcaption><p>Latest changes module</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/latestchangesmodule.png" alt=""><figcaption><p>Latest changes component</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Newsmodule.png" alt=""><figcaption><p>News module</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Newsmodule.png" alt=""><figcaption><p>News component</p></figcaption></figure>
 
 </div>
 
@@ -98,5 +98,32 @@ Tijdens het doornemen van het huidige CMS van Blue Dragon kom je soms veel terme
 
 <figure><img src="../.gitbook/assets/popovers.png" alt=""><figcaption></figcaption></figure>
 
-### Table module
+### Table Component
 
+Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt verwijderen. Bij het huidige design moet je elk item individueel verwijderen.
+
+<figure><img src="../.gitbook/assets/tabledesign.png" alt=""><figcaption></figcaption></figure>
+
+### Input fields & Error messages
+
+Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zodat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/activeinputfields.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/errrormessages.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+### Tree view
+
+Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina's die verschillende dieptes kent. Zo heb je bijvoorbeeld een "Home" pagina met daaronder alle andere pagina's die in de "Home" pagina verwezen zijn.
+
+<figure><img src="../.gitbook/assets/pageview.png" alt=""><figcaption></figcaption></figure>
+
+Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik oer
+
+<figure><img src="../.gitbook/assets/foldabletreeview.png" alt=""><figcaption></figcaption></figure>
