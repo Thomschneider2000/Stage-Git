@@ -46,7 +46,9 @@ Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar c
 
 ## De huisstijl van Blue Dragon
 
-Omdat Blue Dragon een huisstijl heeft moet ik mij houden aan wat verschillende design aspecten zoals het kleur gebruik, de verschillende lettertypes en het gebruik van het Blue Dragon logo. Het is wel fijn om een vaste huisstijl te hebben omdat ik dan makkelijk mijn design keuzes kan maken.
+Omdat Blue Dragon een huisstijl heeft moet ik mij houden aan wat verschillende design aspecten zoals het kleur gebruik, de verschillende lettertypes en het gebruik van het Blue Dragon logo. Het  is wel fijn om een vaste huisstijl te hebben omdat ik dan makkelijk mijn design keuzes kan maken.
+
+<figure><img src="../.gitbook/assets/logolayoutstyleguide.png" alt=""><figcaption></figcaption></figure>
 
 ## Mock-up
 
