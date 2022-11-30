@@ -12,6 +12,8 @@ Ik ben begonnen met een aantal user flows maken op basis van verschillende user 
 
 {% embed url="https://miro.com/app/board/uXjVPN12EWU=/?share_link_id=599190674290" %}
 
+Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo heb je bijvoorbeeld bij het aanmaken van een user de NAW gegevens nodig die helemaal geen meerwaarde hebben. Daarom heb ik ook besloten deze uit mijn design te houden. Ook heb je bij de inlog de keuze om een account aan te maken wat ook niet erg slim is aangezien iedereen die op de login pagina komt een account kan aanmaken.&#x20;
+
 ## Inspiratie
 
 Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem gebruikt redelijk jong is, ben ik gaan kijken naar een modern design wat erg duidelijk en gebruiksvriendelijk is. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen.    &#x20;
@@ -108,7 +110,7 @@ Voor het maken van het table component, heb ik gekozen voor een design dat ik ov
 
 ### Input fields & Error messages
 
-Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zodat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
+Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zo\*dat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
 
 <div>
 
@@ -120,12 +122,53 @@ Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg rui
 
 </div>
 
-### Tree view
+### Tree view Components
 
 Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina's die verschillende dieptes kent. Zo heb je bijvoorbeeld een "Home" pagina met daaronder alle andere pagina's die in de "Home" pagina verwezen zijn.
 
 <figure><img src="../.gitbook/assets/pageview.png" alt=""><figcaption></figcaption></figure>
 
-Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik oer
+Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik iedere row een andere colour gegeven zodat je makkelijker kunt zien in welke row je bezig bent.
 
 <figure><img src="../.gitbook/assets/foldabletreeview.png" alt=""><figcaption></figcaption></figure>
+
+Ook heb ik een andere form gemaakt waarin je een rol kunt toepassen aan een gebruiker, ook kun je in deze view zien aan welke website deze rol is gekoppeld. Daarom heb ik gekozen voor een tree view, omdat dit duidelijk aangeeft welke rol bij welke website past. Ik heb genoeg wit ruimte over gelaten aan de rechter kant, mocht er een lange naam in komen. Dit component kan niet verder verschuiven omdat de diepte van de tree view maar 2 is.
+
+<figure><img src="../.gitbook/assets/cmstreeview.png" alt=""><figcaption></figcaption></figure>
+
+### Accordion Components
+
+Voor het nieuwe design van Blue Dragons CMS heb ik een aantal accordion components gemaakt die wat informatie kunnen laten weergeven.&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/accordion1.png" alt=""><figcaption><p>Accordion1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/accordion2.png" alt=""><figcaption><p>Accordion2</p></figcaption></figure>
+
+</div>
+
+Zoals je kunt zien in de afbeelding hierboven heb ik 2 accordion components gemaakt die ik gebruik voor het nieuwe cms van Blue Dragon. De eerste afbeelding (Accordion1) is een nieuws component waar frequente updates en nieuwtjes komen over het CMS of Blue Dragon zelf.&#x20;
+
+In de tweede afbeelding (Accordion2) heb ik ook een accordion component gemaakt maar dan in plaats van dat er tekst uit klapt, ziet de gebruiker een dropdown met verschillende permissies die de gebruiker kan kiezen en deze toepassen aan een custom rol. Ik heb in dit geval gekozen voor een accordion component omdat je anders heel veel content krijgt op je pagina, daarom heb ik het opgedeeld onder verschillende kopjes.
+
+<div>
+
+<figure><img src="../.gitbook/assets/huidigeinput.png" alt=""><figcaption><p>Huidig Input Component</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/tabscomponents.png" alt=""><figcaption><p>Iteraties Input Component</p></figcaption></figure>
+
+</div>
+
+### Multi Language Tabs
+
+In de afbeelding hierboven kun je de huidige input zien en een aantal designs die ik heb gemaakt. In het CMS van Blue Dragon ben je verplicht om ook een Engelse versie van de inhoud in te vullen, dit geld overigens niet alleen voor de input. Maar omdat dit niet goed wordt aangegeven kan dit onduidelijk zijn voor de gebruiker omdat een tab component meestal als optioneel wordt gezien. Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te maken (Een voor de Nederlandstalige en de andere voor de Engelstalige) en die onder elkaar te zetten zodat de gebruiker dit niet over het oog ziet. Door ze onder elkaar te zetten geef je de gebruiker ook gelijk een richting, omdat je in de meeste gevallen van boven naar onder werkt.
+
+<figure><img src="../.gitbook/assets/inhoudnew.png" alt=""><figcaption></figcaption></figure>
+
+### Blok Components
+

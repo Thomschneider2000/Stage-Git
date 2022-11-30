@@ -4,7 +4,7 @@
 
 ## Inleiding
 
-Voor dit onderdeel van het project heb ik de opdracht gekregen om te kijken of het mogelijk is om de Bootstrap css code te converteren naar tailwind css. Dit kan door middel van een tool genaamd "Tailwindo". Tailwindo kan de Bootstrap code omzetten naar Tailwind alleen is dit niet heel nauwkeurig. Van daar is het ook mijn taak om te kijken of het beter is om de Bootstrap code te converteren naar Tailwind, of om het gewoon vanaf scratch te maken.
+Voor dit onderdeel van het project heb ik de opdracht gekregen om te kijken of het mogelijk is om de Bootstrap css code te converteren naar Tailwind css. Dit kan door middel van een tool genaamd "Tailwindo". Tailwindo kan de Bootstrap code omzetten naar Tailwind alleen is dit niet heel nauwkeurig. Van daar is het ook mijn taak om te kijken of het beter is om de Bootstrap code te converteren naar Tailwind, of om het gewoon vanaf scratch te maken.
 
 ## Tailwindo
 
@@ -54,3 +54,38 @@ Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is h
 
 </div>
 
+## Implementatie
+
+Maar om uiteindelijk mijn eigen design te laten runnen in de echte omgeving zijn wat meer stappen nodig. Omdat het al een bestaand project is met een eigen omgeving is het nogal lastig om ineens Tailwind te gebruiken in deze omgeving. Daarom heb ik een tutorial gevolgd om webpack.mix.js met Tailwind werkend te krijgen.
+
+{% embed url="https://tailwindcss.com/docs/guides/laravel#mix" %}
+
+<div>
+
+<figure><img src="../.gitbook/assets/package.json.png" alt=""><figcaption><p>Package.json</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/webpackmixss.png" alt=""><figcaption><p>Webpack.mix.js</p></figcaption></figure>
+
+</div>
+
+Omdat je in Laravel met allemaal verschillende routes werkt, moest ik deze aanpassen zodat ik Tailwind kan gebruiken binnen de omgeving. In de Webpack.mix.js kun je de standaard route een soort van omleiden zodat andere bestanden hier geen last van hebben. Zo heb ik een stukje code gemaakt die de Tailwind Css meeneemt in deze Laravel omgeving. Ik heb dit nu gedaan voor de "Auth-module.js". De Auth-module.js is een map waarin verschillende Blade views staan voor de login. Blade is de eenvoudige, maar krachtige templating-engine die met Laravel wordt meegeleverd. Het vervelende is nu wel dat Tailwind alleen werkt binnen de  "Auth-module" er zijn nog veel meer modules nodig die toegevoegd moeten worden om het CMS van Blue Dragon compleet te maken.
+
+In de package.json staan een aantal commands die ik kan gebruiken zodat ik Tailwind kan runnen in de omgeving. Zo heb je bijvoorbeeld:&#x20;
+
+```
+npm run watch - Builds process automatically
+
+npm run prod - Builds process manually with no commands
+
+npm run dev - Builds whole process manually
+```
+
+Maar omdat de omgeving draait via docker moet ik deze ook elke keer weer updaten via composer. Daarvoor gebruik ik de volgende code:
+
+```
+Composer run publish - Publish the newly build code
+```
+
+Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal directory paths veranderen zodat de images goed worden ingeladen.
