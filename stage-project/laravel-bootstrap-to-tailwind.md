@@ -56,7 +56,7 @@ Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is h
 
 ## Implementatie
 
-Maar om uiteindelijk mijn eigen design te laten runnen in de echte omgeving zijn wat meer stappen nodig. Omdat het al een bestaand project is met een eigen omgeving is het nogal lastig om ineens Tailwind te gebruiken in deze omgeving. Daarom heb ik een tutorial gevolgd om webpack.mix.js met Tailwind werkend te krijgen.
+Maar om uiteindelijk mijn eigen design te laten runnen in de echte omgeving zijn er wat meer stappen nodig. Omdat het al een bestaand project is met een eigen omgeving is het nogal lastig om ineens Tailwind te gebruiken in deze omgeving. Daarom heb ik een tutorial gevolgd om webpack.mix.js met Tailwind werkend te krijgen.
 
 {% embed url="https://tailwindcss.com/docs/guides/laravel#mix" %}
 
