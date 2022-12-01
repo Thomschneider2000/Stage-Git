@@ -180,7 +180,7 @@ Aan het einde van elke sprint laat ik de voortgang van het project zien en vraag
 
 ## Financiën en Risico’s <a href="#_toc327583394" id="_toc327583394"></a>
 
-### Risico’s en uitwijkactiviteiten <a href="#_toc90035037" id="_toc90035037"></a>
+### Risico’s & Uitwijkactiviteiten <a href="#_toc90035037" id="_toc90035037"></a>
 
 <figure><img src="../.gitbook/assets/risicotable.png" alt=""><figcaption></figcaption></figure>
 

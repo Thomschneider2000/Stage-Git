@@ -104,13 +104,15 @@ Tijdens het doornemen van het huidige CMS van Blue Dragon kom je soms veel terme
 
 ### Table Component
 
-Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt verwijderen. Bij het huidige design moet je elk item individueel verwijderen.
+Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen.
 
 <figure><img src="../.gitbook/assets/tabledesign.png" alt=""><figcaption></figcaption></figure>
 
 ### Input fields & Error messages
 
-Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zo\*dat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
+Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zodat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
+
+&#x20;
 
 <div>
 
@@ -122,17 +124,21 @@ Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg rui
 
 </div>
 
+Ook heb ik de error messages een beetje aangepast zodat deze duidelijker zijn voor de eindgebruiker. Voor meer informatie over het maken van duidelijke error messages verwijs ik u door naar het volgende artikel:
+
+{% embed url="https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f" %}
+
 ### Tree view Components
 
-Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina's die verschillende dieptes kent. Zo heb je bijvoorbeeld een "Home" pagina met daaronder alle andere pagina's die in de "Home" pagina verwezen zijn.
+Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina's die verschillende dieptes kent. Zo heb je bijvoorbeeld een "Home" pagina met daaronder alle andere pagina's die in de "Home" pagina verwezen zijn. Dus in dit geval wordt de pagina "test2" verwezen in de pagina "test1".
 
 <figure><img src="../.gitbook/assets/pageview.png" alt=""><figcaption></figcaption></figure>
 
-Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik iedere row een andere colour gegeven zodat je makkelijker kunt zien in welke row je bezig bent.
+Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik iedere row een andere kleur gegeven zodat je makkelijker kunt zien in welke row je bezig bent.
 
 <figure><img src="../.gitbook/assets/foldabletreeview.png" alt=""><figcaption></figcaption></figure>
 
-Ook heb ik een andere form gemaakt waarin je een rol kunt toepassen aan een gebruiker, ook kun je in deze view zien aan welke website deze rol is gekoppeld. Daarom heb ik gekozen voor een tree view, omdat dit duidelijk aangeeft welke rol bij welke website past. Ik heb genoeg wit ruimte over gelaten aan de rechter kant, mocht er een lange naam in komen. Dit component kan niet verder verschuiven omdat de diepte van de tree view maar 2 is.
+Ook heb ik een andere form gemaakt waarin je een rol kunt toepassen aan een gebruiker, in deze view kun je zien aan welke website deze rol is gekoppeld. Daarom heb ik gekozen voor een tree view, omdat dit duidelijk aangeeft welke rol bij welke website past. Ik heb genoeg wit ruimte over gelaten aan de rechter kant, mocht er een lange naam in komen. Dit component kan niet verder verschuiven omdat de diepte van de tree view niet meer dan 2 is.
 
 <figure><img src="../.gitbook/assets/cmstreeview.png" alt=""><figcaption></figcaption></figure>
 
@@ -184,7 +190,7 @@ Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te ma
 
 ### Blok Components
 
-Tijdens het maken van de blok component heb ik gekozen voor dit design, je kunt deze blok componenten aanmaken boven en onderaan de pagina, overigens kun je deze dan natuurlijk ook weer verwijderen als je op het prullebak icoontje klikt. Ook heb ik onderaan elk component een button gemaakt zodat je een nieuwe regel kunt toevoegen. Ik heb ervoor gekozen om deze regels in een apart vak neer te zetten zodat het duidelijk is dat dit gaat om de waardes van een afbeelding of selectie.
+Tijdens het maken van de blok component heb ik gekozen voor dit design, je kunt deze blok componenten aanmaken boven en onderaan de pagina, overigens kun je deze dan natuurlijk ook weer verwijderen als je op het prullenbak icoontje klikt. Ook heb ik onderaan elk component een button gemaakt zodat je een nieuwe regel kunt toevoegen. Ik heb ervoor gekozen om deze regels in een apart vak neer te zetten zodat het duidelijk is dat dit gaat om de waardes van een afbeelding of selectie.
 
 <div>
 

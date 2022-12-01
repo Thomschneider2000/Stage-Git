@@ -67,3 +67,5 @@ Voor dit project ga ik een nieuw design maken voor het CMS van Blue Dragon, ik g
 > Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
 
 Een uitgebreide oplossing en planning staat omschreven in het [Project Plan](stage-project/project-plan.md).
+
+## Proces & Resultaten
