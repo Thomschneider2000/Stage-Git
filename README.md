@@ -46,9 +46,11 @@ Beste lezer,
 
 Dit Portfolio beschrijft het proces dat ik doorlopen heb tijdens het ontwerpen en realiseren van een nieuwe user interface voor het modulaire content managementsysteem dat Blue dragon in gebruik heeft.
 
-Mijn naam is Thom Schneider, ik heb het afgelopen semester (semester 5) stage gelopen bij het bedrijf Blue Dragon in 's-Hertogenbosch. Ik ben bij het bedrijf gekomen door zelf op zoek te gaan naar een bedrijf wat ik goed bij mij vond passen. Blue Dragon stond mij erg aan omdat de website er goed en verzorgt uitziet, de verschillende diensten die ze aanbieden en omdat er nog redelijk jong personeel in dienst is. Ook ziet het pand er heel mooi uit en zorgt dit voor een goede werkomgeving.&#x20;
+Mijn naam is Thom Schneider, ik heb het afgelopen semester (semester 5) stage gelopen bij het bedrijf Blue Dragon in 's-Hertogenbosch. Ik ben bij het bedrijf gekomen door zelf op zoek te gaan naar een bedrijf wat ik goed bij mij vond passen. Blue Dragon stond mij erg aan omdat de website er goed en verzorgt uitziet, de verschillende diensten die ze aanbieden en omdat er redelijk jong personeel in dienst is. Ook ziet het pand er heel mooi uit en zorgt dit voor een goede werkomgeving.&#x20;
 
 ## Het Bedrijf
+
+
 
 ## De Opdracht
 
@@ -58,4 +60,10 @@ Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen 
 
 ### De Oplossing
 
-Om het probleem op te lossen ga ik opzoek naar wat de verschillende eisen zijn om iets gebruiksvriendelijk te maken en hoe ik iets gebruiksvriendelijk maak. Natuurlijk hangt dit ook af van de doelgroep dus daarom is het ook handig om een goed beeld te krijgen van wie de doelgroep is.&#x20;
+Om het probleem op te lossen ga ik opzoek naar wat de verschillende eisen zijn om iets gebruiksvriendelijk te maken en hoe ik iets gebruiksvriendelijk maak. Natuurlijk hangt dit ook af van de doelgroep dus daarom is het ook handig om een goed beeld te krijgen van wie de doelgroep is. Aan de hand van het maken van een aantal persona's kan ik een goed beeld krijgen van de doelgroep en de verschillende eisen en behoeftes waar ik op moet letten.&#x20;
+
+Voor dit project ga ik een nieuw design maken voor het CMS van Blue Dragon, ik ga dit designen in Adobe XD. Het design van het nieuwe CMS moet goed aansluiten op de eisen en behoeftes van de doelgroep.
+
+> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
+
+Een uitgebreide oplossing en planning staat omschreven in het [Project Plan](stage-project/project-plan.md).
