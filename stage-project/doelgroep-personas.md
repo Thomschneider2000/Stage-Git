@@ -95,7 +95,7 @@ Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd ka
 
 ## Persona's
 
-Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik heb mijn persona's gemaakt met een tool van hubspot.&#x20;
+Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik heb mijn persona's gemaakt met een tool van Hubspot.&#x20;
 
 <div>
 

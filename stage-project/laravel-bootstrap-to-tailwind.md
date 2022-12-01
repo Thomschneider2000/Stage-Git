@@ -88,4 +88,10 @@ Maar omdat de omgeving draait via docker moet ik deze ook elke keer weer updaten
 Composer run publish - Publish the newly build code
 ```
 
-Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal directory paths veranderen zodat de images goed worden ingeladen.
+Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal directory paths veranderen zodat de images goed worden ingeladen. Uiteindelijk is dit mij gelukt met behulp van wat research op het internet, ook heb ik een handige video gevonden die goed uitlegde hoe ik dit moest doen.
+
+{% embed url="https://www.youtube.com/watch?v=tdtFHOtfy0w" %}
+
+## Conclusie
+
+Het omzetten van Laravel Bootstrap naar Tailwind was niet super moeilijk omdat er duidelijk was aangegeven hoe ik dit moest omzetten. Het moeilijke gedeelte van dit deel van het project was juist het overzetten van mijn Tailwind code in de huidige CMS omgeving. Dit was moeilijk omdat ik Tailwind moest installeren in een bestaand project, wat het vooral lastig maakte is dat Laravel werkt met bepaalde routes die bestanden aan elkaar linken. Dus om Tailwind in die omgeving te krijgen moet ik de Tailwind files ook meenemen in die routes die al bepaald zijn. Dit kan ik doen door de Webpack.mix.js file aan te passen en mijn eigen route te maken om de Tailwind files mee te nemen. Na wat onderzoek gedaan te hebben is het mij eindelijk gelukt om Tailwind te runnen binnen de huidige omgeving.

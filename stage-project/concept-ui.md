@@ -16,7 +16,7 @@ Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo 
 
 ## Inspiratie
 
-Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem gebruikt redelijk jong is, ben ik gaan kijken naar een modern design wat erg duidelijk en gebruiksvriendelijk is. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen.    &#x20;
+Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem in gebruik heeft tools zoals Canva, LMS en andere soorten CMS gebruikt, ben ik gaan zoeken naar een modern en gebruiksvriendelijk design wat aansluit op deze tools die gebruikt worden. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen.    &#x20;
 
 <div>
 
@@ -154,6 +154,12 @@ Zoals je kunt zien in de afbeelding hierboven heb ik 2 accordion components gema
 
 In de tweede afbeelding (Accordion2) heb ik ook een accordion component gemaakt maar dan in plaats van dat er tekst uit klapt, ziet de gebruiker een dropdown met verschillende permissies die de gebruiker kan kiezen en deze toepassen aan een custom rol. Ik heb in dit geval gekozen voor een accordion component omdat je anders heel veel content krijgt op je pagina, daarom heb ik het opgedeeld onder verschillende kopjes.
 
+### Multi Language Tabs
+
+In de afbeelding hierboven kun je de huidige input zien en een aantal designs die ik heb gemaakt. In het CMS van Blue Dragon ben je verplicht om ook een Engelse versie van de inhoud in te vullen, dit geld overigens niet alleen voor de input. Maar omdat dit niet goed wordt aangegeven kan dit onduidelijk zijn voor de gebruiker omdat een tab component meestal als optioneel wordt gezien.&#x20;
+
+
+
 <div>
 
 <figure><img src="../.gitbook/assets/huidigeinput.png" alt=""><figcaption><p>Huidig Input Component</p></figcaption></figure>
@@ -164,11 +170,29 @@ In de tweede afbeelding (Accordion2) heb ik ook een accordion component gemaakt 
 
 </div>
 
-### Multi Language Tabs
+Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te maken (Een voor de Nederlandstalige en de andere voor de Engelstalige) en die onder elkaar te zetten zodat de gebruiker dit niet over het oog ziet. Door ze onder elkaar te zetten geef je de gebruiker ook gelijk een richting, omdat je in de meeste gevallen van boven naar onder werkt.
 
-In de afbeelding hierboven kun je de huidige input zien en een aantal designs die ik heb gemaakt. In het CMS van Blue Dragon ben je verplicht om ook een Engelse versie van de inhoud in te vullen, dit geld overigens niet alleen voor de input. Maar omdat dit niet goed wordt aangegeven kan dit onduidelijk zijn voor de gebruiker omdat een tab component meestal als optioneel wordt gezien. Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te maken (Een voor de Nederlandstalige en de andere voor de Engelstalige) en die onder elkaar te zetten zodat de gebruiker dit niet over het oog ziet. Door ze onder elkaar te zetten geef je de gebruiker ook gelijk een richting, omdat je in de meeste gevallen van boven naar onder werkt.
+<div>
 
-<figure><img src="../.gitbook/assets/inhoudnew.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/multilangned.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/multilangeng.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### Blok Components
+
+Tijdens het maken van de blok component heb ik gekozen voor dit design, je kunt deze blok componenten aanmaken boven en onderaan de pagina, overigens kun je deze dan natuurlijk ook weer verwijderen als je op het prullebak icoontje klikt. Ook heb ik onderaan elk component een button gemaakt zodat je een nieuwe regel kunt toevoegen. Ik heb ervoor gekozen om deze regels in een apart vak neer te zetten zodat het duidelijk is dat dit gaat om de waardes van een afbeelding of selectie.
+
+<div>
+
+<figure><img src="../.gitbook/assets/blokcomponent1.png" alt=""><figcaption><p>Blok Component 1</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/blokcomponent2.png" alt=""><figcaption><p>Blok Component 2</p></figcaption></figure>
+
+</div>
 
