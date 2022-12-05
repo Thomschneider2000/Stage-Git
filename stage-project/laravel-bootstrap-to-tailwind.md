@@ -10,7 +10,7 @@ Voor dit onderdeel van het project heb ik de opdracht gekregen om te kijken of h
 
 Voor het omzetten van de Bootstrap code gebruik ik de tool Tailwindo, Deze tool kan CSS framework (momenteel Bootstrap) classes in HTML/PHP (een van uw keuze) bestanden converteren naar gelijkwaardige Tailwind CSS classes.
 
-Voor het omzetten van de code moet je composer downloaden om Tailwindo te runnen. je voert dan de volgende command in:&#x20;
+Voor het omzetten van de code moet je composer hebben om Tailwindo te runnen. je voert dan de volgende command in:&#x20;
 
 ```
 composer global require awssat/tailwindo
