@@ -202,3 +202,16 @@ Tijdens het maken van de blok component heb ik gekozen voor dit design, je kunt 
 
 </div>
 
+### Formulier Components
+
+In het huidige component om een formulier aan te maken, kun je zien dat de input velden veelste lang zijn. Daarom heb ik met mijn design de velden kleiner gemaakt zodat het er beter uit ziet. Ik heb het veld waarin je verschillende e-mails kunt zetten wel langer gelaten zodat je de e-mails nog kunt lezen. Ook heb ik er weer voor gekozen om de multi language option weg te laten, en ze gewoon onder elkaar te zetten zo vergeet de gebruiker niet om deze ook nog in te vullen. Verder heb ik ook nog een tool tip icoontje neergezet bij het veld "Mail type", ik heb dit gedaan omdat er een aantal termen in de dropdown staan die niet erg bekend zijn bij gebruikers zonder technische kennis.&#x20;
+
+<div>
+
+<figure><img src="../.gitbook/assets/huidigformulieraanmaken.png" alt=""><figcaption><p>Huidige Formulier Component</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/nieuwformulieraanmaken.png" alt=""><figcaption><p>Nieuwe Formulier Component</p></figcaption></figure>
+
+</div>
