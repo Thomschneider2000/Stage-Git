@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Project plan Blue dragon Thom Schneider-1.pdf" %}
+{% file src="../.gitbook/assets/Projectplan Gefinaliseerd.pdf" %}
 Projectplan Thom Schneider&#x20;
 {% endfile %}
 
@@ -104,45 +104,25 @@ Het testen wordt gedaan in de vorm van code reviews, deze code reviews worden lo
 
 Tijdens mijn stageproject ga ik de CMD onderzoeksmethode gebruiken. Ik heb voor deze methode gekozen omdat het een goede manier biedt om de verschillende overeenkomsten tussen onderzoeksmethoden te begrijpen, zodat ik een geschikte methode of combinatie van methodes kan kiezen.
 
-<details>
-
-<summary>Library</summary>
+### Library
 
 Voor dit onderzoek gedeelte ga ik een product analysis doen om te kijken wat voor een UI al bestaan en hoe ik iets uniek kan maken. Ik ga ook onderzoek doen naar wat het meest geschikte framework is om te gebruiken wat voldoet aan de gestelde eisen.
 
-</details>
-
-<details>
-
-<summary>Field</summary>
+### Field
 
 Voor field research ga ik een doelgroep onderzoek doen om de wensen van de doelgroep beter te kunnen begrijpen. Tijdens het maken van dit project ga ik ook nog wat onderzoek doen op het internet om te kijken wat en waarom bepaalde dingen gemaakt zijn.
 
-</details>
-
-<details>
-
-<summary>Lab</summary>
+### Lab
 
 Bij dit gedeelte van het onderzoek ga ik verschillende prototypes maken om te controleren of het product werkt en of het design aanspreekt en gebruiksvriendelijk is. Hiervoor wil ik user tests gaan doen en usability tests zodat ik kan zien of er nog iteraties moeten komen.
 
-</details>
+### Showroom
 
-<details>
+Het is handig om de stakeholders up-to-date te houden met de voortgang van mijn project, ik doe dit door gebruik te maken van de showroom methode. Het is goed om de unique selling points te laten zien, want zo krijgen stakeholders inzicht van wat deze service uniek maakt.
 
-<summary>Showroom</summary>
-
-Het is handig om de stakeholders up-to-date te houden met de voortgang van mijn project, ik doe dit door gebruik te maken van de showroom methode. Het is goed om de unique selling points te laten zien, want zo krijgen stakeholders inzicht van wat deze service uniek maakt
-
-</details>
-
-<details>
-
-<summary>Workshop</summary>
+### Workshop
 
 Bij dit project ga ik meerdere dingen gebruiken van “Workshop”, dit zal in de vorm zijn van proof of concepts en prototypes.
-
-</details>
 
 ## Opdeling Project
 

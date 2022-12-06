@@ -12,7 +12,7 @@
 
 **Stageperiode:** 29-08-2022 t/m 20-01-2023
 
-**Aantal werkdagen:** Nog niet van toepassing
+**Aantal werkdagen:** 63 dagen (5 dec 2022)
 
 ## Gegevens Bedrijf
 

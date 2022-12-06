@@ -16,4 +16,7 @@ Het bevat alle veelgebruikte componenten die een website nodig heeft, zoals knop
 
 Het installeren van Flowbite was niet moeilijk, op de website staat een goede en duidelijke tutorial over hoe je Flowbite moet installeren. Je kunt dit doen via een CDN link wat heel makkelijk toegang biedt tot Flowbite, maar omdat ik in een bestaande omgeving werk moet ik dit installeren met Npm.&#x20;
 
+Voor meer informatie over het installeren van Flowbite, verwijs ik u door naar deze video.
+
 {% embed url="https://youtu.be/KaLxCiilHns" %}
+

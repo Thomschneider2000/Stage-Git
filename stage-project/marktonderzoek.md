@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Marktonderzoek BlueDragon-1.pdf" %}
+{% file src="../.gitbook/assets/Marktonderzoek Gefinaliseerd.pdf" %}
 
 ## Inleiding
 
@@ -60,55 +60,31 @@ WordPress is veruit de populairste CMS die er bestaat, ruim 37% van alle website
 
 Bij dit onderdeel van het onderzoek ga ik research doen naar wat de nadelen zijn van de concurrentie. In dit geval pak ik weer de concurrent WordPress, omdat dit een goed voorbeeld is van een gebruiksvriendelijke CMS. Ik som deze nadelen op om zo een goed overzicht te krijgen op welke punten ik moet letten voor mijn project.
 
-<details>
-
-<summary>Moeilijkheidsgraad</summary>
+### Moeilijkheidsgraad
 
 Het kan moeilijk zijn om je weg te vinden in het ontwerp, de ontwikkeling en het onderhoud van WordPress, vooral als je geen technische ervaring hebt.
 
-</details>
-
-<details>
-
-<summary>De kosten</summary>
+### De kosten
 
 Hoewel het platform WordPress gratis te downloaden is, zijn er allerlei thema’s die wel geld kosten. Het hosten van een website via WordPress kost minimaal € 4,00 dit kan oplopen tot € 45,00.
 
-</details>
-
-<details>
-
-<summary>Kwetsbaarheid van de website</summary>
+### Kwetsbaarheid van de website
 
 Veiligheid is een grote uitdaging voor veel gebruikers. Alleen al het feit dat WordPress het meest gebruikte CMS is, maakt het een belangrijk doelwit voor cybercriminelen. De grote afhankelijkheid van plug-ins die door verschillende mensen zijn ontwikkeld, verhoogt ook de kans dat kwaadaardige code naar de functionaliteiten van uw site glipt.
 
-</details>
-
-<details>
-
-<summary>Frequente updates</summary>
+### Frequente updates
 
 Het is niet genoeg om WordPress gewoon te installeren. Je moet verschillende plug-ins en thema's installeren om ervoor te zorgen dat het goed functioneert. Hoe meer plug-ins u gebruikt, hoe meer compatibiliteitsproblemen je zult krijgen.
 
-</details>
-
-<details>
-
-<summary>Slechte SEO</summary>
+### Slechte SEO
 
 De SEO-vriendelijkheid van WordPress kan problemen opleveren voor mensen zonder SEO- ervaring. In WordPress, als de inhoud is gemarkeerd in veel categorieën of is over-tagged, Google markeert het als dubbele inhoud. Dit kan de positie van uw site op de SERP's aanzienlijk beïnvloeden.
 
-</details>
-
-<details>
-
-<summary>Trage laad snelheid</summary>
+### Trage laad snelheid
 
 WordPress is nog steeds een traag platform door alle toegevoegde plug-ins, databases en codebases. Dat zijn echter niet de enige dingen die uw website kunnen vertragen. Grote afbeeldingen, veel tekst op een pagina en onbetrouwbare hosting kunnen de snelheid van uw website beïnvloeden.&#x20;
 
 Paginasnelheid is cruciaal voor uw website. U wilt een snel ladende website zodat uw publiek niet ongeduldig wordt en besluit weg te gaan, waardoor u zaken kunt verliezen omdat ze niet zien wat u te bieden hebt.
-
-</details>
 
 ## De USP's (Unique Selling Points)
 
