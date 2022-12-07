@@ -62,9 +62,9 @@ Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen 
 
 Om het probleem op te lossen ga ik opzoek naar wat de verschillende eisen zijn om iets gebruiksvriendelijk te maken en hoe ik iets gebruiksvriendelijk maak. Natuurlijk hangt dit ook af van de doelgroep dus daarom is het ook handig om een goed beeld te krijgen van wie de doelgroep is. Aan de hand van het maken van een aantal persona's kan ik een goed beeld krijgen van de doelgroep en de verschillende eisen en behoeftes waar ik op moet letten.&#x20;
 
-Voor dit project ga ik een nieuw design maken voor het CMS van Blue Dragon, ik ga dit designen in Adobe XD. Het design van het nieuwe CMS moet goed aansluiten op de eisen en behoeftes van de doelgroep.
+Design Challenge:
 
-> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
+> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat zij sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
 
 Een uitgebreide oplossing en planning staat omschreven in het [Project Plan](stage-project/project-plan.md).
 
