@@ -2,11 +2,11 @@
 
 <figure><img src="../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Doelgroep Persona.pdf" %}
+{% file src="../.gitbook/assets/Doelgroep Persona Gefinaliseerd.pdf" %}
 
 ## Inleiding
 
-Nu dat ik weet hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
+Nu dat ik weet waar de fouten liggen binnen het huidige design en hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
 
 ## Onderzoeksmethoden
 

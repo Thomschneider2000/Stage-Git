@@ -6,11 +6,14 @@
 
 ## Inleiding
 
-In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een CMS ontwikkelt die moet concurreren met professionele tegenhangers zoals WordPress en Magento. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
+In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een eigen CMS ontwikkelt waarin klanten aanpassingen kunnen maken aan verschillende componenten. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
 
 In dit gebruiksvriendelijkheid onderzoek wil ik antwoord krijgen op de volgende vragen:
 
 * Wat houdt gebruiksvriendelijkheid in?
+* Wat maakt het huidige design niet gebruiksvriendelijk?
+* Waarom heeft Blue Dragon dit zo aangepakt?
+* Hoe voorkomt Blue Dragon dit de volgende keer?
 * Hoe maak ik iets gebruiksvriendelijk?
 * Wat zijn de vereisten om iets gebruiksvriendelijk te maken?
 * Hoe kan ik testen of iets gebruiksvriendelijk is?
@@ -27,13 +30,13 @@ Tijdens dit onderzoek heb ik gekozen voor de onderzoeksmethode “Literature stu
 
 Voor dit onderzoek heb ik gekozen voor de “Trend Analysis" onderzoeksmethode, omdat ik wil weten welke UX-trends er op dit moment populair zijn. Vanuit dit standpunt wil ik dan gaan kijken of ik dit ook kan toepassen bij mijn project.
 
-## Wat is gebruiksvriendelijkheid?
+## Wat houdt gebruiksvriendelijkheid in?
 
 Misschien is het leuk om te beginnen met een definitie. Want wat is nu eigenlijk gebruiksvriendelijkheid? Experts zeggen hierover het volgende:
 
 > _” Gebruiksvriendelijkheid is een concept dat onder andere door ergonomen wordt bestudeerd. Iets is gebruiksvriendelijk wanneer een beoogde eindgebruiker van een product, het effectief, efficiënt en naar tevredenheid kan gebruiken”._
 
-Gebruiksvriendelijkheid, ook wel usability genoemd, is een indicatie voor hoe snel en eenvoudig een bezoeker informatie kan vinden op een website. Het gaat hierbij om de mate van effectiviteit en efficiëntie. Bezoekers houden van websites/apps die eenvoudig en snel in gebruik zijn, dat bespaart namelijk tijd en ergernissen. Heb je een gebruiksvriendelijke website dan is de kans groter dat er meer bezoekers naar de website komen.&#x20;
+Gebruiksvriendelijkheid, ook wel usability genoemd, is een indicatie voor hoe snel en eenvoudig een bezoeker informatie kan vinden op een website. Het gaat hierbij om de mate van effectiviteit en efficiëntie. Bezoekers houden van websites/apps die eenvoudig en snel in gebruik zijn, dat bespaart namelijk tijd en ergernissen.&#x20;
 
 Een voorbeeld van gebruiksvriendelijkheid is, bij het invullen van een contact of bestelformulier dat bezoekers duidelijke aanwijzingen en beschrijvingen moeten krijgen om zonder problemen de juiste informatie in te vullen.
 
@@ -42,6 +45,16 @@ Een voorbeeld van gebruiksvriendelijkheid is, bij het invullen van een contact o
 De gebruiksvriendelijkheid bepaald de ervaring van de gebruiker van je website. Hierbij moet je denken aan bijvoorbeeld de navigatie, lay-out van de pagina, typografie en kleurgebruik. Het ligt ook aan de websitesoftware, als deze snel en makkelijk is kan de bezoeker beter gebruik maken van de website voor een betere ervaring.&#x20;
 
 Maar waarom is gebruiksvriendelijkheid nu belangrijk? Een gebruiksvriendelijke website leidt namelijk tot terugkerende bezoekers wat kan resulteren in loyaliteit, meer conversies en interactie met de klant.
+
+## Welke aspecten maken het CMS van Blue Dragon niet gebruiksvriendelijk?
+
+Omdat er tijdens de ontwikkeling van het maken van het CMS geen rekening is gehouden dat klanten dit CMS ook gaan gebruiken, is het niet bepaald gebruiksvriendelijk voor de klanten.  Verschillende aspecten die het huidige CMS onvriendelijk maken zijn de moeilijke termen die gebruikt worden, dat in sommige gevallen de workflow niet klopt en dat er een aantal UX richtlijnen niet gevolgd zijn.&#x20;
+
+## ![](../.gitbook/assets/afbeelding.png)
+
+In dit geval om een rol aan te maken kun je een keuze maken welke guard je wil gebruiken, maar wat is nu weer een guard? Dit soort dingen komen veel vaker voor, en is het daarom minder gebruiksvriendelijk. Ook staan er een aantal UX keuzes in het huidige design die niet volgens de richtlijnen gaan. Zoals verschillende kleuren CTA's, dit geeft onduidelijkheid over wat wel en niet clickable is. Ook waren er een aantal gevallen waar de workflow niet klopt hier ga ik verder op in tijdens de [concept fase](concept-ui.md#user-flows).
+
+De reden dat dit zo is ontwikkeld komt doordat het CMS in eerste instantie alleen intern werd gebruikt door de developers, maar omdat er steeds meer vraag kwam vanuit de klant om zelf hun componenten/inhoud aan te passen heeft Blue Dragon besloten om dit CMS ook aan de klant te leveren.
 
 ## Wat zijn de belangrijkste kenmerken van gebruiksvriendelijkheid?
 
@@ -76,6 +89,8 @@ Tegenwoordig zijn de meeste CMS online oftewel web gebaseerde systemen. Het syst
 ### Stabiliteit
 
 Hiermee wordt bedoeld dat het systeem doorlopend goed blijft functioneren zonder regelmatig vast te lopen of uit te vallen.
+
+{% embed url="https://www.tss.nl/gebruiksvriendelijk-cms/" %}
 
 ## Waarom test ik de gebruiksvriendelijkheid?
 
@@ -126,3 +141,7 @@ In dit onderzoek is gezocht naar een antwoord op de vraag: “Hoe maak ik iets g
 Uit de resultaten van dit onderzoek is gebleken dat er vele verschillende aspecten zijn om iets gebruiksvriendelijk te maken. Zo zijn de grootste en belangrijkste aspecten; overzichtelijkheid, herkenbaarheid, logica en de samenhang van het systeem. Om deze aspecten te testen zijn er ook veel methodes die toegepast kunnen worden om zo informatie te verkrijgen over de gebruikservaring.&#x20;
 
 De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen.
+
+## Vervolg stap
+
+Nu dat ik weet welke aspecten het huidige CMS van Blue Dragon onvriendelijk maken, en ook hoe ik deze weer gebruiksvriendelijk maak. Ga ik onderzoek doen naar de doelgroep die dit CMS gebruikt, zo ga ik kritische vragen stellen over het huidige CMS.
