@@ -4,7 +4,7 @@
 
 ## Inleiding
 
-Voor dit onderdeel van het project heb ik de opdracht gekregen om te kijken of het mogelijk is om de Bootstrap css code te converteren naar Tailwind css. Dit kan door middel van een tool genaamd "Tailwindo". Tailwindo kan de Bootstrap code omzetten naar Tailwind alleen is dit niet heel nauwkeurig. Van daar is het ook mijn taak om te kijken of het beter is om de Bootstrap code te converteren naar Tailwind, of om het gewoon vanaf scratch te maken.
+Voor dit onderdeel van het project heb ik de opdracht gekregen om te kijken of het mogelijk is om de Bootstrap css code te converteren naar Tailwind css. Dit kan door middel van een tool genaamd "Tailwindo". Tailwindo kan de Bootstrap code omzetten naar Tailwind alleen lees ik dat dit niet heel nauwkeurig is. Van daar is het ook mijn taak om te kijken of het beter is om de Bootstrap code te converteren naar Tailwind, of om het gewoon vanaf scratch te maken.
 
 ## Tailwindo
 
@@ -30,7 +30,7 @@ Als u meer informatie wilt over het gebruik van Tailwindo dan verwijs ik u naar 
 
 ## Resultaat
 
-Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding 1) is geconverteerd naar Tailwind code (Afbeelding 2). Als de code uit afbeelding 2 uitgevoerd wordt moet het hetzelfde weergeven als in afbeelding 1 maar dat gebeurd niet omdat het converteren niet super nauwkeurig is.
+Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding 1) is geconverteerd naar Tailwind code (Afbeelding 2). Als de code uit afbeelding 2 uitgevoerd wordt moet het hetzelfde weergeven als in afbeelding 1, wat een goed resultaat geeft want de Bootstrap code is omgezet naar Tailwind.
 
 <div>
 
@@ -42,7 +42,7 @@ Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding
 
 </div>
 
-Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken.
+Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken. Maar het is wel fijn om alvast een start te hebben met de Tailwind code, dus is het makkelijker om verder te gaan in dat geconverteerde bestand.
 
 <div>
 
@@ -94,4 +94,4 @@ Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal dir
 
 ## Conclusie
 
-Het omzetten van Laravel Bootstrap naar Tailwind was niet super moeilijk omdat er duidelijk was aangegeven hoe ik dit moest omzetten. Het moeilijke gedeelte van dit deel van het project was juist het overzetten van mijn Tailwind code in de huidige CMS omgeving. Dit was moeilijk omdat ik Tailwind moest installeren in een bestaand project, wat het vooral lastig maakte is dat Laravel werkt met bepaalde routes die bestanden aan elkaar linken. Dus om Tailwind in die omgeving te krijgen moet ik de Tailwind files ook meenemen in die routes die al bepaald zijn. Dit kan ik doen door de Webpack.mix.js file aan te passen en mijn eigen route te maken om de Tailwind files mee te nemen. Na wat onderzoek gedaan te hebben is het mij eindelijk gelukt om Tailwind te runnen binnen de huidige omgeving.
+Het omzetten van Laravel Bootstrap naar Tailwind was niet super moeilijk omdat er duidelijk was aangegeven hoe ik dit moest omzetten. Ondanks dat ik heb gelezen dat de tool Tailwindo niet super nauwkeurig werkt heb ik het toch besloten om verder te werken aan het geconverteerde bestand omdat je dan al een soort van head start hebt, dus is Tailwindo zeker wel de moeite waard. Het moeilijke gedeelte van dit deel van het project was juist het overzetten van mijn Tailwind code in de huidige CMS omgeving. Dit was moeilijk omdat ik Tailwind moest installeren in een bestaand project, wat het vooral lastig maakte is dat Laravel werkt met bepaalde routes die bestanden aan elkaar linken. Dus om Tailwind in die omgeving te krijgen moet ik de Tailwind files ook meenemen in die routes die al bepaald zijn. Dit kan ik doen door de Webpack.mix.js file aan te passen en mijn eigen route te maken om de Tailwind files mee te nemen. Na wat onderzoek gedaan te hebben is het mij eindelijk gelukt om Tailwind te runnen binnen de huidige omgeving.
