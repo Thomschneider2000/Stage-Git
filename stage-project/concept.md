@@ -6,6 +6,12 @@
 
 Nu dat ik informatie heb verzameld over de doelgroep door middel van de persona's die ik gemaakt heb, kan ik gaan beginnen met het maken van een eerste opzet van de wireframes op basis van de behoeften en eisen van de stakeholders.&#x20;
 
+## User requirements
+
+Op basis van mijn onderzoeksresultaten heb ik een aantal user requirements kunnen opstellen. In de lijst hieronder staat "Must have" voor alle requirements die essentieel zijn voor dit CMS, daarnaast staat "Should have" hierin staan alle requirements die een goede toevoeging zijn voor dit CMS. Verder heb je ook nog "Could have" hierin staan punten die ook toegevoegd kunnen worden maar die geen prioriteit hebben. Uiteindelijk heb je ook nog "Won't have" waarin punten staan die niet binnen de scope van het CMS vallen.
+
+<figure><img src="../.gitbook/assets/moscow requirements.png" alt=""><figcaption></figcaption></figure>
+
 ## User Flows
 
 Ik ben begonnen met een aantal user flows maken op basis van verschillende user story's die ik heb gemaakt. Ik heb gekozen om deze user flows te maken om een beter beeld te krijgen van hoe het cms van Blue Dragon in elkaar zit, en om te kijken hoe verschillende processen verlopen. Ik heb dit gedaan zodat ik kan zien waar ik een extra stap uit kan halen zodat de user experience wordt geoptimaliseerd.&#x20;

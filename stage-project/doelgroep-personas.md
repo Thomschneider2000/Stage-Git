@@ -30,7 +30,7 @@ Bij Literature study maak je gebruik van bestaande informatie. Bijvoorbeeld info
 
 ## Hoe maak je een persona?
 
-### 1. Online Desk research
+#### 1. Online Desk research
 
 Je kunt veel informatie voor het maken van je persona online vinden. Gebruik informatie uit Google Analytics zoals geslacht en leeftijd van je websitebezoekers.&#x20;
 
@@ -41,7 +41,7 @@ Als je doelgroep uit een bepaalde stad of provincie komt, kun je bijvoorbeeld Wi
 * Hoe zoekt je doelgroep in zoekmachines?
 * Welke vragen worden er gesteld in Google?
 
-### 2. Field research bij bestaande klanten
+#### 2. Field research bij bestaande klanten
 
 Gebruik informatie die je al hebt van bestaande klanten. Niet alleen demografische gegevens en andere data, maar ook achterliggende vraagstukken of uitdagingen.
 
@@ -49,11 +49,11 @@ Gebruik informatie die je al hebt van bestaande klanten. Niet alleen demografisc
 * Welke problemen los je voor ze op?
 * Waarom hebben ze voor jou gekozen?
 
-### 3. Analyseer je gegevens
+#### 3. Analyseer je gegevens
 
 Nu dat je een behoorlijke hoeveelheid gegevens verzameld hebt. Kun je deze informatie samenvatten met behulp van het online onderzoek en field onderzoek.
 
-### 4. Persona maken
+#### 4. Persona maken
 
 Nu dat er onderzoek is gedaan en alle informatie geanalyseerd is, is het tijd om de persona's te gaan uitwerken.
 
