@@ -62,6 +62,6 @@ Design Challenge:
 
 > Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat zij sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
 
-Een uitgebreide planning staat omschreven in het [Project Plan](stage-project/project-plan.md).
+Een uitgebreide planning staat omschreven in het [Project Plan](stage-project/research/project-plan.md).
 
 ## Proces & Resultaten

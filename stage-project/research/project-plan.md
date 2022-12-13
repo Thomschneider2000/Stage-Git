@@ -1,8 +1,8 @@
 # Project Plan
 
-<figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Projectplan Gefinaliseerd.pdf" %}
+{% file src="../../.gitbook/assets/Projectplan Gefinaliseerd.pdf" %}
 Projectplan Thom Schneider&#x20;
 {% endfile %}
 
@@ -42,11 +42,11 @@ Tijdens de ontwikkeling van dit Blue Dragon CMS is er nog niet gedacht aan gebru
 
 Voor dit project ga ik aan de slag met de Moscow Methode, ik heb voor deze methode gekozen omdat ik dan meer overzicht krijg over het project. Zo krijg ik duidelijk te zien wat als eerste gedaan moet worden, binnen welke termijn en waarom. Met het toekennen van prioriteiten aan eisen wordt dit project beter hanteerbaar en wordt er sneller naar de deadline toegewerkt.
 
-<figure><img src="../.gitbook/assets/moscowtable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/moscowtable.png" alt=""><figcaption></figcaption></figure>
 
 ### Product Breakdown Structure
 
-<figure><img src="../.gitbook/assets/Blank diagram(2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blank diagram(2).png" alt=""><figcaption></figcaption></figure>
 
 ### Onderzoeksvragen
 
@@ -86,7 +86,7 @@ Trello is een programma waar ik gemakkelijk scrum boards kan aan maken en manage
 
 Meer informatie over de Scrum methode: [https://watisscrum.nl/wat-is-scrum-werken/](https://watisscrum.nl/wat-is-scrum-werken/)
 
-<figure><img src="../.gitbook/assets/sstrello.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sstrello.png" alt=""><figcaption></figcaption></figure>
 
 #### UCD Methode
 
@@ -100,7 +100,7 @@ Het testen wordt gedaan in de vorm van code reviews, deze code reviews worden lo
 
 #### CMD Methods
 
-<figure><img src="../.gitbook/assets/trioangiatri.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trioangiatri.png" alt=""><figcaption></figcaption></figure>
 
 Tijdens mijn stageproject ga ik de CMD onderzoeksmethode gebruiken. Ik heb voor deze methode gekozen omdat het een goede manier biedt om de verschillende overeenkomsten tussen onderzoeksmethoden te begrijpen, zodat ik een geschikte methode of combinatie van methodes kan kiezen.
 
@@ -148,7 +148,7 @@ Tijdens deze stageperiode ben ik ook aan het documenteren dus heb ik dit bij de 
 
 ### Tijdsplan
 
-<figure><img src="../.gitbook/assets/tijdsplan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/tijdsplan.png" alt=""><figcaption></figcaption></figure>
 
 ## Project Organisatie
 
@@ -162,7 +162,7 @@ Aan het einde van elke sprint laat ik de voortgang van het project zien en vraag
 
 ### Risico’s & Uitwijkactiviteiten <a href="#_toc90035037" id="_toc90035037"></a>
 
-<figure><img src="../.gitbook/assets/risicotable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/risicotable.png" alt=""><figcaption></figcaption></figure>
 
 ## Project Onderdelen
 
@@ -190,4 +190,4 @@ Tijdens het maken van een eerste aanzet van het project plan heb ik gevraagd of 
 
 Nadat ik het document terug had ontvangen heb ik wat feedback gekregen op diverse onderdelen van het projectplan. Hieronder staat een afbeelding met feedback die ik had gekregen van mijn bedrijfsbegeleider.
 
-<figure><img src="../.gitbook/assets/Ss feedback projectplan.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Ss feedback projectplan.png" alt=""><figcaption></figcaption></figure>

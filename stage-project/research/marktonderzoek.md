@@ -1,24 +1,20 @@
 # Marktonderzoek
 
-<figure><img src="../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Marktonderzoek Gefinaliseerd.pdf" %}
+{% file src="../../.gitbook/assets/Marktonderzoek Gefinaliseerd.pdf" %}
 
 ## Inleiding
 
-Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.&#x20;
+Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
 
 Een marktonderzoek is ook een uitstekend middel om aan belangrijke informatie te komen als basis voor een doelgerichte marktbewerking. Marktonderzoek biedt o.a. inzicht in de behoeftes en wensen van de doelgroep, toetst de tevredenheid van de klanten en kan een beeld geven van de omvang van de doelgroep.
 
-In dit marktonderzoek wil ik antwoord hebben op de volgende vragen:
-
-* Wat zijn de grote bekende concurrenten?
-* Wat zijn de usp's van de concurrenten?
-* Wat zijn de punten van concurrenten die beter kunnen?
+De volgende stap is het uitwerken van de informatie over de concurrerende producten: welke functies ze hebben, hoe gebruikers ermee omgaan, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/cmdmarktonderzoek.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cmdmarktonderzoek.png" alt=""><figcaption></figcaption></figure>
 
 #### Literature Study
 
@@ -48,7 +44,7 @@ Ook heb je andere CMS-systemen zoals Shopify. Shopify is een e-commerce platform
 
 De meeste CMS-systemen kun je gratis downloaden op het internet, veel van die CMS- systemen hebben verschillende plug-ins en extra’s die gebruikt kunnen worden tegen een betaling waardoor je wat extra features kunt krijgen. Een nadeel hiervan is dat er conflicten kunnen ontstaan als je meerdere plug-ins bij elkaar hebt staan, of als er bijvoorbeeld een plugin wordt verwijderd waardoor iets niet meer ondersteund kan worden.
 
-<figure><img src="../.gitbook/assets/ssplugins.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ssplugins.png" alt=""><figcaption></figcaption></figure>
 
 WordPress is veruit de populairste CMS die er bestaat, ruim 37% van alle websites op het internet draait erop. Het begon als een blogplatform, maar is sinds die tijd uitgegroeid tot een volledige CMS die je kunt gebruiken om elke soort website te bouwen, van e-commerce winkels tot ledensites, fora en meer. De populariteit van WordPress is aan verschillende factoren te danken:
 
@@ -109,7 +105,7 @@ Hieronder beschrijf ik ook een paar usp van het systeem wat Blue Dragon heeft.
 
 In de tabel hieronder heb ik een aantal van de meest gebruikt CMS-systemen vergeleken op verschillende kenmerken, die moeten voldoen aan de eisen van een goed CMS-systeem.&#x20;
 
-<figure><img src="../.gitbook/assets/CMS Vergelijking.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CMS Vergelijking.png" alt=""><figcaption></figcaption></figure>
 
 Uit deze vergelijkingstabel blijkt dat WordPress de beste optie is van deze CMS-systemen. Maar omdat WordPress populairder is dan de rest loopt het ook meer risico op het gebied van veiligheid. Ook kun je uit deze tabel afleiden dat het gebruiksgemak van Joomla niet zo goed is, omdat je veel technische kennis nodig hebt om deze CMS te gebruiken.
 

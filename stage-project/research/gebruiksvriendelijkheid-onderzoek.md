@@ -1,8 +1,8 @@
 # Gebruiksvriendelijkheid Onderzoek
 
-<figure><img src="../.gitbook/assets/vakgebruiksvriendelijkheidonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vakgebruiksvriendelijkheidonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Gebruiksvriendelijkheid onderzoek Gefinaliseerd.pdf" %}
+{% file src="../../.gitbook/assets/Gebruiksvriendelijkheid onderzoek Gefinaliseerd.pdf" %}
 
 ## Inleiding
 
@@ -20,7 +20,7 @@ In dit gebruiksvriendelijkheid onderzoek wil ik antwoord krijgen op de volgende 
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/groepcmdmethods.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/groepcmdmethods.png" alt=""><figcaption></figcaption></figure>
 
 #### Literature Study&#x20;
 
@@ -50,9 +50,9 @@ Maar waarom is gebruiksvriendelijkheid nu belangrijk? Een gebruiksvriendelijke w
 
 Omdat er tijdens de ontwikkeling van het maken van het CMS geen rekening is gehouden dat klanten dit CMS ook gaan gebruiken, is het niet bepaald gebruiksvriendelijk voor de klanten.  Verschillende aspecten die het huidige CMS onvriendelijk maken zijn de moeilijke termen die gebruikt worden, dat in sommige gevallen de workflow niet klopt en dat er een aantal UX richtlijnen niet gevolgd zijn.&#x20;
 
-## ![](../.gitbook/assets/afbeelding.png)
+## ![](../../.gitbook/assets/afbeelding.png)
 
-In dit geval om een rol aan te maken kun je een keuze maken welke guard je wil gebruiken, maar wat is nu weer een guard? Dit soort dingen komen veel vaker voor, en is het daarom minder gebruiksvriendelijk. Ook staan er een aantal UX keuzes in het huidige design die niet volgens de richtlijnen gaan. Zoals verschillende kleuren CTA's, dit geeft onduidelijkheid over wat wel en niet clickable is. Ook waren er een aantal gevallen waar de workflow niet klopt hier ga ik verder op in tijdens de [concept fase](concept-ui.md#user-flows).
+In dit geval om een rol aan te maken kun je een keuze maken welke guard je wil gebruiken, maar wat is nu weer een guard? Dit soort dingen komen veel vaker voor, en is het daarom minder gebruiksvriendelijk. Ook staan er een aantal UX keuzes in het huidige design die niet volgens de richtlijnen gaan. Zoals verschillende kleuren CTA's, dit geeft onduidelijkheid over wat wel en niet clickable is. Ook waren er een aantal gevallen waar de workflow niet klopt hier ga ik verder op in tijdens de [concept fase](../concept-ui.md#user-flows).
 
 De reden dat dit zo is ontwikkeld komt doordat het CMS in eerste instantie alleen intern werd gebruikt door de developers, maar omdat er steeds meer vraag kwam vanuit de klant om zelf hun componenten/inhoud aan te passen heeft Blue Dragon besloten om dit CMS ook aan de klant te leveren.
 

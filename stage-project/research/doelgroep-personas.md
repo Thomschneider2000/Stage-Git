@@ -1,8 +1,8 @@
 # Doelgroep Persona's
 
-<figure><img src="../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Doelgroep Persona Gefinaliseerd.pdf" %}
+{% file src="../../.gitbook/assets/Doelgroep Persona Gefinaliseerd.pdf" %}
 
 ## Inleiding
 
@@ -10,7 +10,7 @@ Nu dat ik weet waar de fouten liggen binnen het huidige design en hoe ik gebruik
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/cmdmethodsdoelgroep.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cmdmethodsdoelgroep.png" alt=""><figcaption></figcaption></figure>
 
 #### Survey&#x20;
 
@@ -89,7 +89,7 @@ Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat f
 
 Nadat ik mijn enquête had opgesteld, heb ik het formulier opgestuurd naar mijn bedrijfsbegeleider zodat hij er nog een keer overheen kan kijken voordat het verstuurd wordt. Toen mijn bedrijfsbegeleider de enquête had doorgenomen had hij een aantal feedback punten die ik heb verbeterd.
 
-<figure><img src="../.gitbook/assets/ssfeedbackenquete.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ssfeedbackenquete.png" alt=""><figcaption></figcaption></figure>
 
 Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd kan worden naar de stakeholders.
 
@@ -99,11 +99,11 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 
 <div>
 
-<figure><img src="../.gitbook/assets/persona1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/persona1.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
