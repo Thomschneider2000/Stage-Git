@@ -5,13 +5,13 @@
 ## 🔹 Stage Project
 
 * [Research](stage-project/research/README.md)
-  * [Project Plan](stage-project/research/project-plan.md)
-  * [Marktonderzoek](stage-project/research/marktonderzoek.md)
-  * [Gebruiksvriendelijkheid Onderzoek](stage-project/research/gebruiksvriendelijkheid-onderzoek.md)
-  * [Doelgroep Persona's](stage-project/research/doelgroep-personas.md)
+  * [Project Plan](stage-project/project-plan.md)
+  * [Marktonderzoek](stage-project/marktonderzoek.md)
+  * [Gebruiksvriendelijkheid Onderzoek](stage-project/gebruiksvriendelijkheid-onderzoek.md)
+  * [Doelgroep Persona's](stage-project/doelgroep-personas.md)
 * [Concept UI](stage-project/concept-ui.md)
-* [Realisatie Concept](stage-project/realisatie-concept/README.md)
-  * [Laravel Bootstrap to Tailwind](stage-project/realisatie-concept/laravel-bootstrap-to-tailwind.md)
+* [Realisatie Concept](stage-project/realisatie-concept.md)
+  * [Laravel Bootstrap to Tailwind](stage-project/laravel-bootstrap-to-tailwind.md)
 * [Toekomst Concept UI](stage-project/toekomst-concept-ui.md)
 
 ## 🔹 Presentaties

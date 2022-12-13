@@ -1,6 +1,6 @@
 # Laravel Bootstrap to Tailwind
 
-<figure><img src="../../.gitbook/assets/vaklaravelbootstrapconvert.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/vaklaravelbootstrapconvert.png" alt=""><figcaption></figcaption></figure>
 
 ## Inleiding
 
@@ -34,11 +34,11 @@ Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding
 
 <div>
 
-<figure><img src="../../.gitbook/assets/snapshotbootstrap.png" alt=""><figcaption><p>Afbeelding 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/snapshotbootstrap.png" alt=""><figcaption><p>Afbeelding 1</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/snapshottailwind.png" alt=""><figcaption><p>Afbeelding 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/snapshottailwind.png" alt=""><figcaption><p>Afbeelding 2</p></figcaption></figure>
 
 </div>
 
@@ -46,11 +46,11 @@ Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is h
 
 <div>
 
-<figure><img src="../../.gitbook/assets/loginschermbootstrap.png" alt=""><figcaption><p>Bootstrap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/loginschermbootstrap.png" alt=""><figcaption><p>Bootstrap</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/loginschermtailwind.png" alt=""><figcaption><p>Tailwind</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/loginschermtailwind.png" alt=""><figcaption><p>Tailwind</p></figcaption></figure>
 
 </div>
 
@@ -62,11 +62,11 @@ Maar om uiteindelijk mijn eigen design te laten runnen in de echte omgeving zijn
 
 <div>
 
-<figure><img src="../../.gitbook/assets/package.json.png" alt=""><figcaption><p>Package.json</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/package.json.png" alt=""><figcaption><p>Package.json</p></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/webpackmixss.png" alt=""><figcaption><p>Webpack.mix.js</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/webpackmixss.png" alt=""><figcaption><p>Webpack.mix.js</p></figcaption></figure>
 
 </div>
 
