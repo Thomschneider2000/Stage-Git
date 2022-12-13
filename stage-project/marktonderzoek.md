@@ -6,11 +6,15 @@
 
 ## Inleiding
 
-Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
+Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.&#x20;
 
 Een marktonderzoek is ook een uitstekend middel om aan belangrijke informatie te komen als basis voor een doelgerichte marktbewerking. Marktonderzoek biedt o.a. inzicht in de behoeftes en wensen van de doelgroep, toetst de tevredenheid van de klanten en kan een beeld geven van de omvang van de doelgroep.
 
-De volgende stap is het uitwerken van de informatie over de concurrerende producten: welke functies ze hebben, hoe gebruikers ermee omgaan, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
+In dit marktonderzoek wil ik antwoord hebben op de volgende vragen:
+
+* Wat zijn de grote bekende concurrenten?
+* Wat zijn de usp's van de concurrenten?
+* Wat zijn de punten van concurrenten die beter kunnen?
 
 ## Onderzoeksmethoden
 
