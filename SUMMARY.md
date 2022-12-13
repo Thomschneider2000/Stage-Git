@@ -9,9 +9,11 @@
   * [Marktonderzoek](stage-project/marktonderzoek.md)
   * [Gebruiksvriendelijkheid Onderzoek](stage-project/gebruiksvriendelijkheid-onderzoek.md)
   * [Doelgroep Persona's](stage-project/doelgroep-personas.md)
-* [Concept UI](stage-project/concept-ui.md)
-* [Realisatie Concept](stage-project/realisatie-concept.md)
-  * [Laravel Bootstrap to Tailwind](stage-project/laravel-bootstrap-to-tailwind.md)
+* [Concept](stage-project/concept.md)
+* [Realisatie](stage-project/realisatie/README.md)
+  * [Laravel Bootstrap to Tailwind](stage-project/realisatie/laravel-bootstrap-to-tailwind.md)
+  * [Flowbite](stage-project/realisatie/flowbite.md)
+  * [Componenten realiseren](stage-project/realisatie/componenten-realiseren.md)
 * [Toekomst Concept UI](stage-project/toekomst-concept-ui.md)
 
 ## 🔹 Presentaties

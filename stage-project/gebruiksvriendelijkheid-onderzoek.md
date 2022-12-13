@@ -52,7 +52,7 @@ Omdat er tijdens de ontwikkeling van het maken van het CMS geen rekening is geho
 
 ## ![](../.gitbook/assets/afbeelding.png)
 
-In dit geval om een rol aan te maken kun je een keuze maken welke guard je wil gebruiken, maar wat is nu weer een guard? Dit soort dingen komen veel vaker voor, en is het daarom minder gebruiksvriendelijk. Ook staan er een aantal UX keuzes in het huidige design die niet volgens de richtlijnen gaan. Zoals verschillende kleuren CTA's, dit geeft onduidelijkheid over wat wel en niet clickable is. Ook waren er een aantal gevallen waar de workflow niet klopt hier ga ik verder op in tijdens de [concept fase](concept-ui.md#user-flows).
+In dit geval om een rol aan te maken kun je een keuze maken welke guard je wil gebruiken, maar wat is nu weer een guard? Dit soort dingen komen veel vaker voor, en is het daarom minder gebruiksvriendelijk. Ook staan er een aantal UX keuzes in het huidige design die niet volgens de richtlijnen gaan. Zoals verschillende kleuren CTA's, dit geeft onduidelijkheid over wat wel en niet clickable is. Ook waren er een aantal gevallen waar de workflow niet klopt hier ga ik verder op in tijdens de [concept fase](concept.md#user-flows).
 
 De reden dat dit zo is ontwikkeld komt doordat het CMS in eerste instantie alleen intern werd gebruikt door de developers, maar omdat er steeds meer vraag kwam vanuit de klant om zelf hun componenten/inhoud aan te passen heeft Blue Dragon besloten om dit CMS ook aan de klant te leveren.
 

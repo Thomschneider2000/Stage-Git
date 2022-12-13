@@ -6,15 +6,11 @@
 
 ## Inleiding
 
-Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.&#x20;
+Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
 
 Een marktonderzoek is ook een uitstekend middel om aan belangrijke informatie te komen als basis voor een doelgerichte marktbewerking. Marktonderzoek biedt o.a. inzicht in de behoeftes en wensen van de doelgroep, toetst de tevredenheid van de klanten en kan een beeld geven van de omvang van de doelgroep.
 
-In dit marktonderzoek wil ik antwoord hebben op de volgende vragen:
-
-* Wat zijn de grote bekende concurrenten?
-* Wat zijn de usp's van de concurrenten?
-* Wat zijn de punten van concurrenten die beter kunnen?
+De volgende stap is het uitwerken van de informatie over de concurrerende producten: welke functies ze hebben, hoe gebruikers ermee omgaan, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
 
 ## Onderzoeksmethoden
 
@@ -36,88 +32,57 @@ Bij de usp's benoem ik alle belangrijke unieke verkooppunten.
 
 Tijdens dit onderzoek gebruik ik een vergelijkingstabel zodat ik alle grote concurrenten op een rijtje kan zetten, zodat ik dan weer kan kijken na hoe andere concurrenten sommige design keuzes aanpakken.
 
-## Concurrentie Analyse
+## Concurrentieanalyse
 
-Als je op Google opzoek gaat naar professionele CMS-systemen kom je al snel terecht bij verschillende CMS zoals WordPress, Magento en Drupal. Dit zijn allemaal professionele tegenhangers van het CMS van Blue Dragon.&#x20;
+Een concurrentieanalyse is een fundamenteel instrument voor marketingonderzoek dat wordt gebruikt om de sterke en zwakke punten van een concurrent te vergelijken. Het kan een bedrijf helpen om hun concurrenten te identificeren, wat hun sterke en zwakke punten zijn, en wat ze moeten doen om beter te zijn dan zij.
 
-WordPress is een systeem om een website, blog of een webshop mee te beheren zonder dat je hier veel technische kennis voor nodig hebt. Hoewel WordPress draait op de programmeertaal PHP, hoef je zelf geen regel PHP te schrijven als je een website wilt bouwen met WordPress. Doordat WordPress zo eenvoudig is in gebruik, wordt het tegenwoordig enorm veel gebruikt voor het maken van websites. Sterker nog: méér dan **30 procent** van het hele internet gebruikt WordPress.&#x20;
+Een concurrentieanalyse wordt vaak uitgevoerd door te kijken naar de producten of diensten van het bedrijf in relatie tot die van andere bedrijven. Dit proces stelt een organisatie in staat om haar eigen sterke en zwakke punten te evalueren ten opzichte van de concurrentie.
 
-WordPress is open source, wat inhoudt dat iedereen de code van WordPress kan inzien, aanpassen en verspreiden. Je kunt volledig gratis een kopie van WordPress downloaden op WordPress.org. Hier mag je vervolgens mee doen wat je wilt.&#x20;
+Contentmanagementsystemen zijn een belangrijk onderdeel van de online business. CMS'en worden gebruikt als hulpmiddel om inhoud op internet te publiceren en te bewerken. Ze helpen bij het beter doorzoekbaar en toegankelijk maken van inhoud via verschillende platforms. De meest voorkomende CMS'en zijn WordPress, Drupal, Joomla, SharePoint en PrestaShop.
 
-Ook heb je andere CMS-systemen zoals Shopify. Shopify is een e-commerce platform wat speciaal ontwikkeld is om gemakkelijk een goede en overzichtelijke webshop te bouwen. Je kan met Shopify fysieke, maar ook digitale producten verkopen.
+Voor deze concurrentieanalyse kies ik de grootste CMS concurrent Wordpress. WordPress is een systeem om een website, blog of een webshop mee te beheren zonder dat je hier veel technische kennis voor nodig hebt. Hoewel WordPress draait op de programmeertaal PHP, hoef je zelf geen regel PHP te schrijven als je een website wilt bouwen met WordPress. Doordat WordPress zo eenvoudig is in gebruik, wordt het tegenwoordig enorm veel gebruikt voor het maken van websites.&#x20;
 
-De meeste CMS-systemen kun je gratis downloaden op het internet, veel van die CMS- systemen hebben verschillende plug-ins en extra’s die gebruikt kunnen worden tegen een betaling waardoor je wat extra features kunt krijgen. Een nadeel hiervan is dat er conflicten kunnen ontstaan als je meerdere plug-ins bij elkaar hebt staan, of als er bijvoorbeeld een plugin wordt verwijderd waardoor iets niet meer ondersteund kan worden.
+WordPress is open source, wat inhoudt dat iedereen de code van WordPress kan inzien, aanpassen en verspreiden. Je kunt volledig gratis een kopie van WordPress downloaden op WordPress.org. Hier mag je vervolgens mee doen wat je wilt.
 
-<figure><img src="../.gitbook/assets/ssplugins.png" alt=""><figcaption></figcaption></figure>
-
-WordPress is veruit de populairste CMS die er bestaat, ruim 37% van alle websites op het internet draait erop. Het begon als een blogplatform, maar is sinds die tijd uitgegroeid tot een volledige CMS die je kunt gebruiken om elke soort website te bouwen, van e-commerce winkels tot ledensites, fora en meer. De populariteit van WordPress is aan verschillende factoren te danken:
+WordPress is veruit de populairste CMS die er bestaat, **ruim 37%** van alle websites op het internet draait erop. Het begon als een blogplatform, maar is sinds die tijd uitgegroeid tot een volledige CMS die je kunt gebruiken om elke soort website te bouwen, van e-commerce winkels tot ledensites, fora en meer. De populariteit van WordPress is aan verschillende factoren te danken:
 
 1. Het is **gratis** en open source.
 2. Je kunt kiezen uit duizenden WordPress thema’s waarmee je de look van je site aan kunt passen.
 3. Er zijn meer dan **55.000** plug-ins die de functionaliteit van je site kunnen verruimen.
 
-## De nadelen van de concurrentie
+Maar natuurlijk is de gebruiksvriendelijkheid van Wordpress ook een grote factor die ervoor zorgt dat Wordpress een van de grootste Contentmanagementsystemen is. De gebruikersinterface van WordPress is ontworpen om gemakkelijk te gebruiken te zijn, zelfs voor mensen zonder technische kennis. Het biedt een visuele editor waarmee gebruikers gemakkelijk webpagina's en blogberichten kunnen maken en bewerken, met behulp van een eenvoudig point-and-click interface. De interface bevat ook een variatie aan ingebouwde hulpmiddelen en functies, zoals een mediabibliotheek voor het beheer van afbeeldingen en andere media, een plugin-systeem voor het uitbreiden van de functionaliteit van de website, en een variatie aan aanpassingsopties voor het veranderen van het uiterlijk en het gevoel van de site. In het algemeen maakt de gebruiksvriendelijke interface van WordPress het een toegankelijk en krachtig platform voor het maken en beheren van websites.
 
-Bij dit onderdeel van het onderzoek ga ik research doen naar wat de nadelen zijn van de concurrentie. In dit geval pak ik weer de concurrent WordPress, omdat dit een goed voorbeeld is van een gebruiksvriendelijke CMS. Ik som deze nadelen op om zo een goed overzicht te krijgen op welke punten ik moet letten voor mijn project.
+## Gebruikers interactiviteit met Wordpress user interface
 
-### Moeilijkheidsgraad
+Gebruikers communiceren op verschillende manieren met de gebruikersinterface van WordPress, afhankelijk van hun individuele behoeften en voorkeuren. Enkele veel voorkomende manieren waarop gebruikers met de WordPress gebruikersinterface omgaan zijn de volgende:
 
-Het kan moeilijk zijn om je weg te vinden in het ontwerp, de ontwikkeling en het onderhoud van WordPress, vooral als je geen technische ervaring hebt.
+**Inhoud maken en bewerken:** Met de visuele editor in WordPress kunnen gebruikers gemakkelijk webpagina's en blogberichten maken en bewerken, met behulp van een eenvoudige point-and-click interface. Gebruikers kunnen tekst, afbeeldingen, video's en andere media aan hun inhoud toevoegen, en een variatie aan opmaakopties gebruiken om de inhoud eruit te laten zien zoals zij dat willen.
 
-### De kosten
+**Media beheren:** De WordPress mediabibliotheek is een ingebouwde tool waarmee gebruikers gemakkelijk hun mediabestanden, zoals afbeeldingen en video's, kunnen beheren. Gebruikers kunnen nieuwe mediabestanden uploaden naar de bibliotheek, bestaande bestanden bekijken en organiseren, en media invoegen in hun inhoud.
 
-Hoewel het platform WordPress gratis te downloaden is, zijn er allerlei thema’s die wel geld kosten. Het hosten van een website via WordPress kost minimaal € 4,00 dit kan oplopen tot € 45,00.
+**De website aanpassen:** WordPress biedt een verscheidenheid aan aanpassingsopties waarmee gebruikers het uiterlijk en het gevoel van hun website kunnen veranderen. Gebruikers kunnen kiezen uit een reeks vooraf ontworpen thema's, of hun eigen thema aanpassen met behulp van de ingebouwde thema-editor. Ze kunnen ook plugins installeren en configureren om nieuwe functies en functionaliteit aan hun site toe te voegen.
 
-### Kwetsbaarheid van de website
+**Gebruikers en rechten beheren:** Met WordPress kunnen gebruikers meerdere gebruikersaccounts aanmaken en beheren, elk met een eigen unieke gebruikersnaam en wachtwoord. Gebruikers kunnen aan elke account verschillende rollen en machtigingen toekennen, waarmee ze bepalen welke gebruikers toegang hebben tot bepaalde delen van de website en wat ze daar kunnen doen.
 
-Veiligheid is een grote uitdaging voor veel gebruikers. Alleen al het feit dat WordPress het meest gebruikte CMS is, maakt het een belangrijk doelwit voor cybercriminelen. De grote afhankelijkheid van plug-ins die door verschillende mensen zijn ontwikkeld, verhoogt ook de kans dat kwaadaardige code naar de functionaliteiten van uw site glipt.
-
-### Frequente updates
-
-Het is niet genoeg om WordPress gewoon te installeren. Je moet verschillende plug-ins en thema's installeren om ervoor te zorgen dat het goed functioneert. Hoe meer plug-ins u gebruikt, hoe meer compatibiliteitsproblemen je zult krijgen.
-
-### Slechte SEO
-
-De SEO-vriendelijkheid van WordPress kan problemen opleveren voor mensen zonder SEO- ervaring. In WordPress, als de inhoud is gemarkeerd in veel categorieën of is over-tagged, Google markeert het als dubbele inhoud. Dit kan de positie van uw site op de SERP's aanzienlijk beïnvloeden.
-
-### Trage laad snelheid
-
-WordPress is nog steeds een traag platform door alle toegevoegde plug-ins, databases en codebases. Dat zijn echter niet de enige dingen die uw website kunnen vertragen. Grote afbeeldingen, veel tekst op een pagina en onbetrouwbare hosting kunnen de snelheid van uw website beïnvloeden.&#x20;
-
-Paginasnelheid is cruciaal voor uw website. U wilt een snel ladende website zodat uw publiek niet ongeduldig wordt en besluit weg te gaan, waardoor u zaken kunt verliezen omdat ze niet zien wat u te bieden hebt.
+In het algemeen maakt de gebruiksvriendelijke interface van WordPress het gebruikers gemakkelijk om hun websites te maken en te beheren, het uiterlijk en het gevoel van hun site aan te passen, en te bepalen wie er toegang heeft en wat ze er kunnen doen.
 
 ## De USP's (Unique Selling Points)
 
 Nadat ik onderzoek heb gedaan naar de IT-branche en wat de verschillende concurrenten zijn, kan ik een aantal unique selling points benoemen waardoor een van de concurrenten uitblinkt vergeleken met de rest. Een unique selling point is een eigenschap waarmee een zich product onderscheidt van andere vergelijkbare producten.&#x20;
 
-Om een aantal usp's te achterhalen heb ik gekozen om de usp's te benoemen van WordPress een van de grootste CMS concurrenten.&#x20;
+### Usp van Wordpress
 
-* Het gebruik van WordPress is zeer eenvoudig, zo kan iemand zonder enige technische kennis een website opzetten.
-* WordPress heeft heel veel plug-ins die je kan installeren voor extra features.
-* WordPress is open source software die iedereen kan gebruiken.
-* WordPress heeft veel verschillende thema's die de gebruiker kan kiezen, ook zijn deze thema's goed responsive.
+Enkele van de belangrijkste kenmerken die Wordpress populair maken zijn de gebruiksvriendelijke interface, het grote aantal beschikbare plugins en thema's om de functionaliteit uit te breiden, en de mogelijkheid om gemakkelijk te worden aangepast aan de specifieke behoeften van een breed scala aan gebruikers. Bovendien is WordPress een open-source platform, wat betekent dat het gratis te gebruiken is en door iedereen kan worden aangepast. Dit heeft bijgedragen tot de wijdverspreide toepassing ervan door particulieren, bedrijven en organisaties over de hele wereld.
 
-Hieronder beschrijf ik ook een paar usp van het systeem wat Blue Dragon heeft.
+### Usp Blue Dragons CMS
 
-* Het CMS wordt meegeleverd als service van Blue Dragon.
-* Het CMS wordt zo geoptimaliseerd dat er geen onnodige plug-ins gebruikt moeten worden.
-* De communicatie tussen de klant en het bedrijf verloopt goed en snel.
-* De schaalbaarheid van het systeem.
-* Het systeem word gedesignd op basis van de doelgroep.
-
-## Vergelijkingstabel
-
-In de tabel hieronder heb ik een aantal van de meest gebruikt CMS-systemen vergeleken op verschillende kenmerken, die moeten voldoen aan de eisen van een goed CMS-systeem.&#x20;
-
-<figure><img src="../.gitbook/assets/CMS Vergelijking.png" alt=""><figcaption></figcaption></figure>
-
-Uit deze vergelijkingstabel blijkt dat WordPress de beste optie is van deze CMS-systemen. Maar omdat WordPress populairder is dan de rest loopt het ook meer risico op het gebied van veiligheid. Ook kun je uit deze tabel afleiden dat het gebruiksgemak van Joomla niet zo goed is, omdat je veel technische kennis nodig hebt om deze CMS te gebruiken.
+Belangrijke kenmerken dat het systeem van Blue Dragon heeft zijn; het CMS wordt zo geoptimaliseerd dat er geen onnodige plug-ins gebruikt moeten worden, de communicatie tussen de klant en Blue Dragon is uitstekend en de schaalbaarheid van het systeem, zo kan het systeem afgestemd worden op wat de klant wil hebben.
 
 ## Conclusie
 
-In dit onderzoek is gezocht naar een antwoord op de vraag: “wie zijn de concurrenten en wat zijn daar de unique selling points van?” Hiervoor heb ik een kwantitatief onderzoek uitgevoerd naar de huidige groei van de iT en de concurrenten die zich hierin bevinden op het vlak van CMS-systemen. Uit de resultaten naar de huidige concurrenten is gebleken dat er heel veel verschillende CMS-systemen zijn die allemaal weer andere unique selling points hebben. Zo heb je WordPress een van de allergrootste concurrenten die als unique selling point vooral gebruiksvriendelijkheid biedt. Nadat ik een opsomming heb gemaakt van alle unique selling points op het gebied van gebruiksvriendelijkheid, kan ik gaan kijken welke ik kan gaan toepassen bij de CMS van Blue Dragon.
+In dit onderzoek is gezocht naar de vraag welke concurrerende producten welke functies hebben, hoe gebruikers hiermee omgaan en welke functies overwogen moeten worden. Om te beginnen met welke concurrerende producten er zijn, ben ik uitgekomen bij een aantal verschillende CMS’en, zoals WordPress, Drupal, Joomla, SharePoint en PrestaShop. In dit onderzoek heb ik gekozen om Wordpress te vergelijken met het CMS van Blue Dragon, omdat Wordpress het grootste en gebruiksvriendelijkste CMS is. Ik heb daarna gekeken naar hoe gebruikers het systeem van Wordpress gebruiken. In bijna alle gevallen zijn de werkzaamheden van een gebruiker; de inhoud maken, media beheren, de website aanpassen en de rechten beheren van verschillende gebruikers. Ondanks dat het CMS van Blue Dragon werkt met blok componenten en Wordpress met een visuele editor, heb ik toch een aantal functies gevonden die het CMS van Blue Dragon ook kan gebruiken. Zo heb je bijvoorbeeld een functie waarbij je componenten kunt dupliceren wat heel handig is. Verder heeft Wordpress ook een multiselect functie waarbij je meerdere items kunt aantikken om die vervolgens te bewerken of verwijderen.
 
-Ik heb voor dit onderzoek ook een vergelijkingstabel gemaakt met verschillende kenmerken van andere CMS-systemen. Ik heb deze kenmerken op basis van gebruiksvriendelijkheid gekozen omdat elk goed systeem dit nodig heeft. Uit die vergelijkingstabel is gebleken dat WordPress het meest gebruiksvriendelijk is en Drupal het minst. Dat Drupal de minste gebruiksvriendelijkheid heeft komt vooral door de complexe user interface dat dit systeem gebruikt. Daarentegen heeft Wordpress de meeste gebruiksvriendelijkheid, dit komt doordat de user interface goed en duidelijk is ingericht en dat de bewerk opties ook goed zijn aangegeven. Ook heb ik nog gekeken naar een aantal plus punten en minpunten van de concurrentie, ik heb dit gedaan om zo een beter beeld te krijgen van op welke features ik moet letten zodat ik deze ook beter kan visualiseren.
+## Vervolg stap
 
-Dus nu dat ik weet welke gebruiksvriendelijke aspecten de concurrenten gebruiken, kan ik gaan kijken naar welke aspecten er nog meer zijn en hoe ik die kan toetsen.
+Nu dat ik weet welke soortgelijke producten er bestaan en hoe de gebruikers deze producten gebruiken. Kan ik verder gaan met de vraag hoe ik die gebruiksvriendelijkheid toepas en waarom het huidige CMS van Blue Dragon niet gebruiksvriendelijk is.
 

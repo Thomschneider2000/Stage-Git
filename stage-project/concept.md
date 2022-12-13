@@ -1,4 +1,4 @@
-# Concept UI
+# Concept
 
 <figure><img src="../.gitbook/assets/vakconceptfase.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ Ik ben begonnen met een aantal user flows maken op basis van verschillende user 
 
 {% embed url="https://miro.com/app/board/uXjVPN12EWU=/?share_link_id=599190674290" %}
 
-Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo heb je bijvoorbeeld bij het aanmaken van een user de NAW gegevens nodig die helemaal geen meerwaarde hebben. Daarom heb ik ook besloten deze uit mijn design te houden. Ook heb je bij de inlog de keuze om een account aan te maken wat ook niet erg slim is aangezien iedereen die op de login pagina komt een account kan aanmaken.&#x20;
+Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo heb je bijvoorbeeld bij het aanmaken van een user de NAW gegevens nodig die helemaal geen meerwaarde hebben. Daarom heb ik ook besloten deze uit mijn design te houden. Ook heb je bij de inlog de keuze om een account aan te maken wat ook niet erg slim is aangezien iedereen die op de login pagina komt een account kan aanmaken. Ik heb specifiek voor deze user flows gekozen omdat dit essentiële stappen zijn om iets aan te passen of te plaatsten op een website, wat ook het doel is van de gebruiker.
 
 ## Inspiratie
 
@@ -64,7 +64,7 @@ Bij het maken van de verschillende mock-ups ben ik begonnen met het ontwerpen va
 
 In de afbeelding hierboven staat het huidige ontwerp van het login scherm van Blue Dragons CMS. Wat ik een beetje raar vond is dat er een feature is om een account aan te maken, wat ik onlogisch vind omdat iedereen die op deze pagina terecht komt dan een account kan aanmaken. Maar nadat ik dit had aangekaart hadden we er al snel voor gekozen om deze feature te verwijderen. Tijdens het ontwerpen van het nieuwe inlog scherm moet ik natuurlijk ook rekening houden met de huisstijl van Blue Dragon. Uiteindelijk na wat verschillende ontwerpen gemaakt te hebben heb ik een ontwerp gekozen wat goed voldoet aan de huisstijl van Blue Dragon.
 
-<figure><img src="../.gitbook/assets/loginscherm.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/loginscreenshot.png" alt=""><figcaption></figcaption></figure>
 
 Ook kun je in de afbeelding hierboven zien dat ik de feature van "registreren" weg heb gehaald. Overigens is er nog een pagina voor de feature van "Wachtwoord vergeten" die er hetzelfde uitziet maar is de inhoud veranderd.&#x20;
 
@@ -78,7 +78,7 @@ Nu dat ik klaar ben met het ontwerpen van het login scherm ga ik beginnen met he
 
  
 
-<figure><img src="../.gitbook/assets/nieuwdashboard.png" alt=""><figcaption><p>Nieuw Ontwerp</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ssdasboard.png" alt=""><figcaption><p>Nieuw Ontwerp</p></figcaption></figure>
 
 </div>
 
@@ -86,7 +86,7 @@ Zoals je ziet is het huidige dashboard ontwerp akelig leeg, er staan geen shortc
 
 <div>
 
-<figure><img src="../.gitbook/assets/latestchangesmodule.png" alt=""><figcaption><p>Latest changes component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/sstablehistory.png" alt=""><figcaption><p>Latest changes component</p></figcaption></figure>
 
  
 
@@ -106,7 +106,7 @@ Tijdens het doornemen van het huidige CMS van Blue Dragon kom je soms veel terme
 
 Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen.
 
-<figure><img src="../.gitbook/assets/tabledesign.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sstableview.png" alt=""><figcaption></figcaption></figure>
 
 ### Input fields & Error messages
 
@@ -136,7 +136,7 @@ Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina'
 
 Maar omdat dit bij een echte website mega veel pagina's worden heb je al snel een hele grote lijst wat onduidelijk is, daarom heb ik ervoor gekozen om een foldable tree view te designen zodat je een beter overzicht krijgt van welke pagina's onder een hoofdpagina vallen. Ook heb ik iedere row een andere kleur gegeven zodat je makkelijker kunt zien in welke row je bezig bent.
 
-<figure><img src="../.gitbook/assets/foldabletreeview.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sstreeview.png" alt=""><figcaption></figcaption></figure>
 
 Ook heb ik een andere form gemaakt waarin je een rol kunt toepassen aan een gebruiker, in deze view kun je zien aan welke website deze rol is gekoppeld. Daarom heb ik gekozen voor een tree view, omdat dit duidelijk aangeeft welke rol bij welke website past. Ik heb genoeg wit ruimte over gelaten aan de rechter kant, mocht er een lange naam in komen. Dit component kan niet verder verschuiven omdat de diepte van de tree view niet meer dan 2 is.
 
