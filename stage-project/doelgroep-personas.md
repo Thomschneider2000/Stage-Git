@@ -63,7 +63,7 @@ Probeer te voorkomen dat je jouw persona te veel baseert op één bestaande klan
 
 ## Enquête Opstellen
 
-Om een duidelijker beeld te krijgen van de doelgroep heb ik besloten om persona's te gaan maken. Daarom ben ik een enquête gaan opstellen, zodat ik wat aanvullende informatie kan verkrijgen over de personen in deze desbetreffende doelgroep.
+Om een duidelijker beeld te krijgen van de doelgroep heb ik besloten om persona's te gaan maken. Daarom ben ik een enquête gaan opstellen, zodat ik wat aanvullende informatie kan verkrijgen over de personen in deze desbetreffende doelgroep. Ook heb ik gevraagd wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken.
 
 Voordat ik mijn enquête ging opstellen ben ik opzoek gegaan naar welke vragen ik moet stellen om meer informatie te krijgen over de doelgroep. Vervolgens heb ik een document gevonden waarin staat hoe ik stap voor stap een persona moet opstellen, zo staat er ook in vermeld welke vragen ik kan stellen. Met behulp van dat document heb ik een aantal vragen opgesteld die relevant zijn voor de doelgroep van Blue Dragon.
 
@@ -106,8 +106,6 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 <figure><img src="../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-Ook heb ik gevraagd wat de klanten leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken.
 
 ## Conclusie
 
