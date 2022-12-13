@@ -58,35 +58,35 @@ De reden dat dit zo is ontwikkeld komt doordat het CMS in eerste instantie allee
 
 ## Wat zijn de belangrijkste kenmerken van gebruiksvriendelijkheid?
 
-### Overzichtelijkheid
+#### Overzichtelijkheid
 
 Een gebruiksvriendelijk systeem is overzichtelijk. Dit betekent dat er een heldere menustructuur is waarbij de belangrijkste functies van het systeem direct zichtbaar zijn. Kerntaken zijn dus niet weggestopt in pull-downs of submenu’s.
 
-### Logica & Samenhang
+#### Logica & Samenhang
 
 Logica en samenhang is essentieel voor een goede gebruikservaring van de software. Een gebruiker moet snel door de verschillende onderdelen van een systeem kunnen navigeren op een manier die voor hem of haar logisch aanvoelt.
 
-### Impressie
+#### Impressie
 
 Hoe intuïtiever een systeem is des te meer de gebruiker het systeem als gebruiksvriendelijk zal ervaren. De bediening moet consequent zijn. Oftewel, door alle onderdelen van het CMS moet bij voorkeur zoveel mogelijk dezelfde werkwijze, look & feel en/of navigatiemethodiek gebruikt zijn.
 
-### Herkenbaarheid
+#### Herkenbaarheid
 
 Door gebruik te maken van globale iconen en symbolen herkent de gebruiker sneller wat de achterliggende functie van de feature is.
 
-### Eenvoud
+#### Eenvoud
 
 De bediening moet voor iedereen, bij voorkeur zo snel mogelijk, te begrijpen zijn. Idealiter zonder dat hier een vooropleiding voor noodzakelijk is.
 
-### Clicks
+#### Clicks
 
 Een efficiënt menu zorgt ervoor dat de gebruikers zo min mogelijk clicks hoeven te doen om het doel te bereiken.
 
-### Snelheid
+#### Snelheid
 
 Tegenwoordig zijn de meeste CMS online oftewel web gebaseerde systemen. Het systeem draait dus niet op de locatie van de gebruiker maar op een Cloudplatform van de leverancier. Het is hierbij belangrijk dat het systeem en het centrale platform snel wijzigingen, uploads en andere activiteiten van de gebruiker kan verwerken.
 
-### Stabiliteit
+#### Stabiliteit
 
 Hiermee wordt bedoeld dat het systeem doorlopend goed blijft functioneren zonder regelmatig vast te lopen of uit te vallen.
 
@@ -110,27 +110,27 @@ Speelt de interactie in op de behoefte van de doelgroep? Weet de doelgroep zijn 
 
 Er zijn veel verschillende onderzoeksmethodes om de gebruiksvriendelijkheid van iets te meten, om zo bottlenecks te kunnen identificeren. Het nadeel hiervan is dat het trekken van conclusies grotendeels wordt gebaseerd op aannames.
 
-### Webanalytics
+#### Webanalytics
 
 Webanalyse is het meten, verzamelen, analyseren en rapporteren van webgegevens om het gebruik van het internet te begrijpen en te optimaliseren. Aan de hand van webanalytics tools, zoals Google Analytics, wordt onderzoek gedaan naar het uitstappercentage, het bouncepercentage, het conversiepercentage en de stroom van bezoekers die het gewenste proces doorlopen. De bottleneck zoals bijvoorbeeld de uitstappagina in de trechter kan hiermee snel geïdentificeerd worden.
 
-### Expert scan
+#### Expert scan
 
 Het systeem wordt door experts bekeken en beoordeeld op een aantal, vooraf gedefinieerde, onderdelen. Denk hierbij aan laadsnelheid, structuur en vindbaarheid.
 
-### Survey
+#### Survey
 
 Surveys zijn een uitstekend middel om vooraf of achteraf onderzoek te doen naar verschillende facetten van een systeem. Zowel een selecte als aselecte steekproef is mogelijk. Aselect betekent dat respondenten willekeurig worden gekozen. Een selecte steekproef bestaat uit respondenten die voldoen aan vooraf gedefinieerde kenmerken.
 
-### Prototyping
+#### Prototyping
 
 Een versimpelde versie van de website bijvoorbeeld een moodboard, wireframe of concept wordt voorgelegd aan een testpersoon of testgroep. De bevindingen worden geanalyseerd om het eindproduct waar nodig bij te schaven.
 
-### Mouse of eye tracking
+#### Mouse of eye tracking
 
 De naam zegt het al, muis of oogbewegingen worden nauwkeurig geanalyseerd met tools. Het resultaat is een hitte map waarbij in gradaties wordt weergeven waar gebruikers kijken of met de muis bewegen. Zo blijkt uit eerdere onderzoeken bijvoorbeeld dat veel websites in een F-vorm worden bekeken.
 
-### Usability onderzoek
+#### Usability onderzoek
 
 Een uitgebreide test waarin bijvoorbeeld een focus-group wordt gevraagd een specifieke handeling uit te voeren, zoals bijvoorbeeld het bestellen van een product. Op basis van kwalitatief veldonderzoek wordt onderzoek gedaan naar de bottlenecks van het systeem. Het eindresultaat is een rapport met aanbevelingen op basis van klantbehoeftes. Deze verbeteringen maken de website voor de gebruikers tot een omgeving waar ze geholpen worden en zorgen voor een verhoogde conversie.
 
