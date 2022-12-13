@@ -83,7 +83,7 @@ Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat f
 >
 > Enquête:
 >
-> https://docs.google.com/forms/d/e/1FAIpQLSeAo7fffJJ1RF\_VbFnlMpsKi\_C33IXOG4NkqskCH6h6Za04yA/viewform?usp=sf\_link
+> https://docs.google.com/forms/d/e/1FAIpQLSeAo7fffJJ1RF\_VbFnlMpsKi\_C33IXOG4NkqskCh6Za04yA/viewform?usp=sf\_link
 >
 > Bij voorbaat dank!
 
@@ -106,6 +106,8 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 <figure><img src="../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+Ook heb ik gevraagd wat de klanten leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken.
 
 ## Conclusie
 

@@ -14,7 +14,7 @@ De volgende stap is het uitwerken van de informatie over de concurrerende produc
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/cmdmarktonderzoek.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/onderzoeksmethodes.png" alt=""><figcaption></figcaption></figure>
 
 #### Literature Study
 
@@ -27,10 +27,6 @@ Bij Competitive Analysis identificeer ik de belangrijkste concurrenten en maak i
 #### Usp&#x20;
 
 Bij de usp's benoem ik alle belangrijke unieke verkooppunten.
-
-#### Comparison Chart
-
-Tijdens dit onderzoek gebruik ik een vergelijkingstabel zodat ik alle grote concurrenten op een rijtje kan zetten, zodat ik dan weer kan kijken na hoe andere concurrenten sommige design keuzes aanpakken.
 
 ## Concurrentieanalyse
 
@@ -58,11 +54,15 @@ Gebruikers communiceren op verschillende manieren met de gebruikersinterface van
 
 **Inhoud maken en bewerken:** Met de visuele editor in WordPress kunnen gebruikers gemakkelijk webpagina's en blogberichten maken en bewerken, met behulp van een eenvoudige point-and-click interface. Gebruikers kunnen tekst, afbeeldingen, video's en andere media aan hun inhoud toevoegen, en een variatie aan opmaakopties gebruiken om de inhoud eruit te laten zien zoals zij dat willen.
 
+<figure><img src="../.gitbook/assets/wordpresseditorss.png" alt=""><figcaption></figcaption></figure>
+
 **Media beheren:** De WordPress mediabibliotheek is een ingebouwde tool waarmee gebruikers gemakkelijk hun mediabestanden, zoals afbeeldingen en video's, kunnen beheren. Gebruikers kunnen nieuwe mediabestanden uploaden naar de bibliotheek, bestaande bestanden bekijken en organiseren, en media invoegen in hun inhoud.
 
 **De website aanpassen:** WordPress biedt een verscheidenheid aan aanpassingsopties waarmee gebruikers het uiterlijk en het gevoel van hun website kunnen veranderen. Gebruikers kunnen kiezen uit een reeks vooraf ontworpen thema's, of hun eigen thema aanpassen met behulp van de ingebouwde thema-editor. Ze kunnen ook plugins installeren en configureren om nieuwe functies en functionaliteit aan hun site toe te voegen.
 
 **Gebruikers en rechten beheren:** Met WordPress kunnen gebruikers meerdere gebruikersaccounts aanmaken en beheren, elk met een eigen unieke gebruikersnaam en wachtwoord. Gebruikers kunnen aan elke account verschillende rollen en machtigingen toekennen, waarmee ze bepalen welke gebruikers toegang hebben tot bepaalde delen van de website en wat ze daar kunnen doen.
+
+<figure><img src="../.gitbook/assets/adding-new-wordpress-roles-using-plugin.png" alt=""><figcaption></figcaption></figure>
 
 In het algemeen maakt de gebruiksvriendelijke interface van WordPress het gebruikers gemakkelijk om hun websites te maken en te beheren, het uiterlijk en het gevoel van hun site aan te passen, en te bepalen wie er toegang heeft en wat ze er kunnen doen.
 
