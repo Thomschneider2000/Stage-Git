@@ -8,7 +8,7 @@
   * [Project Plan](stage-project/project-plan.md)
   * [Marktonderzoek](stage-project/marktonderzoek.md)
   * [Gebruiksvriendelijkheid Onderzoek](stage-project/gebruiksvriendelijkheid-onderzoek.md)
-  * [Doelgroep Persona's](stage-project/doelgroep-personas.md)
+  * [Persona's](stage-project/research/personas.md)
 * [Concept](stage-project/concept.md)
 * [Realisatie](stage-project/realisatie/README.md)
   * [Laravel Bootstrap to Tailwind](stage-project/realisatie/laravel-bootstrap-to-tailwind.md)

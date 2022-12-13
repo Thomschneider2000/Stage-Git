@@ -65,6 +65,7 @@ Tijdens mijn stageperiode ga ik veel onderzoek doen naar bepaalde vraagstukken d
 * Hoe kan ik het systeem van Blue Dragon Gebruiksvriendelijk maken?
 * Wat zijn de wensen en eisen van de verschillende stakeholders?
 * Wat is het meest geschikte framework wat voldoet aan de gestelde eisen voor het CMS van Blue Dragon?
+* Wat maakt het huidige systeem van Blue Dragon niet gebruiksvriendelijk?
 * Wat zijn soortgelijke producten en wat zijn hier de unique selling points hiervan?
 
 ## Aanpak & Planning
