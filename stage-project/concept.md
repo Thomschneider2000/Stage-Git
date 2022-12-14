@@ -208,6 +208,12 @@ Tijdens het maken van de blok componenten heb ik gekozen voor dit design, je kun
 
 </div>
 
+### Blok component bewerken
+
+Tijdens het designen van deze pagina, heb ik ervoor gekozen om aan de rechterkant een component te maken waarin je items binnen een blok kunt wijzigen. Een voorbeeld hiervan is een image carrousel, je kunt dan de images wijzigen naar eigen voorkeur. Ook kun je de item volgorde veranderen door het blokje naar een gewenste positie te slepen.
+
+<figure><img src="../.gitbook/assets/blokaanmaken.png" alt=""><figcaption></figcaption></figure>
+
 ### Formulier Components
 
 In het huidige component om een formulier aan te maken, kun je zien dat de input velden veelte lang zijn. Daarom heb ik met mijn design de velden kleiner gemaakt zodat het er beter uit ziet. Ik heb het veld waarin je verschillende e-mails kunt zetten wel langer gelaten zodat je de e-mails nog kunt lezen. Ook heb ik er weer voor gekozen om de multi language option weg te laten, en ze gewoon onder elkaar te zetten zo vergeet de gebruiker niet om deze ook nog in te vullen. Verder heb ik ook nog een tool tip icoontje neergezet bij het veld "Mail type", ik heb dit gedaan omdat er een aantal termen in de dropdown staan die niet erg bekend zijn bij gebruikers zonder technische kennis.&#x20;
@@ -222,5 +228,7 @@ In het huidige component om een formulier aan te maken, kun je zien dat de input
 
 </div>
 
-## Feedback
+## Conclusie
+
+## Vervolg stap
 
