@@ -56,7 +56,7 @@ Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen 
 
 Design Challenge:
 
-> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat zij sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
+> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat zij makkelijker en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
 
 Een uitgebreide planning staat omschreven in het [Project Plan](stage-project/project-plan.md).
 
