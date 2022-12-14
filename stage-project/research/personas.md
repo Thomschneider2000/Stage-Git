@@ -6,7 +6,7 @@
 
 ## Inleiding
 
-Nu dat ik weet waar de fouten liggen binnen het huidige design en hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke beschrijving kan krijgen van een persona, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
+Nu dat ik weet waar de fouten liggen binnen het huidige design en hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke visualisatie kan krijgen van mijn onderzoeksresultaten, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
 
 ## Onderzoeksmethoden
 
@@ -63,17 +63,15 @@ Probeer te voorkomen dat je jouw persona te veel baseert op één bestaande klan
 
 ## Enquête Opstellen
 
-Om een duidelijker beeld te krijgen van de doelgroep heb ik besloten om persona's te gaan maken. Daarom ben ik een enquête gaan opstellen, zodat ik wat aanvullende informatie kan verkrijgen over de personen in deze desbetreffende doelgroep. Ook heb ik gevraagd wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken.
+Ik heb een enquête gemaakt om erachter te komen wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken. Verder heb ik ook nog wat aanvullende informatie gevraagd zodat ik mijn persona's beter kan opstellen.
 
-Voordat ik mijn enquête ging opstellen ben ik opzoek gegaan naar welke vragen ik moet stellen om meer informatie te krijgen over de doelgroep. Vervolgens heb ik een document gevonden waarin staat hoe ik stap voor stap een persona moet opstellen, zo staat er ook in vermeld welke vragen ik kan stellen. Met behulp van dat document heb ik een aantal vragen opgesteld die relevant zijn voor de doelgroep van Blue Dragon.
-
-Nadat ik de enquête heb opgesteld, heb ik een Email gemaakt waarin ik vraag of de gebruikers van dit systeem deze graag zouden willen invullen. Ik heb daarom op het internet opgezocht hoe ik een goede email moet formuleren om te vragen of iemand een enquête wil invullen.&#x20;
+Nadat ik de enquête heb opgesteld, heb ik een e-mail gemaakt waarin ik vraag of de gebruikers van dit systeem deze graag zouden willen invullen. Ik heb daarom op het internet opgezocht hoe ik een goede email moet formuleren om te vragen of iemand een enquête wil invullen.&#x20;
 
 Na wat zoeken ben ik uiteindelijk bij een website gekomen met een artikel over "7 tips die ervoor zorgen dat mensen jouw vragenlijst invullen".
 
 {% embed url="https://www.enquete.com/nl/blog-1058-met-deze-7-tips-zorg-je-ervoor-dat-mensen-jouw-vragenlijst-invullen" %}
 
-Vervolgens heb ik deze email laten lezen door mijn stagebegeleider, om nog wat feedback te vragen. Uiteindelijk heb ik wat nuttige feedback gehad wat erg fijn was. Ik heb deze feedback gelijk verwerkt en heb daarna de mail verstuurd naar de stakeholders.
+Vervolgens heb ik deze e-mail laten lezen door mijn stagebegeleider, om nog wat feedback te vragen. Uiteindelijk heb ik wat nuttige feedback gehad wat erg fijn was. Ik heb deze feedback gelijk verwerkt en heb daarna de mail verstuurd naar de stakeholders.
 
 > Hallo Naam,&#x20;
 >
@@ -91,7 +89,7 @@ Nadat ik mijn enquête had opgesteld, heb ik het formulier opgestuurd naar mijn 
 
 <figure><img src="../../.gitbook/assets/ssfeedbackenquete.png" alt=""><figcaption></figcaption></figure>
 
-Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd kan worden naar de stakeholders.
+Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd kan worden naar de belanghebbende.
 
 ## Persona's
 
@@ -99,11 +97,11 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 
 <div>
 
-<figure><img src="../../.gitbook/assets/persona1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/updated persona.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/updated persona 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -111,6 +109,10 @@ Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik
 
 Tijdens het maken van deze persona’s, is het mij duidelijker geworden op welke aspecten ik mij moet focussen bij het designen van het nieuwe Blue Dragon CMS.
 
-Van de persona's die ik heb gemaakt kun je afleiden dat ze allebei ongeveer dezelfde tools gebruiken, omdat ze in hetzelfde vakgebied zitten. Nu dat ik weet welke tools mijn persona's gebruiken op een dagelijkse basis, kan ik rekening houden met het design van die tools. Ook kun je zien dat de voorkeur van communicatie via de mail en telefoon word gedaan, dus hier kan ik ook op letten dat ik ergens het mail adres of telefoon nummer van het contact persoon vermeld. Verder zie je ook dat reizen een hobby is van de persona, dus is het ook wel handig als je het cms kan openen op je mobiel zodat je onderweg ook dingen kan aanpassen.
+Van de persona's die ik heb gemaakt kun je afleiden dat ze allebei ongeveer dezelfde tools gebruiken, omdat ze in hetzelfde vakgebied zitten. Nu dat ik weet welke tools mijn persona's gebruiken op een dagelijkse basis, kan ik rekening houden met het design van die tools. Ook kun je zien dat de voorkeur van communicatie via de mail en telefoon word gedaan, dus hier kan ik ook op letten dat ik ergens het mail adres of telefoon nummer van het contact persoon vermeld. Ook zijn er een aantal frustraties vermeld die volgens de gebruikers in het systeem zitten. Doordat ik deze informatie heb, kan ik bij het design rekening houden met deze belangrijke punten. Verder staat er ook wat de goals zijn van de persona's binnen het CMS. Je kunt hier uit afleiden welke processen de gebruiker binnen dit systeem gebruikt, zo kan ik deze stappen na lopen voor eventuele optimalisatie van deze processen.
+
+## Vervolg stap
+
+Nu dat ik weet waar het mis gaat bij de gebruikers van dit systeem ga ik een ontwerp maken, waar de gebruikers bekend mee zijn en waar de pijnpunten van deze gebruikers worden verholpen.&#x20;
 
 &#x20;
