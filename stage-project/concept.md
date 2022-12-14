@@ -230,5 +230,7 @@ In het huidige component om een formulier aan te maken, kun je zien dat de input
 
 ## Conclusie
 
+Tijdens het ontwerpen van de nieuwe gebruikers interface, heb ik wel een tegenslag gehad. Dit komt omdat er goed rekening gehouden moet worden met de schaalbaarheid van het systeem. Daarom had ik een probleem bij de taal opties, want wat als ik namelijk 8 talen op mijn website wil, dan krijg je een mega lijst die je moet invullen, daarom heb ik dit op een andere manier opgelost dan dat ik in eerste instantie had gedaan.
+
 ## Vervolg stap
 
