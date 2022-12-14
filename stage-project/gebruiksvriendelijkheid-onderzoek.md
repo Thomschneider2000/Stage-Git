@@ -6,7 +6,7 @@
 
 ## Inleiding
 
-In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een eigen CMS ontwikkelt waarin klanten aanpassingen kunnen maken aan verschillende componenten. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
+In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een eigen CMS ontwikkeld waarin klanten aanpassingen kunnen maken aan verschillende componenten. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
 
 In dit gebruiksvriendelijkheid onderzoek wil ik antwoord krijgen op de volgende vragen:
 

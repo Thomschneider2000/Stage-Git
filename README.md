@@ -44,19 +44,15 @@
 
 Beste lezer,
 
-Dit Portfolio beschrijft het proces dat ik doorlopen heb tijdens het ontwerpen en realiseren van een nieuwe user interface voor het modulaire content managementsysteem dat Blue dragon in gebruik heeft.
+Dit Portfolio beschrijft het proces dat ik doorlopen heb tijdens het ontwerpen en realiseren van een nieuwe user interface voor het modulaire content managementsysteem dat Blue dragon heeft gemaakt.
 
-Mijn naam is Thom Schneider, ik heb het afgelopen semester (semester 5) stage gelopen bij het bedrijf Blue Dragon in 's-Hertogenbosch. Ik heb voor het bedrijf Blue Dragon gekozen omdat ik het daar een hele fijne werkomgeving vindt.
-
-## Het Bedrijf
-
-
+Mijn naam is Thom Schneider, ik heb het afgelopen semester (semester 5) stage gelopen bij het bedrijf Blue Dragon in 's-Hertogenbosch.
 
 ## De Opdracht
 
 ### Het Probleem
 
-Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen content in kunnen beheren. Dan moet je denken aan nieuwe pagina's aanmaken, nieuwe modules plaatsen en  content aanpassen zoals Tekst en dergelijke. Bij het ontwikkelen van Blue Dragons CMS is nog niet gekeken naar gebruiksvriendelijkheid omdat het in eerste instantie alleen bedoeld was om intern te gebruiken, maar later was er al snel vraag naar vanuit de klant. Dus nu is het probleem dat de UI van Blue Dragons CMS niet gebruiksvriendelijk is,  wat enigszins lastig kan zijn voor klanten zonder een technische achtergrond.
+Blue Dragon heeft op dit moment een eigen CMS in gebruik waar klanten hun eigen content in kunnen beheren. Dan moet je denken aan nieuwe pagina's aanmaken, nieuwe componenten plaatsen en content aanpassen zoals tekst en dergelijke. Bij het ontwikkelen van Blue Dragons CMS is nog niet gekeken naar gebruiksvriendelijkheid omdat het in eerste instantie alleen bedoeld was om intern te gebruiken, maar later was er al snel vraag naar vanuit de klant. Dus nu is het probleem dat de UI van Blue Dragons CMS niet gebruiksvriendelijk is, wat enigszins lastig kan zijn voor klanten zonder een technische achtergrond.
 
 Design Challenge:
 
