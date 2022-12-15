@@ -194,6 +194,8 @@ Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te ma
 
 </div>
 
+Maar later heb ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht
+
 ### Blok Components
 
 Tijdens het maken van de blok componenten heb ik gekozen voor dit design, je kunt deze blok componenten aanmaken boven en onderaan de pagina, overigens kun je deze dan natuurlijk ook weer verwijderen als je op het prullenbak icoontje klikt. Ook heb ik onderaan elk component een button gemaakt zodat je een nieuwe regel kunt toevoegen. Ik heb ervoor gekozen om deze regels in een apart vak neer te zetten zodat het duidelijk is dat dit gaat om de waardes van een afbeelding of selectie.
@@ -230,7 +232,9 @@ In het huidige component om een formulier aan te maken, kun je zien dat de input
 
 ## Conclusie
 
-Tijdens het ontwerpen van de nieuwe gebruikers interface, heb ik wel een tegenslag gehad. Dit komt omdat er goed rekening gehouden moet worden met de schaalbaarheid van het systeem. Daarom had ik een probleem bij de taal opties, want wat als ik namelijk 8 talen op mijn website wil, dan krijg je een mega lijst die je moet invullen, daarom heb ik dit op een andere manier opgelost dan dat ik in eerste instantie had gedaan.
+Tijdens het ontwerpen van de nieuwe gebruikers interface, heb ik wel een tegenslag gehad. Dit komt omdat er goed rekening gehouden moet worden met de schaalbaarheid van het systeem. Daarom had ik een probleem bij de taal opties, want wat als ik namelijk 8 talen op mijn website wil, dan krijg je een mega lijst die je moet invullen, daarom heb ik dit op een andere manier opgelost dan dat ik in eerste instantie had gedaan. Verder heb ik ook geleerd hoe ik met een grid moest werken, het is handig om met een grid te werken zodat de front-end developers makkelijker objecten kunnen plaatsen.
 
 ## Vervolg stap
+
+Nu dat ik klaar ben met het design wil ik wat test scenarios maken, zodat ik kan testen of de gebruiker zijn doel kan behalen zonder onduidelijkheden tegen te komen binnen het CMS. Ook ga ik wat zelf componenten realiseren door middel van Tailwind.
 

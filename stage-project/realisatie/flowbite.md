@@ -10,7 +10,7 @@ Nadat ik de concept fase heb afgerond, is het tijd om het concept te realiseren.
 
 Tijdens het realiseren van het concept heb ik een library gebruikt genaamd "Flowbite". Ik heb gezocht naar een Tailwind component library die ook Laravel en webpack ondersteund, en toen kwam ik al snel uit bij Flowite. Flowbite is een open-source library van UI componenten gebaseerd op het utility-first Tailwind CSS framework met ondersteuning voor dark mode, een Figma design systeem, en meer.
 
-Het bevat alle veelgebruikte componenten die een website nodig heeft, zoals knoppen, dropdowns, navigatiebalken, modals, maar ook enkele meer geavanceerde interactieve elementen zoals datepickers. Ik heb voor deze Tailwind library gekozen omdat Flowbite, Laravel en webpack compatible is. Er zijn ook meerdere Tailwind component library zoals [Daisyui](https://daisyui.com/) en [Mamba UI](https://mambaui.com/), ik heb niet voor deze gekozen omdat deze niet compatible zijn met Laravel en webpack, dus kan ik het niet toepassen in de echte werkomgeving.
+Het bevat alle veelgebruikte componenten die een website nodig heeft, zoals knoppen, dropdowns, navigatiebalken, modals, maar ook enkele meer geavanceerde interactieve elementen zoals datepickers. Ik heb voor deze Tailwind library gekozen omdat Flowbite, Laravel en webpack compatibel is. Er zijn ook meerdere Tailwind component library zoals [Daisyui](https://daisyui.com/) en [Mamba UI](https://mambaui.com/), ik heb niet voor deze gekozen omdat deze niet compatibel zijn met Laravel en webpack, dus kan ik het niet toepassen in de echte werkomgeving.
 
 ### Set up
 

@@ -14,6 +14,7 @@
   * [Laravel Bootstrap to Tailwind](stage-project/realisatie/laravel-bootstrap-to-tailwind.md)
   * [Flowbite](stage-project/realisatie/flowbite.md)
   * [Componenten realiseren](stage-project/realisatie/componenten-realiseren.md)
+* [Testen](stage-project/testen.md)
 * [Toekomst Concept UI](stage-project/toekomst-concept-ui.md)
 
 ## 🔹 Presentaties
