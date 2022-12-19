@@ -236,5 +236,5 @@ Tijdens het ontwerpen van de nieuwe gebruikers interface, heb ik wel een tegensl
 
 ## Vervolg stap
 
-Nu dat ik klaar ben met het design wil ik wat test scenarios maken, zodat ik kan testen of de gebruiker zijn doel kan behalen zonder onduidelijkheden tegen te komen binnen het CMS. Ook ga ik wat zelf componenten realiseren door middel van Tailwind.
+Nu dat ik klaar ben met het design wil ik wat test scenario's maken, zodat ik kan testen of de gebruiker zijn doel kan behalen zonder onduidelijkheden tegen te komen binnen het CMS. Ook ga ik wat zelf componenten realiseren door middel van Tailwind.
 
