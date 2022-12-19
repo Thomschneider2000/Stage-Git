@@ -68,7 +68,28 @@ Nu dat ik genoeg informatie heb over de huidige omstandigheden kan ik aan de sla
 
 ## Reflectie
 
+Als student die stage liep bij Blue Dragon, was het een ongelooflijk leuke en interessante ervaring om het CMS gebruiksvriendelijk te maken. Door dit project heb ik zowel mijn technische vaardigheden als mijn begrip van user experience kunnen ontwikkelen. Ik kon mijn kennis van user experience design en mijn technische vaardigheden gebruiken om een intuïtiever CMS te maken.
+
+Een van de meest belonende aspecten van dit project was het zien van mijn werk in actie. Nadat ik het CMS had aangepast, kon ik met eigen ogen zien hoe mijn aanpassingen een positieve impact hadden op de gebruikerservaring. Het was fijn om de positieve feedback van gebruikers te zien en te weten dat ik een verschil had kunnen maken.
+
+Deze stage gaf me ook de kans om feedback te krijgen van ervaren professionals in het veld. Ik kon leren van hun feedback en kreeg meer vertrouwen in mijn vaardigheden. &#x20;
+
+Het werken in een team met ontwikkelaars heeft mijn inzicht in het ontwikkelingsproces en het belang van samenwerking zeker vergroot. Ik heb inzicht gekregen in de verschillende rollen die vervuld moeten worden om een effectief en gebruiksvriendelijk CMS te maken. Ik heb ook kunnen leren over codering en de verschillende talen die bij webontwikkeling worden gebruikt. Hierdoor heb ik de elementen van een succesvol CMS beter kunnen begrijpen en hoe ik een CMS kan maken die zowel gebruiksvriendelijk als efficiënt is.
+
+Bovendien heb ik geleerd hoe ik effectief met ontwikkelaars kan communiceren en mijn ideeën op een duidelijke en begrijpelijke manier kan verwoorden. Dit was een geweldige leerervaring omdat ik zo mijn communicatievaardigheden kon oefenen in een professionele omgeving.
+
+Al met al was het ontwerpen van een gebruiksvriendelijk CMS een geweldige leerervaring. Het stelde me in staat mijn kennis van ICT Media toe te passen om een praktisch en nuttig systeem te creëren. Ik was in staat om de behoeften van de gebruiker te begrijpen, een plan op te stellen en een prototype te maken voordat ik een aantal componenten van het systeem ging coderen en testen. Ik heb hierdoor een beter begrip van het proces van het ontwerpen en creëren van een gebruiksvriendelijk content managementsysteem.
+
+Ik ben dankbaar voor de kans om stage te lopen bij Blue Dragon en voor de kans om een echte impact te hebben op de gebruikerservaring van het nieuwe CMS.
+
 ## Communicatie
+
+Ik kreeg de kans om het belang van communicatie in het ontwerpproces te begrijpen, en hoe dit integraal is voor succes.
+
+Tijdens de stage leerde ik het belang van effectieve communicatie om een succesvol gebruiksvriendelijk CMS te creëren. Dit omvatte het luisteren naar de behoeften van klanten, het begrijpen van hun eisen, en vervolgens terug te communiceren naar hen hoe het ontwerp kan voldoen aan hun behoeften. Ik leerde ook het belang van het onderhouden van een goede relatie met klanten, omdat ik zo feedback kon krijgen op het ontwerp en de nodige wijzigingen kon aanbrengen.
+
+Ook zag ik het belang van communicatie binnen het team, zodat iedereen op één lijn zat en samenwerkte. Door goede communicatie konden we ideeën bespreken, van elkaar leren en tot een ontwerp komen dat niet alleen gebruiksvriendelijk is, maar ook esthetisch verantwoord.
 
 ## Persoonlijke groei
 
+Ik ben er trots op hoeveel ik in de loop van mijn studie ben gegroeid als ICT-mediastudent. Ik heb meer vertrouwen gekregen in mijn vermogen om met verschillende software en tools te werken, en ik begrijp hoe belangrijk het is om mijn ideeën effectief te kunnen communiceren om succesvolle projecten te creëren. Ik ben ook trots op mijn vermogen om georganiseerd te blijven en mijn tijd verstandig te beheren om projecten op tijd en zo goed mogelijk af te ronden.
