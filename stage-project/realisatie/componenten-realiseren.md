@@ -22,12 +22,6 @@ Voor deze pop over items heb ik Flowbite gebruikt, Flowbite heeft zelf al een fu
 
 <figure><img src="../../.gitbook/assets/popovers.png" alt=""><figcaption></figcaption></figure>
 
-## Tabel
-
-Ik heb deze tabel ook gemaakt met behulp van Flowbite. Ik ben gaan zoeken naar een tabel component binnen de Flowbite library, uiteindelijk had ik er een gevonden die ik nog wat kan aanpassen zodat het design klopt.
-
-<figure><img src="../../.gitbook/assets/sstableview.png" alt=""><figcaption></figcaption></figure>
-
 ## Conclusie
 
 Het leren van Tailwind code is een interessante ervaring geweest. Het was soms een uitdaging, maar het was ook de moeite waard. Tailwind is een modern CSS framework dat het gemakkelijker maakt om lay-outs te maken, terwijl het ook meer controle geeft over het ontwerp.

@@ -194,7 +194,7 @@ Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te ma
 
 </div>
 
-Maar later heb ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht
+Maar later heb ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht, ik heb er voor gekozen om een soort stappen
 
 ### Blok Components
 
