@@ -1,7 +1,5 @@
 # Testen
 
-<figure><img src="../.gitbook/assets/vaktesting.png" alt=""><figcaption></figcaption></figure>
-
 ## Inleiding
 
 Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit testen door middel van een interactief prototype in Adobe XD.
@@ -16,11 +14,9 @@ Zodra de testcases klaar zijn, ga ik een steekproef doen bij een aantal gebruike
 
 Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren en de gebieden identificeren die moeten worden verbeterd. Dit kunnen wijzigingen zijn in de gebruikersinterface, de navigatie of de functionaliteit van het systeem. Zodra de verbeteringen zijn geïdentificeerd, kan ik het prototype bijwerken en opnieuw testen.
 
-## Testplan
+## Test cases
 
-### Test cases
-
-Ik heb de onderstaande test cases gemaakt op basis van de user requirements.
+Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](concept.md#user-requirements).
 
 > **Testgeval 1:** Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
 >
