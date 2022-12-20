@@ -18,7 +18,7 @@ Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren
 
 Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](concept.md#user-requirements).
 
-> **Testgeval 1:** Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
+> **Test case 1:** Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
 >
 > **Stappen:**
 >
@@ -54,7 +54,7 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 
 
 
-> **Testgeval 2:** Test of pagina-inhoud kan worden toegevoegd aan een pagina met behulp van het CMS.
+> **Test case 2:** Test of extra pagina-inhoud kan worden toegevoegd aan een pagina doormiddel van blokken in het CMS.
 >
 > &#x20;
 >
@@ -69,7 +69,7 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 > 5. Voeg in de content editor extra content toe aan de pagina (bijv. tekst, afbeeldingen, video's, etc.)
 > 6. Klik onderaan de pagina op de knop "Nieuw blok"
 > 7. Selecteer een blok type uit de dropdown.
-> 8. Vul de inhoud in van het nieuwe blok.
+> 8. Vul de inhoud in voor het nieuwe blok.
 > 9. Klik op de knop "Opslaan" om de wijzigingen op te slaan
 >
 > &#x20;
