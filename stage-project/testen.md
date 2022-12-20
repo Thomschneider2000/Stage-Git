@@ -10,9 +10,9 @@ Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit
 
 Het testen van interactieve prototypes voor een gebruiksvriendelijk CMS is een belangrijk onderdeel van het creëren van een succesvol eindproduct. Bij het testen van interactieve prototypes is het belangrijk om rekening te houden met de gebruiker en hun ervaring met het systeem. Door het uitvoeren van grondige tests kan ik ervoor zorgen dat het CMS intuïtief, gebruiksvriendelijk en makkelijk te gebruiken is.
 
-Bij het testen van interactieve prototypes is het belangrijk om te beginnen met het maken van een testplan. Dit plan moet het ontwerp van het prototype en de taken die de gebruiker gaat uitvoeren bevatten. Door het opstellen van een plan heb ik een stappenplan van wat er getest moet worden, en hoe het succes van het prototype gemeten kan worden.
+Bij het testen van interactieve prototypes is het belangrijk om te beginnen met het maken van testcases. De testcases moeten het ontwerp van het prototype en de taken die de gebruiker gaat uitvoeren bevatten. Door het opstellen van de testcases heb ik een stappenplan van wat er getest moet worden, en hoe het succes van het prototype gemeten kan worden.
 
-Zodra het testplan klaar is, ga ik een steekproef doen bij een aantal gebruikers. Deze steekproef bestaat uit gebruikers die het CMS daadwerkelijk gaan gebruiken, maar ook uit gebruikers die niet bekend zijn met het systeem. Ik ga ook de ervaring van de gebruikers volgen terwijl ze met het prototype werken. Dit omvat het maken van aantekeningen over hoe de gebruiker omgaat met het systeem, en de feedback die ze geven.
+Zodra de testcases klaar zijn, ga ik een steekproef doen bij een aantal gebruikers. Deze steekproef bestaat uit gebruikers die het CMS daadwerkelijk gaan gebruiken, maar ook uit gebruikers die niet bekend zijn met het systeem. Ik ga ook de ervaring van de gebruikers volgen terwijl ze met het prototype werken. Dit omvat het maken van aantekeningen over hoe de gebruiker omgaat met het systeem, en de feedback die ze geven.
 
 Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren en de gebieden identificeren die moeten worden verbeterd. Dit kunnen wijzigingen zijn in de gebruikersinterface, de navigatie of de functionaliteit van het systeem. Zodra de verbeteringen zijn geïdentificeerd, kan ik het prototype bijwerken en opnieuw testen.
 
@@ -22,9 +22,77 @@ Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren
 
 Ik heb de onderstaande test cases gemaakt op basis van de user requirements.
 
+> **Testgeval 1:** Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
+>
+> **Stappen:**
+>
+> ****
+>
+> 1. Log in op het CMS met een geldige gebruikersaccount.
+> 2. Log in op het CMS met een geldige gebruikersaccount.
+> 3. Navigeer naar de "Pagina's" sectie van het CMS.
+> 4. Klik op de "Nieuwe pagina" knop.
+> 5. Voer de instellingen in van de pagina.
+> 6. Voer de inhoud in van de pagina.
+> 7. Voeg een gebruiker toe aan de pagina, die deze pagina kan beheren.
+> 8. Voer de Seo informatie in van de pagina.
+> 9. Klik op de knop "Opslaan" om de nieuwe pagina op te slaan.
+>
+>
+>
+> **Verwacht resultaat:**
+>
+> Een nieuwe pagina met de opgegeven naam en inhoud wordt gemaakt en getoond in de "Pagina" sectie van het CMS.
+>
+>
+>
+> **Werkelijk resultaat:**
+>
+> Een nieuwe pagina met de opgegeven naam en inhoud is succesvol aangemaakt en wordt getoond in de "Pagina" sectie van het CMS.
+>
+>
+>
+> **Conclusie:**
+>
+> De testcase is geslaagd, aangezien de gebruiker zoals verwacht een nieuwe pagina kon aanmaken met behulp van het CMS.
 
 
 
+> **Testgeval 2:** Test of pagina-inhoud kan worden toegevoegd aan een pagina met behulp van het CMS.
+>
+> &#x20;
+>
+> **Stappen:**
+>
+> &#x20;
+>
+> 1. Log in op het CMS met een geldige gebruikersaccount.
+> 2. Navigeer naar de "Pagina's" sectie van het CMS.
+> 3. Zoek de pagina die in de vorige testcase is aangemaakt.
+> 4. Klik op de "Edit" knop voor de pagina
+> 5. Voeg in de content editor extra content toe aan de pagina (bijv. tekst, afbeeldingen, video's, etc.)
+> 6. Klik onderaan de pagina op de knop "Nieuw blok"
+> 7. Selecteer een blok type uit de dropdown.
+> 8. Vul de inhoud in van het nieuwe blok.
+> 9. Klik op de knop "Opslaan" om de wijzigingen op te slaan
+>
+> &#x20;
+>
+> **Verwacht resultaat:**
+>
+> De extra inhoud is toegevoegd aan de pagina en wordt correct weergegeven in de tabel waar de blokken staan.
+>
+> &#x20;
+>
+> **Werkelijk resultaat:**
+>
+> De extra inhoud is toegevoegd aan de pagina en wordt correct weergegeven in de blok tabel. De inhoud van de pagina is bijgewerkt zoals verwacht.
+>
+> &#x20;
+>
+> **Conclusie:**
+>
+> De testcase is geslaagd, want de gebruiker was in staat om met behulp van het CMS de pagina-inhoud aan de pagina toe te voegen.
 
 
 
