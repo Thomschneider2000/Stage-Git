@@ -20,7 +20,13 @@ Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren
 
 Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](concept.md#user-requirements).
 
-> **Test case 1:** Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
+### Test case 1
+
+> **Beschrijving:**&#x20;
+>
+> Test of de gebruiker een nieuwe pagina kan aanmaken met behulp van het CMS.
+>
+>
 >
 > **Stappen:**
 >
@@ -56,7 +62,11 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 
 
 
-> **Test case 2:** Test of extra pagina-inhoud kan worden toegevoegd aan een pagina doormiddel van blokken in het CMS.
+### Test case 2
+
+> **Beschrijving:**&#x20;
+>
+> Test of extra pagina-inhoud kan worden toegevoegd aan een pagina door middel van blokken in het CMS.
 >
 > &#x20;
 >
@@ -67,12 +77,12 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 > 1. Log in op het CMS met een geldige gebruikersaccount.
 > 2. Navigeer naar de "Pagina's" sectie van het CMS.
 > 3. Zoek de pagina die in de vorige testcase is aangemaakt.
-> 4. Klik op de "Edit" knop voor de pagina
+> 4. Klik op de "Edit" knop voor de pagina.
 > 5. Voeg in de content editor extra content toe aan de pagina (bijv. tekst, afbeeldingen, video's, etc.)
-> 6. Klik onderaan de pagina op de knop "Nieuw blok"
+> 6. Klik onderaan de pagina op de knop "Nieuw blok".
 > 7. Selecteer een blok type uit de dropdown.
 > 8. Vul de inhoud in voor het nieuwe blok.
-> 9. Klik op de knop "Opslaan" om de wijzigingen op te slaan
+> 9. Klik op de knop "Opslaan" om de wijzigingen op te slaan.
 >
 > &#x20;
 >
@@ -91,6 +101,43 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 > **Conclusie:**
 >
 > De testcase is geslaagd, want de gebruiker was in staat om met behulp van het CMS de pagina-inhoud aan de pagina toe te voegen.
+
+### Test case 3
+
+> **Beschrijving:**&#x20;
+>
+> Test of de gebruiker een gebruiker kan aanmaken en een rol kan toevoegen.
+>
+> &#x20;
+>
+> **Stappen:**
+>
+> &#x20;
+>
+> 1. Log in op het CMS met een geldige gebruikersaccount.
+> 2. Navigeer naar de "Gebruikers" sectie van het CMS.
+> 3. Klik op de "Nieuwe gebruiker" knop voor op pagina.
+> 4. Vul de gebruikers gegevens in voor de nieuwe gebruiker.
+> 5. Voeg een rol toe aan de nieuwe gebruiker.
+> 6. Klik op de knop "Opslaan" om de wijzigingen op te slaan.
+>
+> &#x20;
+>
+> **Verwacht resultaat:**
+>
+> De nieuwe gebruiker is toegevoegd met de gewenste rol en wordt weergegeven in de gebruikers tabel.
+>
+> &#x20;
+>
+> **Werkelijk resultaat:**
+>
+> De nieuwe gebruiker wordt toegevoegd met de gewenste rol, en de nieuwe gebruiker wordt correct weergegeven in de gebruiker tabel.
+>
+> &#x20;
+>
+> **Conclusie:**
+>
+> De testcase is geslaagd, want de gebruiker was in staat om een nieuwe gebruiker aan te maken met een gewenste rol.
 
 
 

@@ -194,7 +194,9 @@ Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te ma
 
 </div>
 
-Maar later heb ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht, ik heb er voor gekozen om een soort stappen
+Maar later had ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht, ik heb er voor gekozen om in stappen te werken, dus je bent een soort van verplicht om elke taal in te voeren, wat ook de bedoeling is. Ook heb je de optie om bij de Engelse taal keuze de button "Overal toepassen" aan te klikken. Deze heb ik gemaakt zodat er altijd een fallback taal is, voor het geval dat een website een snelle disclaimer ergens moet neerzetten. Verder heb je ook nog de optie om te beginnen bij een taal waar de gebruiker een voorkeur voor heeft, zo is de volgorde van invullen altijd zoals de gebruiker dat wilt.
+
+<figure><img src="../.gitbook/assets/multilanguage.png" alt=""><figcaption></figcaption></figure>
 
 ### Blok Components
 

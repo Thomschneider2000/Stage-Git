@@ -29,3 +29,7 @@
 * [Abbott Adobe Experience Manager](extra-werkzaamheden/abbott-adobe-experience-manager.md)
 * [Abbvie](extra-werkzaamheden/abbvie.md)
 * [De Rooi Pannen](extra-werkzaamheden/de-rooi-pannen.md)
+* [Beetees](extra-werkzaamheden/beetees.md)
+* [Van Heylen](extra-werkzaamheden/van-heylen.md)
+* [Dunck CRM](extra-werkzaamheden/dunck-crm.md)
+* [Routeplanner](extra-werkzaamheden/routeplanner.md)
