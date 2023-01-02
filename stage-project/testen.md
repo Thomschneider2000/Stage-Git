@@ -6,7 +6,7 @@
 
 Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit testen door middel van een interactief prototype in Adobe XD.
 
-## Testen
+## Usability onderzoek
 
 Het testen van interactieve prototypes voor een gebruiksvriendelijk CMS is een belangrijk onderdeel van het creëren van een succesvol eindproduct. Bij het testen van interactieve prototypes is het belangrijk om rekening te houden met de gebruiker en hun ervaring met het systeem. Door het uitvoeren van grondige tests kan ik ervoor zorgen dat het CMS intuïtief, gebruiksvriendelijk en makkelijk te gebruiken is.
 
@@ -139,5 +139,5 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 >
 > De testcase is geslaagd, want de gebruiker was in staat om een nieuwe gebruiker aan te maken met een gewenste rol.
 
-
+## Conclusie
 

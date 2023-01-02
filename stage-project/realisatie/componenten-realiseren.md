@@ -18,9 +18,13 @@ Voor meer informatie over de documentatie van Tailwind verwijs ik u door naar:
 
 ## Pop over items
 
-Voor deze pop over items heb ik Flowbite gebruikt, Flowbite heeft zelf al een functie die javascript events triggert dus dat is wel fijn. Ik heb daarna deze pop over items gevuld met de gewenste content en buttons.
+Voor deze pop over items heb ik Flowbite gebruikt, Flowbite heeft zelf al een functie die JavaScript events triggert dus dat is wel fijn. Ik heb daarna deze pop over items gevuld met de gewenste content en buttons.
 
 <figure><img src="../../.gitbook/assets/popovers.png" alt=""><figcaption></figcaption></figure>
+
+## Implementatie
+
+Deze compontenten worden aparte blade files gemaakt, vervolgens worden deze opgeslagen op de Git van Blue Dragon. Omdat de huidige omgeving met Laravel werkt is het makkelijk om via Git een component in te laden. De componenten die ik hierboven heb gemaakt komen op de Git te staan zodat deze ingeladen kunnen worden voor het nieuwe design.
 
 ## Conclusie
 
@@ -28,5 +32,5 @@ Het leren van Tailwind code is een interessante ervaring geweest. Het was soms e
 
 Ik vond dat Tailwind het gemakkelijker maakte om een consistente look en feel te creëren voor het CMS. Het was ook gemakkelijk om het uiterlijk van het CMS aan te passen door de Tailwind classes aan te passen. Ik kon snel stijlen toevoegen aan mijn elementen, zonder extra code te hoeven schrijven.
 
-Ik waardeerde ook hoe intuïtief Tailwind te gebruiken was. Met zijn goed gedocumenteerde klassen, was ik in staat om snel de basis op te pikken en te beginnen met het creëren van mijn eigen aangepaste ontwerp. De Tailwind documentatie was ook ongelooflijk behulpzaam, omdat het gedetailleerde informatie gaf over elke klasse en hoe ik deze moet gebruiken.
+
 

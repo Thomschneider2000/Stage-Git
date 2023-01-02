@@ -2,11 +2,9 @@
 
 <figure><img src="../../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../../.gitbook/assets/Doelgroep Persona Gefinaliseerd.pdf" %}
-
 ## Inleiding
 
-Nu dat ik weet waar de fouten liggen binnen het huidige design en hoe ik gebruiksvriendelijkheid moet toepassen en testen, ben ik begonnen met het maken van persona's. Omdat de doelgroep bij Blue Dragon al bekend is, heeft het geen zin om te beginnen met een heel nieuw doelgroep onderzoek. Daarom heb ik ervoor gekozen om een aantal persona op te stellen. Ik heb hiervoor gekozen omdat ik dan een goede en duidelijke visualisatie kan krijgen van mijn onderzoeksresultaten, zo wordt het een stuk makkelijker om content te produceren wat bij de behoeften en wensen van de stakeholder past.
+Ik heb gekozen om een aantal persona's te maken, zodat ik erachter kan komen waar het fout gaat bij de klanten. Met behulp van het maken van persona's krijg ik een visueel beeld van mijn onderzoeksresultaten.
 
 ## Onderzoeksmethoden
 
@@ -28,39 +26,6 @@ Betrek belanghebbenden en andere deskundigen vroeg in het ontwerpproces om een i
 
 Bij Literature study maak je gebruik van bestaande informatie. Bijvoorbeeld informatie die je online vindt. Dit vraagt wel een tijdsinvestering, omdat je de resultaten vervolgens ook goed moet analyseren.&#x20;
 
-## Hoe maak je een persona?
-
-#### 1. Online Desk research
-
-Je kunt veel informatie voor het maken van je persona online vinden. Gebruik informatie uit Google Analytics zoals geslacht en leeftijd van je websitebezoekers.&#x20;
-
-Als je doelgroep uit een bepaalde stad of provincie komt, kun je bijvoorbeeld Wikipedia gebruiken om meer te leren over deze locatie. Bekijk hoe er over je product of dienst wordt gesproken op social media.
-
-* Bestaan er relevante LinkedIn groepen rondom je business?
-* Zijn er video’s over je product op YouTube?
-* Hoe zoekt je doelgroep in zoekmachines?
-* Welke vragen worden er gesteld in Google?
-
-#### 2. Field research bij bestaande klanten
-
-Gebruik informatie die je al hebt van bestaande klanten. Niet alleen demografische gegevens en andere data, maar ook achterliggende vraagstukken of uitdagingen.
-
-* Wat speelt er momenteel bij ze?
-* Welke problemen los je voor ze op?
-* Waarom hebben ze voor jou gekozen?
-
-#### 3. Analyseer je gegevens
-
-Nu dat je een behoorlijke hoeveelheid gegevens verzameld hebt. Kun je deze informatie samenvatten met behulp van het online onderzoek en field onderzoek.
-
-#### 4. Persona maken
-
-Nu dat er onderzoek is gedaan en alle informatie geanalyseerd is, is het tijd om de persona's te gaan uitwerken.
-
-## Wat moet je voorkomen bij het maken van persona’s?
-
-Probeer te voorkomen dat je jouw persona te veel baseert op één bestaande klant. Het is juist de bedoeling om gegevens van al je belangrijke klanten te bundelen. Voorkom ook dat je te veel aan de oppervlakte blijft, bijvoorbeeld door je persona alleen op demografische gegevens te baseren. Juist de doelen en motivaties zijn belangrijk om de persona volledig te begrijpen.
-
 ## Enquête Opstellen
 
 Ik heb een enquête gemaakt om erachter te komen wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken. Verder heb ik ook nog wat aanvullende informatie gevraagd zodat ik mijn persona's beter kan opstellen.
@@ -71,7 +36,7 @@ Na wat zoeken ben ik uiteindelijk bij een website gekomen met een artikel over "
 
 {% embed url="https://www.enquete.com/nl/blog-1058-met-deze-7-tips-zorg-je-ervoor-dat-mensen-jouw-vragenlijst-invullen" %}
 
-Vervolgens heb ik deze e-mail laten lezen door mijn stagebegeleider, om nog wat feedback te vragen. Uiteindelijk heb ik wat nuttige feedback gehad wat erg fijn was. Ik heb deze feedback gelijk verwerkt en heb daarna de mail verstuurd naar de stakeholders.
+Vervolgens heb ik deze e-mail laten lezen door mijn stagebegeleider, om nog wat feedback te vragen. Uiteindelijk heb ik wat nuttige feedback gehad wat erg fijn was. Ik heb deze feedback gelijk verwerkt en heb daarna de mail verstuurd naar de belanghebbende die dit systeem nu in gebruik hebben.
 
 > Hallo Naam,&#x20;
 >
@@ -91,9 +56,9 @@ Nadat ik mijn enquête had opgesteld, heb ik het formulier opgestuurd naar mijn 
 
 Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd kan worden naar de belanghebbende.
 
-## Persona's
+Na een tijd gewacht te hebben, had ik 4 reacties gekregen op mijn enquête. In de enquête werden de deelnemers gevraagd naar hun ervaring met het CMS. Veel van de respondenten meldden dat het CMS niet gebruiksvriendelijk was en noemden moeilijkheden bij het navigeren door de interface en dat er veel lastige termen werden gebruikt. In het algemeen bleek uit de resultaten van de enquête dat er aanzienlijke problemen waren met de bruikbaarheid van het CMS voor de klanten van Blue Dragon.&#x20;
 
-Na een tijdje wachten heb ik een aantal antwoorden gekregen op mijn enquête. Ik heb mijn persona's gemaakt met een tool van Hubspot.&#x20;
+## Persona's
 
 <div>
 
@@ -113,6 +78,6 @@ Van de persona's die ik heb gemaakt kun je afleiden dat ze allebei ongeveer deze
 
 ## Vervolg stap
 
-Nu dat ik weet waar het mis gaat bij de gebruikers van dit systeem ga ik een ontwerp maken, waar de gebruikers bekend mee zijn en waar de pijnpunten van deze gebruikers worden verholpen.&#x20;
+Nu dat ik weet waar het mis gaat bij de gebruikers van dit systeem ga ik een marktonderzoek starten. Ik ga dit onderzoek doen om erachter te komen welke concurrenten er zijn, welke functies ze hebben, hoe gebruikers ermee omgaan, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
 
 &#x20;

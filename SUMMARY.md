@@ -6,16 +6,17 @@
 
 * [Research](stage-project/research/README.md)
   * [Project Plan](stage-project/project-plan.md)
+  * [Persona's](stage-project/research/personas.md)
   * [Marktonderzoek](stage-project/marktonderzoek.md)
   * [Gebruiksvriendelijkheid Onderzoek](stage-project/gebruiksvriendelijkheid-onderzoek.md)
-  * [Persona's](stage-project/research/personas.md)
 * [Concept](stage-project/concept.md)
 * [Realisatie](stage-project/realisatie/README.md)
   * [Laravel Bootstrap to Tailwind](stage-project/realisatie/laravel-bootstrap-to-tailwind.md)
   * [Flowbite](stage-project/realisatie/flowbite.md)
   * [Componenten realiseren](stage-project/realisatie/componenten-realiseren.md)
 * [Testen](stage-project/testen.md)
-* [Toekomst Concept UI](stage-project/toekomst-concept-ui.md)
+* [Toekomst Concept](stage-project/toekomst-concept.md)
+* [Reflectie](stage-project/reflectie.md)
 
 ## 🔹 Presentaties
 

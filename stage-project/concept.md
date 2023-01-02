@@ -22,7 +22,7 @@ Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo 
 
 ## Inspiratie
 
-Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem in gebruik heeft tools zoals Canva, LMS en andere soorten CMS gebruikt, ben ik gaan zoeken naar een modern en gebruiksvriendelijk design wat aansluit op deze tools die gebruikt worden. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen.    &#x20;
+Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem in gebruik heeft tools zoals Canva, LMS en andere soorten CMS gebruikt, ben ik gaan zoeken naar een modern en gebruiksvriendelijk design wat aansluit op deze tools die gebruikt worden. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen. Een van de redenen waarom ik deze ontwerpen heb gekozen, is dat het visueel aantrekkelijk en gebruiksvriendelijk is. De lay-out is schoon en intuïtief, waardoor het voor gebruikers gemakkelijk is om de inhoud die ze zoeken te vinden.
 
 <div>
 
@@ -33,8 +33,6 @@ Om te beginnen met een nieuw design voor een user interface ben ik wat inspirati
 <figure><img src="../.gitbook/assets/ssinspiratie2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-Nadat ik een keuze had gemaakt in welke richting ik mijn design wil laten gaan, ben ik begonnen met het maken van wat wireframes.
 
 ## Wireframes
 
@@ -110,7 +108,7 @@ Tijdens het doornemen van het huidige CMS van Blue Dragon kom je soms veel terme
 
 ### Table Component
 
-Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen.
+Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen.&#x20;
 
 <figure><img src="../.gitbook/assets/sstableview.png" alt=""><figcaption></figcaption></figure>
 

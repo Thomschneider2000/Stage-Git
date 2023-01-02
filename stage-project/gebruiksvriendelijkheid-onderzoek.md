@@ -2,8 +2,6 @@
 
 <figure><img src="../.gitbook/assets/vakgebruiksvriendelijkheidonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Gebruiksvriendelijkheid onderzoek Gefinaliseerd.pdf" %}
-
 ## Inleiding
 
 In dit document ga ik onderzoek doen naar hoe ik iets gebruiksvriendelijk maak. Blue Dragon heeft een eigen CMS ontwikkeld waarin klanten aanpassingen kunnen maken aan verschillende componenten. De functionaliteit werkt al naar behoren, alleen is hier nog niet naar gekeken vanuit een gebruikersperspectief. Mijn taak hiervoor is een gebruiksvriendelijk design te maken voor Blue Dragon’s CMS. Ik ben hier onderzoek naar gaan doen omdat dit zeer relevant is voor mijn project aangezien ik de gebruiksvriendelijkheid moet verbeteren.
@@ -42,9 +40,7 @@ Een voorbeeld van gebruiksvriendelijkheid is, bij het invullen van een contact o
 
 ## Waarom is gebruiksvriendelijkheid belangrijk?
 
-De gebruiksvriendelijkheid bepaald de ervaring van de gebruiker van je website. Hierbij moet je denken aan bijvoorbeeld de navigatie, lay-out van de pagina, typografie en kleurgebruik. Het ligt ook aan de websitesoftware, als deze snel en makkelijk is kan de bezoeker beter gebruik maken van de website voor een betere ervaring.&#x20;
-
-Maar waarom is gebruiksvriendelijkheid nu belangrijk? Een gebruiksvriendelijke website leidt namelijk tot terugkerende bezoekers wat kan resulteren in loyaliteit, meer conversies en interactie met de klant.
+De gebruiksvriendelijkheid bepaald de ervaring van de gebruiker van je website. Hierbij moet je denken aan bijvoorbeeld de navigatie, lay-out van de pagina, typografie en kleurgebruik. Het ligt ook aan de websitesoftware, als deze snel en makkelijk is kan de bezoeker beter gebruik maken van het CMS voor een betere ervaring.&#x20;
 
 ## Welke aspecten maken het CMS van Blue Dragon niet gebruiksvriendelijk?
 
@@ -140,7 +136,7 @@ In dit onderzoek is gezocht naar een antwoord op de vraag: “Hoe maak ik iets g
 
 Uit de resultaten van dit onderzoek is gebleken dat er vele verschillende aspecten zijn om iets gebruiksvriendelijk te maken. Zo zijn de grootste en belangrijkste aspecten; overzichtelijkheid, herkenbaarheid, logica en de samenhang van het systeem. Om deze aspecten te testen zijn er ook veel methodes die toegepast kunnen worden om zo informatie te verkrijgen over de gebruikservaring.&#x20;
 
-De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen.
+De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen. In mijn geval is de methode usability onderzoek het beste omdat ik dit ook kan toetsen bij de klanten van Blue Dragon.
 
 ## Vervolg stap
 

@@ -2,8 +2,6 @@
 
 <figure><img src="../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Marktonderzoek Gefinaliseerd.pdf" %}
-
 ## Inleiding
 
 Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
@@ -36,7 +34,7 @@ Een concurrentieanalyse wordt vaak uitgevoerd door te kijken naar de producten o
 
 Contentmanagementsystemen zijn een belangrijk onderdeel van de online business. CMS'en worden gebruikt als hulpmiddel om inhoud op internet te publiceren en te bewerken. Ze helpen bij het beter doorzoekbaar en toegankelijk maken van inhoud via verschillende platforms. De meest voorkomende CMS'en zijn WordPress, Drupal, Joomla, SharePoint en PrestaShop.
 
-Voor deze concurrentieanalyse kies ik de grootste CMS concurrent Wordpress. WordPress is een systeem om een website, blog of een webshop mee te beheren zonder dat je hier veel technische kennis voor nodig hebt. Hoewel WordPress draait op de programmeertaal PHP, hoef je zelf geen regel PHP te schrijven als je een website wilt bouwen met WordPress. Doordat WordPress zo eenvoudig is in gebruik, wordt het tegenwoordig enorm veel gebruikt voor het maken van websites.&#x20;
+Voor deze concurrentieanalyse kies ik de Wordpress, ik heb hiervoor gekozen omdat ik van mijn enquete kan afleiden dat de klanten van Blue Dragon Wordpress gebruiken dus zijn ze al bekend met hoe het systeem werkt. WordPress is een systeem om een website, blog of een webshop mee te beheren zonder dat je hier veel technische kennis voor nodig hebt. Hoewel WordPress draait op de programmeertaal PHP, hoef je zelf geen regel PHP te schrijven als je een website wilt bouwen met WordPress. Doordat WordPress zo eenvoudig is in gebruik, wordt het tegenwoordig enorm veel gebruikt voor het maken van websites.&#x20;
 
 WordPress is open source, wat inhoudt dat iedereen de code van WordPress kan inzien, aanpassen en verspreiden. Je kunt volledig gratis een kopie van WordPress downloaden op WordPress.org. Hier mag je vervolgens mee doen wat je wilt.
 
