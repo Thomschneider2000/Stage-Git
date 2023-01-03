@@ -6,13 +6,17 @@
 
 Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit testen door middel van een interactief prototype in Adobe XD.
 
-## Usability onderzoek
+## Testplan
 
-Het testen van interactieve prototypes voor een gebruiksvriendelijk CMS is een belangrijk onderdeel van het creëren van een succesvol eindproduct. Bij het testen van interactieve prototypes is het belangrijk om rekening te houden met de gebruiker en hun ervaring met het systeem. Door het uitvoeren van grondige tests kan ik ervoor zorgen dat het CMS intuïtief, gebruiksvriendelijk en makkelijk te gebruiken is.
+#### Usability onderzoek
 
-Bij het testen van interactieve prototypes is het belangrijk om te beginnen met het maken van testcases. De testcases moeten het ontwerp van het prototype en de taken die de gebruiker gaat uitvoeren bevatten. Door het opstellen van de testcases heb ik een stappenplan van wat er getest moet worden, en hoe het succes van het prototype gemeten kan worden.
+Het testen van interactieve prototypes voor een gebruiksvriendelijk CMS is een belangrijk onderdeel van het creëren van een succesvol eindproduct. Bij het testen van interactieve prototypes is het belangrijk om rekening te houden met de gebruiker en hun ervaring met het systeem.&#x20;
 
-Zodra de testcases klaar zijn, ga ik een steekproef doen bij een aantal gebruikers. Deze steekproef bestaat uit gebruikers die het CMS daadwerkelijk gaan gebruiken, maar ook uit gebruikers die niet bekend zijn met het systeem. Ik ga ook de ervaring van de gebruikers volgen terwijl ze met het prototype werken. Dit omvat het maken van aantekeningen over hoe de gebruiker omgaat met het systeem, en de feedback die ze geven.
+<figure><img src="../.gitbook/assets/interactiefprototype.png" alt=""><figcaption></figcaption></figure>
+
+Door het uitvoeren van grondige tests kan ik ervoor zorgen dat het CMS intuïtief, gebruiksvriendelijk en makkelijk te gebruiken is. Bij het testen van interactieve prototypes is het belangrijk om te beginnen met het maken van testcases. De testcases moeten het ontwerp van het prototype en de taken die de gebruiker gaat uitvoeren bevatten.&#x20;
+
+Door het opstellen van de testcases heb ik een stappenplan van wat er getest moet worden, en hoe het succes van het prototype gemeten kan worden. Zodra de testcases klaar zijn, ga ik een steekproef doen bij een aantal gebruikers. Deze steekproef bestaat uit gebruikers die het CMS daadwerkelijk gaan gebruiken, maar ook uit gebruikers die niet bekend zijn met het systeem. Ik ga ook de ervaring van de gebruikers volgen terwijl ze met het prototype werken. Dit omvat het maken van aantekeningen over hoe de gebruiker omgaat met het systeem, en de feedback die ze geven.
 
 Nadat het testen van de gebruikers is voltooid, moet ik de resultaten analyseren en de gebieden identificeren die moeten worden verbeterd. Dit kunnen wijzigingen zijn in de gebruikersinterface, de navigatie of de functionaliteit van het systeem. Zodra de verbeteringen zijn geïdentificeerd, kan ik het prototype bijwerken en opnieuw testen.
 
@@ -59,8 +63,6 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 > **Conclusie:**
 >
 > De testcase is geslaagd, aangezien de gebruiker zoals verwacht een nieuwe pagina kon aanmaken met behulp van het CMS.
-
-
 
 ### Test case 2
 
@@ -141,3 +143,6 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 
 ## Conclusie
 
+Aan het begin van het project heb ik een aantal onderzoeken gedaan die ik tijdens het testen kan toetsen, zo heb ik persona's gemaakt zodat ik weet wat de wensen en frustraties van de gebruikers zijn. Met deze informatie kon ik een design maken wat goed aansluit bij de gebruikers. Zo heb ik bijvoorbeeld de breadcrumbs duidelijker aangegeven zodat gebruikers kunnen zien in welke laag ze zitten, zodat de flow van het systeem beter verloopt. Ook heb ik door middel van mijn marktonderzoek kunnen aantonen welke functies ik heb overgenomen zodat ik deze kan toepassen in het nieuwe CMS ontwerp van Blue Dragon. Deze functies zijn bijvoorbeeld, de optie om meerdere rows te selecteren, een extra filter optie en de optie om verschillende componenten te kunnen dupliceren. En tot slot mijn onderzoek over gebruiksvriendelijkheid, waar ik heb kunnen vaststellen waar het mis gaat bij het huidige design, en hoe ik dit probleem kan oplossen.&#x20;
+
+Aan de hand van het usability onderzoek, kan ik concluderen dat het nieuwe design goed en efficiënt werkt. Tijdens het testen wisten de gebruikers goed waar ze naar toe moesten navigeren om uiteindelijk hun doel te bereiken, dit valideert dat mijn onderzoeken een goede impact hebben gehad om het design gebruiksvriendelijk te maken.

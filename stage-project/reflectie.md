@@ -1,5 +1,7 @@
 # Reflectie
 
+<figure><img src="../.gitbook/assets/vakreflectie.png" alt=""><figcaption></figcaption></figure>
+
 ### Reflectie
 
 Als media student die stage liep bij Blue Dragon, was het een ongelooflijk leuke en interessante ervaring om het CMS gebruiksvriendelijk te maken. Door dit project heb ik zowel mijn technische vaardigheden als mijn begrip van user experience kunnen ontwikkelen. Ik kon mijn kennis van user experience design, en mijn technische vaardigheden gebruiken om een intuïtiever CMS te maken.

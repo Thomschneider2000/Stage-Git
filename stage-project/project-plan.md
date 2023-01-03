@@ -2,10 +2,6 @@
 
 <figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>
 
-{% file src="../.gitbook/assets/Projectplan Gefinaliseerd.pdf" %}
-Projectplan Thom Schneider&#x20;
-{% endfile %}
-
 ## Inleiding
 
 Het projectplan is een document dat wordt gebruikt om zowel de projectuitvoering als de projectcontrole te begeleiden.\
@@ -26,7 +22,7 @@ Naast online productie en activatie, social mediamanagement en SEO bieden ze nog
 
 ### Doel van het project
 
-Het doel van het project is dat er een gebruiksvriendelijke User interface moet komen voor een modulair content managementsysteem, omdat tijdens de ontwikkeling van dit beheersysteem enkel is nagedacht over de technische vereisten en nog niet bekeken is vanuit een gebruikersperspectief. Mijn taak voor deze opdracht is ervoor zorgen dat de user interface van dit systeem gebruikersvriendelijk wordt.
+Het doel van het project is dat er een gebruiksvriendelijke User interface moet komen voor de klanten, omdat tijdens de ontwikkeling van dit beheersysteem enkel is nagedacht over de technische vereisten en nog niet bekeken is vanuit een gebruikersperspectief. Mijn taak voor deze opdracht is ervoor zorgen dat de user interface van dit systeem gebruikersvriendelijk wordt. Het eind doel van dit project is dan ook om een gebruiksvriendelijk ontwerp neer te zetten voor de klanten van Blue Dragon. Het CMS wat Blue Dragon wordt alleen geleverd aan klanten die een website hebben gemaakt door Blue Dragon, dit CMS is dus niet voor iedereen beschikbaar.
 
 ### De opdracht
 

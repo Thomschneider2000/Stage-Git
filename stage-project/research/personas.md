@@ -28,7 +28,7 @@ Bij Literature study maak je gebruik van bestaande informatie. Bijvoorbeeld info
 
 ## Enquête Opstellen
 
-Ik heb een enquête gemaakt om erachter te komen wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken. Verder heb ik ook nog wat aanvullende informatie gevraagd zodat ik mijn persona's beter kan opstellen.
+Ik heb een enquête gemaakt om erachter te komen wat de belanghebbende leuk of niet leuk vinden, wat hun pijnpunten zijn, en vooral, wat hun doelen zijn en hoe zij die gewoonlijk bereiken. Verder heb ik ook nog wat aanvullende informatie gevraagd zodat ik mijn persona's beter kan opstellen. [\[1\]](https://enqueteexpert.nl/enquete-vragen-voorbeelden/website-beoordeling-gebruiksvriendelijkheid)
 
 Nadat ik de enquête heb opgesteld, heb ik een e-mail gemaakt waarin ik vraag of de gebruikers van dit systeem deze graag zouden willen invullen. Ik heb daarom op het internet opgezocht hoe ik een goede email moet formuleren om te vragen of iemand een enquête wil invullen.&#x20;
 
@@ -56,9 +56,11 @@ Nadat ik mijn enquête had opgesteld, heb ik het formulier opgestuurd naar mijn 
 
 Vervolgens heb ik de feedback van de enquête verbeterd zodat deze opgestuurd kan worden naar de belanghebbende.
 
-Na een tijd gewacht te hebben, had ik 4 reacties gekregen op mijn enquête. In de enquête werden de deelnemers gevraagd naar hun ervaring met het CMS. Veel van de respondenten meldden dat het CMS niet gebruiksvriendelijk was en noemden moeilijkheden bij het navigeren door de interface en dat er veel lastige termen werden gebruikt. In het algemeen bleek uit de resultaten van de enquête dat er aanzienlijke problemen waren met de bruikbaarheid van het CMS voor de klanten van Blue Dragon.&#x20;
+Na een tijd gewacht te hebben, had ik 4 reacties gekregen op mijn enquête. In de enquête werden de deelnemers gevraagd naar hun ervaring met het CMS. Veel van de respondenten meldden dat het CMS niet geheel gebruiksvriendelijk was en noemden frustraties bij het navigeren door de interface en dat er veel lastige termen werden gebruikt. In het algemeen bleek uit de resultaten van de enquête dat er problemen waren met de gebruiksvriendelijkheid van het CMS voor de klanten van Blue Dragon.&#x20;
 
 ## Persona's
+
+Nu dat ik wat informatie terug heb gekregen van de klanten van Blue Dragon, ben ik aan de slag gegaan met het maken van de persona's. [\[2\]](https://vandermeerwaarde.nl/2018/in-7-stappen-een-persona/)
 
 <div>
 
@@ -66,7 +68,7 @@ Na een tijd gewacht te hebben, had ik 4 reacties gekregen op mijn enquête. In d
 
  
 
-<figure><img src="../../.gitbook/assets/updated persona 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,4 +82,7 @@ Van de persona's die ik heb gemaakt kun je afleiden dat ze allebei ongeveer deze
 
 Nu dat ik weet waar het mis gaat bij de gebruikers van dit systeem ga ik een marktonderzoek starten. Ik ga dit onderzoek doen om erachter te komen welke concurrenten er zijn, welke functies ze hebben, hoe gebruikers ermee omgaan, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
 
-&#x20;
+## Bronnenlijst
+
+1. _Voorbeeldvragen Website Beoordeling Gebruiksvriendelijkheid | ENQUÃTE EXPERT_. (n.d.). [https://enqueteexpert.nl/enquete-vragen-voorbeelden/website-beoordeling-gebruiksvriendelijkheid](https://enqueteexpert.nl/enquete-vragen-voorbeelden/website-beoordeling-gebruiksvriendelijkheid)
+2. Mostert, R. (2021, May 20). _In 7 stappen een persona creëren_. Vandermeerwaarde. [https://vandermeerwaarde.nl/2018/in-7-stappen-een-persona/](https://vandermeerwaarde.nl/2018/in-7-stappen-een-persona/)

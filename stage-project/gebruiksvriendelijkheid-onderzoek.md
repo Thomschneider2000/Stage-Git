@@ -36,11 +36,11 @@ Misschien is het leuk om te beginnen met een definitie. Want wat is nu eigenlijk
 
 Gebruiksvriendelijkheid, ook wel usability genoemd, is een indicatie voor hoe snel en eenvoudig een bezoeker informatie kan vinden op een website. Het gaat hierbij om de mate van effectiviteit en efficiëntie. Bezoekers houden van websites/apps die eenvoudig en snel in gebruik zijn, dat bespaart namelijk tijd en ergernissen.&#x20;
 
-Een voorbeeld van gebruiksvriendelijkheid is, bij het invullen van een contact of bestelformulier dat bezoekers duidelijke aanwijzingen en beschrijvingen moeten krijgen om zonder problemen de juiste informatie in te vullen.
+Een voorbeeld van gebruiksvriendelijkheid is, bij het invullen van een contact of bestelformulier dat bezoekers duidelijke aanwijzingen en beschrijvingen moeten krijgen om zonder problemen de juiste informatie in te vullen. [\[1\]](https://www.computable.nl/artikel/opinie/development/1365354/1509029/zin-en-onzin-van-gebruiksvriendelijkheid.html)
 
 ## Waarom is gebruiksvriendelijkheid belangrijk?
 
-De gebruiksvriendelijkheid bepaald de ervaring van de gebruiker van je website. Hierbij moet je denken aan bijvoorbeeld de navigatie, lay-out van de pagina, typografie en kleurgebruik. Het ligt ook aan de websitesoftware, als deze snel en makkelijk is kan de bezoeker beter gebruik maken van het CMS voor een betere ervaring.&#x20;
+De gebruiksvriendelijkheid bepaald de ervaring van de gebruiker van je website. Hierbij moet je denken aan bijvoorbeeld de navigatie, lay-out van de pagina, typografie en kleurgebruik. Het ligt ook aan de websitesoftware, als deze snel en makkelijk is kan de bezoeker beter gebruik maken van het CMS voor een betere ervaring. [\[2\]](https://www.tss.nl/gebruiksvriendelijk-cms/)
 
 ## Welke aspecten maken het CMS van Blue Dragon niet gebruiksvriendelijk?
 
@@ -56,7 +56,7 @@ De reden dat dit zo is ontwikkeld komt doordat het CMS in eerste instantie allee
 
 #### Overzichtelijkheid
 
-Een gebruiksvriendelijk systeem is overzichtelijk. Dit betekent dat er een heldere menustructuur is waarbij de belangrijkste functies van het systeem direct zichtbaar zijn. Kerntaken zijn dus niet weggestopt in pull-downs of submenu’s.
+Een gebruiksvriendelijk systeem is overzichtelijk. Dit betekent dat er een heldere menustructuur is waarbij de belangrijkste functies van het systeem direct zichtbaar zijn. Kerntaken zijn dus niet weggestopt in pull downs of submenu’s.
 
 #### Logica & Samenhang
 
@@ -104,7 +104,7 @@ Speelt de interactie in op de behoefte van de doelgroep? Weet de doelgroep zijn 
 
 ## Hoe test ik de gebruiksvriendelijkheid?
 
-Er zijn veel verschillende onderzoeksmethodes om de gebruiksvriendelijkheid van iets te meten, om zo bottlenecks te kunnen identificeren. Het nadeel hiervan is dat het trekken van conclusies grotendeels wordt gebaseerd op aannames.
+Er zijn veel verschillende onderzoeksmethodes om de gebruiksvriendelijkheid van iets te meten, om zo bottlenecks te kunnen identificeren. Het nadeel hiervan is dat het trekken van conclusies grotendeels wordt gebaseerd op aannames. [\[3\]](https://www.hotjar.com/usability-testing/methods/)
 
 #### Webanalytics
 
@@ -128,7 +128,7 @@ De naam zegt het al, muis of oogbewegingen worden nauwkeurig geanalyseerd met to
 
 #### Usability onderzoek
 
-Een uitgebreide test waarin bijvoorbeeld een focus-group wordt gevraagd een specifieke handeling uit te voeren, zoals bijvoorbeeld het bestellen van een product. Op basis van kwalitatief veldonderzoek wordt onderzoek gedaan naar de bottlenecks van het systeem. Het eindresultaat is een rapport met aanbevelingen op basis van klantbehoeftes. Deze verbeteringen maken de website voor de gebruikers tot een omgeving waar ze geholpen worden en zorgen voor een verhoogde conversie.
+Een uitgebreide test waarin bijvoorbeeld een focus-group wordt gevraagd een specifieke handeling uit te voeren, zoals bijvoorbeeld het bestellen van een product. Op basis van kwalitatief veldonderzoek wordt onderzoek gedaan naar de bottlenecks van het systeem. Het eindresultaat is een rapport met aanbevelingen op basis van klantbehoeftes. Deze verbeteringen maken de website voor de gebruikers tot een omgeving waar ze geholpen worden en zorgen voor een verhoogde conversie. [\[4\]](https://blog.hubspot.com/marketing/usability-testing)
 
 ## Conclusie
 
@@ -136,8 +136,16 @@ In dit onderzoek is gezocht naar een antwoord op de vraag: “Hoe maak ik iets g
 
 Uit de resultaten van dit onderzoek is gebleken dat er vele verschillende aspecten zijn om iets gebruiksvriendelijk te maken. Zo zijn de grootste en belangrijkste aspecten; overzichtelijkheid, herkenbaarheid, logica en de samenhang van het systeem. Om deze aspecten te testen zijn er ook veel methodes die toegepast kunnen worden om zo informatie te verkrijgen over de gebruikservaring.&#x20;
 
-De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen. In mijn geval is de methode usability onderzoek het beste omdat ik dit ook kan toetsen bij de klanten van Blue Dragon.
+De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen. In mijn geval is de methode usability onderzoek het beste omdat ik dit kan toetsen bij de klanten van Blue Dragon.
 
 ## Vervolg stap
 
-Nu dat ik weet welke aspecten het huidige CMS van Blue Dragon onvriendelijk maken, en ook hoe ik deze weer gebruiksvriendelijk maak. Ga ik onderzoek doen naar de doelgroep die dit CMS gebruikt, zo ga ik kritische vragen stellen over het huidige CMS.
+Nu dat ik weet welke aspecten het huidige CMS van Blue Dragon onvriendelijk maken, en ook hoe ik deze weer gebruiksvriendelijk maak. Ga ik beginnen met het ontwerpen van het nieuwe design.
+
+## Bronnenlijst
+
+1. Visser, J. (2003, May 30). _Zin en onzin van gebruiksvriendelijkheid_. Computable. [https://www.computable.nl/artikel/opinie/development/1365354/1509029/zin-en-onzin-van-gebruiksvriendelijkheid.html](https://www.computable.nl/artikel/opinie/development/1365354/1509029/zin-en-onzin-van-gebruiksvriendelijkheid.html)
+2. _Zo maak jij een gebruiksvriendelijke website_. (n.d.). Usersense. [https://www.usersense.nl/usability-testing/gebruiksvriendelijke-website](https://www.usersense.nl/usability-testing/gebruiksvriendelijke-website)
+3. _The different types of usability testing methods for your projects_. (2022, February 2). Hotjar. [https://www.hotjar.com/usability-testing/methods/](https://www.hotjar.com/usability-testing/methods/)
+4. Chi, C. (2021, July 28). _The Beginner’s Guide to Usability Testing_. Hubspot. [https://blog.hubspot.com/marketing/usability-testing](https://blog.hubspot.com/marketing/usability-testing)
+

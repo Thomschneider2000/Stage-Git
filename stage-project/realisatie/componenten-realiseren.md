@@ -4,7 +4,7 @@
 
 ## Inleiding
 
-In dit deel van het portfolio laat ik zien wat voor een componenten ik heb gerealiseerd en hoe dit was verlopen.
+In dit deel van het portfolio laat ik zien wat voor een componenten ik heb gerealiseerd en hoe dit was verlopen. Deze componenten worden uiteindelijk op de Git van Blue Dragon gezet zodat deze later gebruikt kunnen worden in de echte omgeving.
 
 ## Login
 
@@ -22,9 +22,9 @@ Voor deze pop over items heb ik Flowbite gebruikt, Flowbite heeft zelf al een fu
 
 <figure><img src="../../.gitbook/assets/popovers.png" alt=""><figcaption></figcaption></figure>
 
-## Implementatie
+## Git
 
-Deze compontenten worden aparte blade files gemaakt, vervolgens worden deze opgeslagen op de Git van Blue Dragon. Omdat de huidige omgeving met Laravel werkt is het makkelijk om via Git een component in te laden. De componenten die ik hierboven heb gemaakt komen op de Git te staan zodat deze ingeladen kunnen worden voor het nieuwe design.
+Deze compontenten worden aparte blade files gemaakt, vervolgens worden deze opgeslagen op de Git van Blue Dragon. Omdat de huidige omgeving met Laravel werkt is het makkelijk om via Git een component in te laden. De componenten die ik hierboven heb gemaakt komen op de Git te staan zodat deze ingeladen kunnen worden voor het nieuwe design. Bij Blue Dragon gebruiken ze Smart Git, Smart Git is een tool waarin je gemakkelijk nieuwe commits kunt pushen naar de Git van Blue Dragon, dit zorgt voor goede versie beheer en management.
 
 ## Conclusie
 

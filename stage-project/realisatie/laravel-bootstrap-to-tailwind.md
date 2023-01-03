@@ -94,7 +94,7 @@ Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal dir
 
 ## Advies
 
-Mijn advies voor het gebruiken van Tailwindo is een beetje wisselvallig omdat het niet in alle gevallen efficiënt is. Als je een hele lay-out wilt converteren dan kun je het beste Tailwindo gebruiken want dan staan de meeste dingen wel al goed. Maar heb je echt custom design keuzes die je wilt door voeren dan zou ik adviseren om het vanaf scratch te maken.
+Mijn advies voor het gebruiken van Tailwindo is een beetje wisselvallig omdat het niet in alle gevallen efficiënt is. Als je een hele lay-out wilt converteren dan kun je het beste Tailwindo gebruiken want dan staan de meeste componenten al op de goede positie. Maar heb je echt custom design keuzes die je wilt door voeren dan zou ik adviseren om het vanaf scratch te maken.
 
 ## Conclusie
 

@@ -22,7 +22,7 @@ Nu dat ik een flow voor me heb kan ik beter zien welke stappen onnodig zijn, zo 
 
 ## Inspiratie
 
-Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem in gebruik heeft tools zoals Canva, LMS en andere soorten CMS gebruikt, ben ik gaan zoeken naar een modern en gebruiksvriendelijk design wat aansluit op deze tools die gebruikt worden. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen. Een van de redenen waarom ik deze ontwerpen heb gekozen, is dat het visueel aantrekkelijk en gebruiksvriendelijk is. De lay-out is schoon en intuïtief, waardoor het voor gebruikers gemakkelijk is om de inhoud die ze zoeken te vinden.
+Om te beginnen met een nieuw design voor een user interface ben ik wat inspiratie gaan op doen door te kijken naar wat verschillende user interfaces die goed aansluiten op de bijpassende doelgroep. Omdat de doelgroep die dit systeem in gebruik heeft tools zoals Canva, LMS en andere soorten CMS gebruikt, ben ik gaan zoeken naar een modern en gebruiksvriendelijk design wat aansluit op deze tools die gebruikt worden. Uiteindelijk na wat rond zoeken heb ik de onderste 2 designs gekozen. Een van de redenen waarom ik deze ontwerpen heb gekozen, is dat het visueel aantrekkelijk en gebruiksvriendelijk is. De lay-out is clean en intuïtief, waardoor het voor gebruikers gemakkelijk is om de inhoud die ze zoeken te vinden.
 
 <div>
 
@@ -48,7 +48,7 @@ Voordat ik ben begonnen met het maken van de wireframes heb ik een design gemaak
 
 </div>
 
-Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes. Ook heb ik een wireframe gemaakt voor het login scherm waar ik als eerste mee aan de slag ga.
+Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes.&#x20;
 
 ## De huisstijl van Blue Dragon
 
@@ -114,7 +114,7 @@ Voor het maken van het table component, heb ik gekozen voor een design dat ik ov
 
 ### Input fields & Error messages
 
-Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zodat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd.&#x20;
+Tijdens het maken van de verschillende forms heb ik ervoor gekozen om genoeg ruimte te laten tussen de verschillende input velden. Ik heb dit gedaan zodat daar de error messages kunnen komen zonder dat heel het form verspringt. Verder heb ik in de input velden een duidelijke placeholder staan zodat ik misverstanden vermijd. Ik heb dit formulier ook een stuk ingekort omdat er eerst meerdere input velden stonden met NAW gegevens die geen meerwaarde toevoegen. Ik ben hier achter gekomen door het maken van de [user flows](concept.md#user-flows).
 
 &#x20;
 
