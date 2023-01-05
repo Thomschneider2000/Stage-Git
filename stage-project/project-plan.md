@@ -22,7 +22,7 @@ Naast online productie en activatie, social mediamanagement en SEO bieden ze nog
 
 ### Doel van het project
 
-Het doel van het project is dat er een gebruiksvriendelijke User interface moet komen voor de klanten, omdat tijdens de ontwikkeling van dit beheersysteem enkel is nagedacht over de technische vereisten en nog niet bekeken is vanuit een gebruikersperspectief. Mijn taak voor deze opdracht is ervoor zorgen dat de user interface van dit systeem gebruikersvriendelijk wordt. Het eind doel van dit project is dan ook om een gebruiksvriendelijk ontwerp neer te zetten voor de klanten van Blue Dragon. Het CMS wat Blue Dragon wordt alleen geleverd aan klanten die een website hebben gemaakt door Blue Dragon, dit CMS is dus niet voor iedereen beschikbaar.
+Het doel van het project is dat er een gebruiksvriendelijke User interface moet komen voor de klanten, omdat tijdens de ontwikkeling van dit beheersysteem enkel is nagedacht over de technische vereisten en nog niet bekeken is vanuit een gebruikersperspectief. Mijn taak voor deze opdracht is ervoor zorgen dat de user interface van dit systeem gebruikersvriendelijk wordt. Het eind doel van dit project is dan ook om een goed en gebruiksvriendelijk ontwerp neer te zetten voor de klanten van Blue Dragon. Het CMS wat Blue Dragon wordt alleen geleverd aan klanten die een website hebben gemaakt door Blue Dragon, dit CMS is dus niet voor iedereen beschikbaar.
 
 ### De opdracht
 
@@ -85,13 +85,15 @@ Meer informatie over de Scrum methode: [https://watisscrum.nl/wat-is-scrum-werke
 
 <figure><img src="../.gitbook/assets/sstrello.png" alt=""><figcaption></figcaption></figure>
 
-#### UCD Methode
+#### HCD Methode
 
-In dit proces wordt gebruik gemaakt van verschillende onderzoek/ontwerptechnieken om voor gebruikers zeer bruikbare en toegankelijke producten te maken. Ontwerpers gebruiken een combinatie van onderzoeksmethoden en hulpmiddelen als enquêtes en interviews. Ook worden er generatieve methoden gebruikt zoals brainstormen om inzicht te krijgen in de behoeften van gebruikers. Ik heb gekozen voor de User Centered Design methode omdat ik hier al mee heb gewerkt en omdat ik het een goede methode vind die past bij dit project.
+In dit proces wordt gebruik gemaakt van verschillende onderzoek/ontwerptechnieken om voor gebruikers zeer bruikbare en toegankelijke producten te maken. Ontwerpers gebruiken een combinatie van onderzoeksmethoden en hulpmiddelen als enquêtes en interviews. Ook worden er generatieve methoden gebruikt zoals brainstormen om inzicht te krijgen in de behoeften van gebruikers. Ik heb voor deze methode gekozen omdat ik een oplossing wil maken gebasseerd op reële behoeften en die effectief is in het aanpakken van die behoeften. Ook heb ik hiervoor gekozen omdat ik al eens vaker met deze methode heb gewerkt.
+
+<figure><img src="../.gitbook/assets/User-centered-design.webp" alt=""><figcaption></figcaption></figure>
 
 #### Test Aanpak
 
-Het testen wordt gedaan in de vorm van code reviews, deze code reviews worden lokaal gehouden of op Git. Hiervoor is gekozen omdat het voor structuur zorgt en er opmerkingen kunnen worden geplaats die van belang kunnen zijn in de toekomst.
+Het testen in de vorm van code reviews worden lokaal gehouden of op Git. Hiervoor is gekozen omdat het voor structuur zorgt en er opmerkingen kunnen worden geplaats die van belang kunnen zijn in de toekomst. Bij het testen van een gebruikers test begin ik bij het maken van een testplan.
 
 ### Onderzoeksmethoden
 

@@ -42,7 +42,7 @@ Nadat ik de commands heb gerunnend kun je zien dat de Bootstrap code (Afbeelding
 
 </div>
 
-Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken. Maar het is wel fijn om alvast een start te hebben met de Tailwind code, dus is het in dit geval makkelijker om verder te gaan in dat geconverteerde bestand.&#x20;
+Omdat het converteren van Bootstrap naar Tailwind niet super nauwkeurig is, is het design wat veranderd waardoor de keuze gemaakt moet worden om verder te gaan met dit design of om het nieuwe design vanaf scratch te maken.
 
 <div>
 
@@ -92,10 +92,8 @@ Omdat ik mijn eigen code in een andere omgeving stop moest ik ook een aantal dir
 
 {% embed url="https://www.youtube.com/watch?v=tdtFHOtfy0w" %}
 
-## Advies
-
-Mijn advies voor het gebruiken van Tailwindo is een beetje wisselvallig omdat het niet in alle gevallen efficiënt is. Als je een hele lay-out wilt converteren dan kun je het beste Tailwindo gebruiken want dan staan de meeste componenten al op de goede positie. Maar heb je echt custom design keuzes die je wilt door voeren dan zou ik adviseren om het vanaf scratch te maken.
-
 ## Conclusie
 
-Het omzetten van Laravel Bootstrap naar Tailwind was niet super moeilijk omdat er duidelijk was aangegeven hoe ik dit moest omzetten. Ondanks dat ik heb gelezen dat de tool Tailwindo niet super nauwkeurig werkt, heb ik toch besloten om verder te werken aan het geconverteerde bestand omdat de blauwdruk van het component er dan al een soort van staat, in mijn geval was dit handig maar bij sommige gevallen is het wel makkelijker om vanaf scratch te beginnen, dus daarom zou ik Tailwindo zeker adviseren omdat het in de meeste gevallen wel de moeite waard is. In sommige gevallen is het wel makkelijker om bijvoorbeeld een tabel vanaf scratch te maken aangezien dat soort componenten minder goed worden omgezet. Het moeilijke gedeelte van dit deel van het project was juist het overzetten van mijn Tailwind code in de huidige CMS omgeving. Dit was moeilijk omdat ik Tailwind moest installeren in een bestaand project, wat het vooral lastig maakte is dat Laravel werkt met bepaalde routes die bestanden aan elkaar linken. Dus om Tailwind in die omgeving te krijgen moet ik de Tailwind files ook meenemen in die routes die al bepaald zijn. Dit kan ik doen door de Webpack.mix.js file aan te passen en mijn eigen route te maken om de Tailwind files mee te nemen. Na wat onderzoek gedaan te hebben is het mij eindelijk gelukt om Tailwind te runnen binnen de huidige omgeving.
+Het omzetten van Laravel Bootstrap naar Tailwind was niet super moeilijk omdat er duidelijk werd aangegeven hoe ik dit moest omzetten. Na wat onderzoek gedaan te hebben, heb ik besloten om mijn componenten vanaf scratch te maken, omdat deze meer custom en gedetailleerd zijn wat het lastiger maakt om te converteren.
+
+Het moeilijke gedeelte van dit deel van het project was juist het overzetten van mijn Tailwind code in de huidige CMS omgeving. Dit was moeilijk omdat ik Tailwind moest installeren in een bestaand project, wat het vooral lastig maakte is dat Laravel werkt met bepaalde routes die bestanden aan elkaar linken. Dus om Tailwind in die omgeving te krijgen moet ik de Tailwind files ook meenemen in die routes die al bepaald zijn. Dit kan ik doen door de Webpack.mix.js file aan te passen en mijn eigen route te maken om de Tailwind files mee te nemen. Na wat onderzoek gedaan te hebben is het mij eindelijk gelukt om Tailwind te runnen binnen de huidige omgeving.

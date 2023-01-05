@@ -14,7 +14,7 @@ Het werken in een team met ontwikkelaars heeft mijn inzicht in het ontwikkelings
 
 Bovendien heb ik geleerd hoe ik effectief met ontwikkelaars kan communiceren en mijn ideeën op een duidelijke en begrijpelijke manier kan verwoorden. Dit was een geweldige leerervaring omdat ik zo mijn communicatievaardigheden kon oefenen in een professionele omgeving.
 
-Al met al was het ontwerpen van een gebruiksvriendelijk CMS een geweldige leerervaring. Het stelde me in staat mijn kennis van ICT Media toe te passen om een praktisch en nuttig systeem te creëren. Ik was in staat om de behoeften van de gebruiker te begrijpen, een plan op te stellen en een prototype te maken voordat ik een aantal componenten van het systeem ging coderen en testen. Ik heb hierdoor een beter begrip van het proces van het ontwerpen en creëren van een gebruiksvriendelijk content managementsysteem.
+Al met al was dit project een geweldige leerervaring. Het stelde me in staat mijn kennis toe te passen om een praktisch en nuttig systeem te creëren. Ik was in staat om de behoeften van de gebruiker te begrijpen, een plan op te stellen en een prototype te maken voordat ik een aantal componenten van het systeem ging coderen en testen. Ik heb hierdoor een beter begrip van het proces van het ontwerpen en creëren van een gebruiksvriendelijk content managementsysteem.
 
 ### Creatief proces
 

@@ -40,15 +40,31 @@ Voordat ik ben begonnen met het maken van de wireframes heb ik een design gemaak
 
 <div>
 
-<figure><img src="../.gitbook/assets/wireframe1.png" alt=""><figcaption><p>Wireframe 1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboardwireframe.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/wireframe2.png" alt=""><figcaption><p>Wireframe 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/dashboardwireframe2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes.&#x20;
+Nadat ik deze 2 ontwerpen heb gekozen, ben ik dit gaan voorleggen aan een paar collega's binnen het bedrijf. Na wat feedback te hebben ontvangen heb ik besloten om een soort mix te maken van beide wireframes. Nadat ik de wireframes had gemaakt voor de dashboard pagina, ben ik aan de slag gegaan met de andere pagina's.&#x20;
+
+Voor de andere pagina's was het design hetzelfde omdat er altijd een tabel staat gevuld met informatie van bijvoorbeeld gebruikers of rollen.
+
+<figure><img src="../.gitbook/assets/layoutpaginas.png" alt=""><figcaption></figcaption></figure>
+
+Voor de andere pagina's om content aan te passen en te beheren, heb ik ook een aantal wireframes gemaakt. Ik heb voor dit specifieke design gekozen omdat de gebruiker dan verplicht is om van boven naar onder te werken, omdat de gebruiker verplicht is om via deze volgorde te werken vermijd je dat gebruikers input velden vergeten in te vullen.
+
+<div>
+
+<figure><img src="../.gitbook/assets/formwireframe.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/formswireframe2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## De huisstijl van Blue Dragon
 
