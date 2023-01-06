@@ -59,10 +59,11 @@ Tijdens mijn stageperiode ga ik veel onderzoek doen naar bepaalde vraagstukken d
 #### Secondaire vragen
 
 * Hoe kan ik het systeem van Blue Dragon Gebruiksvriendelijk maken?
-* Wat zijn de wensen en eisen van de verschillende stakeholders?
-* Wat is het meest geschikte framework wat voldoet aan de gestelde eisen voor het CMS van Blue Dragon?
+* Wat zijn de wensen en eisen van de stakeholders?
+* Voor wie maak ik het systeem gebruiksvriendelijk?
 * Wat maakt het huidige systeem van Blue Dragon niet gebruiksvriendelijk?
 * Wat zijn soortgelijke producten en wat zijn hier de unique selling points hiervan?
+* Hoe kan ik Laravel Bootstrap overzetten naar Tailwind.
 
 ## Aanpak & Planning
 
