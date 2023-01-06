@@ -4,7 +4,7 @@
 
 ## Inleiding
 
-Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit testen door middel van een interactief prototype in Adobe XD. Het doel van de user tests is om te valideren dat mijn onderzoeksbevindingen in de praktijk klopt.
+Tijdens de test fase ga ik aan de slag met het testen van mijn design, ik ga dit testen door middel van een interactief prototype in Adobe XD. Het doel van de user tests is om te valideren dat mijn onderzoeksbevindingen in de praktijk juist zijn.
 
 ## Testplan
 

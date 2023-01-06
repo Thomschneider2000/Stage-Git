@@ -12,7 +12,7 @@ De volgende stap is het uitwerken van de informatie over de soortgelijke product
 
 ## Onderzoeksmethoden
 
-<figure><img src="../.gitbook/assets/onderzoeksmethodes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cmdmethodsmarktonderzoek.png" alt=""><figcaption></figcaption></figure>
 
 #### Literature Study
 
@@ -94,7 +94,7 @@ Verder willen gebruikers ook rollen en permissies kunnen beheren. Met een CMS ku
 
 ## Vergelijkingstabel
 
-<table><thead><tr><th>Criteria</th><th data-type="rating" data-max="5">Wordpress</th><th data-type="rating" data-max="5">Drupal</th><th data-type="rating" data-max="5">Joomla</th><th data-type="rating" data-max="5">TYPO3</th><th data-type="rating" data-max="5">Blue Dragon</th></tr></thead><tbody><tr><td>Functionaliteit</td><td>4</td><td>3</td><td>3</td><td>4</td><td>3</td></tr><tr><td>Gebruiksgemak</td><td>4</td><td>3</td><td>4</td><td>2</td><td>3</td></tr><tr><td>Aanpasbaarheid</td><td>5</td><td>4</td><td>4</td><td>4</td><td>2</td></tr><tr><td>Schaalbaarheid</td><td>4</td><td>3</td><td>3</td><td>3</td><td>4</td></tr><tr><td>Veiligheid</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr></tbody></table>
+<table><thead><tr><th>Criteria</th><th data-type="rating" data-max="5">Wordpress</th><th data-type="rating" data-max="5">Drupal</th><th data-type="rating" data-max="5">Joomla</th><th data-type="rating" data-max="5">TYPO3</th><th data-type="rating" data-max="5">Blue Dragon</th></tr></thead><tbody><tr><td>Functionaliteit</td><td>4</td><td>3</td><td>3</td><td>4</td><td>3</td></tr><tr><td>Gebruiksgemak</td><td>4</td><td>3</td><td>4</td><td>2</td><td>3</td></tr><tr><td>Aanpasbaarheid</td><td>5</td><td>4</td><td>4</td><td>4</td><td>2</td></tr><tr><td>Schaalbaarheid</td><td>4</td><td>3</td><td>3</td><td>4</td><td>4</td></tr><tr><td>Veiligheid</td><td>4</td><td>4</td><td>4</td><td>4</td><td>3</td></tr></tbody></table>
 
 ### **Criteria beschrijving:**
 
@@ -110,15 +110,41 @@ Verder willen gebruikers ook rollen en permissies kunnen beheren. Met een CMS ku
 
 Aan de hand van de tabel kun je zien dat sommige CMS'en beter zijn dan de anderen op verschillende criteria, om nu dus een optimaal CMS te ontwerpen moet ik gaan kijken naar welke aspecten/functies ik kan toevoegen aan het CMS van Blue Dragon om dit te optimaliseren. [\[6\]](https://www.temok.com/blog/cms-platforms-usability/)
 
+## Aanbevelen functies
 
+Om te kijken welke verschillende functies ik in het nieuwe ontwerp van Blue Dragons CMS wil zetten. Ben ik gaan kijken naar welke handige functionaliteiten de verschillende CMS'en hebben. Ik heb in dit geval een functie van Wordpress gekozen omdat omdat Wordpress het hoogste scoort op functionaliteit.
+
+### Multi select
+
+Hier heb ik gekozen voor een multi select optie, deze multi select optie zorgt ervoor dat ik meerdere rijen kan aanpassen door middel van één klik. Ik heb voor deze optie gekozen omdat in het huidige ontwerp de gebruiker maar een individuele rij kan aanpassen, wat het erg ongebruiksvriendelijk maakt.
 
 <figure><img src="../.gitbook/assets/adding-new-wordpress-roles-using-plugin.png" alt=""><figcaption></figcaption></figure>
 
-## Advies
+### Latest changes
+
+Ook heb ik gekeken naar een history functie zodat de gebruiker kan kijken wie, waar en wanneer een gebruiker een verandering heeft gemaakt binnen het CMS. Ik heb voor deze functie gekozen omdat dit het gebruiksgemak van het CMS verbeterd.
+
+<figure><img src="../.gitbook/assets/Simple-History-Page.png" alt=""><figcaption></figcaption></figure>
+
+### Search filter
+
+Ook heb ik een functie gevonden binnen Joomla's CMS wat handig is voor het nieuwe ontwerp van Blue Dragons CMS. Deze functie is een filter voor het zoeken op  verschillende categorieën, deze categorieën kunnen zijn; rollen, guards enz. Ik heb voor deze functie gekozen omdat deze functie ervoor zorgt dat gebruikers sneller informatie kunnen opzoeken binnen het CMS.
+
+<figure><img src="../.gitbook/assets/tablefilterjoomla.png" alt=""><figcaption></figcaption></figure>
+
+### Multi language option
+
+Verder heb ik ook nog gekeken naar een goede multi language optie, omdat het vaak voorkomt dat een website meerdere talen nodig heeft. Daarom heb ik gekeken naar de multi language optie van TYPO3, ik heb voor deze optie gekozen omdat deze visueel meer duidelijkheid geeft dan de andere CMS'en en omdat de schaalbaarheid van deze optie goed is.
+
+<figure><img src="../.gitbook/assets/LanguagesNewContentTranslation.png" alt=""><figcaption></figcaption></figure>
+
+Verder heb ik nog een aantal andere functies overgenomen die alle bovenstaande CMS'en ook bevatten, ik ligt deze functies later toe bij het design proces.
 
 ## Conclusie
 
+Tijdens dit onderzoek wilde ik antwoord hebben op, welke soortgelijke producten er zijn, hoe klanten omgaan met een CMS en welke functies ik moet overwegen om in Blue Dragons CMS te zetten. Om hier antwoord op te krijgen ben ik gaan onderzoeken welke soortgelijke CMS'en er al bestaan. Daarna ben ik gaan onderzoeken wat gebruikers het meest willen bereiken/doen binnen het CMS van Blue Dragon. Zo kan ik vaststellen welke nieuwe functies ik wil toevoegen en waar ik deze plaats. Vervolgens ben ik gaan onderzoeken wat de usp's zijn van deze CMS'en, zo kan ik dan een vergelijkingstabel maken op basis van verschillende criteria. Nu dat ik kan zien welk CMS het beste scoort op die criteria, kan ik vaststellen welke functies ik in het nieuwe ontwerp wil toepassen.&#x20;
 
+Ik kan dus uit dit onderzoek concluderen dat de gebruikers van Blue Dragons CMS, het liefst media willen beheren, content kunnen aanpassen, en rollen en gebruikers beheren. Verder kan ik ook concluderen dat ik door middel van dit onderzoek kan vaststellen dat de bovenstaande functies een gebruiksvriendelijke bijdrage leveren aan het nieuwe design voor het CMS.
 
 ## Vervolg stap
 

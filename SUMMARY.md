@@ -15,7 +15,7 @@
   * [Flowbite](stage-project/realisatie/flowbite.md)
   * [Componenten realiseren](stage-project/realisatie/componenten-realiseren.md)
 * [Testen](stage-project/testen.md)
-* [Toekomst concept](stage-project/toekomst-concept.md)
+* [Advies rapport](stage-project/advies-rapport.md)
 * [Reflectie](stage-project/reflectie.md)
 
 ## 🔹 Presentaties

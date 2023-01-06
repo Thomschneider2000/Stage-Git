@@ -82,7 +82,7 @@ Bij het maken van de verschillende mock-ups ben ik begonnen met het ontwerpen va
 
 <figure><img src="../.gitbook/assets/loginschermbootstrap.png" alt=""><figcaption></figcaption></figure>
 
-In de afbeelding hierboven staat het huidige ontwerp van het login scherm van Blue Dragons CMS. Wat ik een beetje raar vond is dat er een feature is om een account aan te maken, wat ik onlogisch vind omdat iedereen die op deze pagina terecht komt dan een account kan aanmaken. Maar nadat ik dit had aangekaart hadden we er al snel voor gekozen om deze feature te verwijderen. Tijdens het ontwerpen van het nieuwe inlog scherm moet ik natuurlijk ook rekening houden met de huisstijl van Blue Dragon. Uiteindelijk na wat verschillende ontwerpen gemaakt te hebben heb ik een ontwerp gekozen wat goed voldoet aan de huisstijl van Blue Dragon.
+In de afbeelding hierboven staat het huidige ontwerp van het login scherm van Blue Dragons CMS. Wat ik een beetje raar vond is dat er een feature is om een account aan te maken, wat ik onlogisch vind omdat iedereen die op deze pagina terecht komt dan een account kan aanmaken wat niet echt veilig is. Maar nadat ik dit had aangekaart hadden we er al snel voor gekozen om deze feature te verwijderen. Tijdens het ontwerpen van het nieuwe inlog scherm moet ik natuurlijk ook rekening houden met de huisstijl van Blue Dragon. Uiteindelijk na wat verschillende ontwerpen gemaakt te hebben heb ik een ontwerp gekozen wat goed voldoet aan de huisstijl van Blue Dragon.
 
 <figure><img src="../.gitbook/assets/loginscreenshot.png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +102,7 @@ Nu dat ik klaar ben met het ontwerpen van het login scherm ga ik beginnen met he
 
 </div>
 
-Zoals je ziet is het huidige dashboard ontwerp akelig leeg, er staan geen shortcuts of content in waar de gebruiker iets aan kan hebben. Daarom heb ik ervoor gekozen om het nieuwe dashboard vol te zetten met wat content componenten. Als eerste heb ik gekozen voor een welkoms bericht waar wat informatie komt te staan over het CMS zelf.  In het blok onder het welkoms bericht heb ik een tabel staan met de laatste veranderingen. Zo kan je zien welke gebruiker wat heeft veranderd, en op welke pagina dit is veranderd. Uiteindelijk kun je dan op de pagina naam klikken waar iets veranderd is. &#x20;
+Zoals je ziet is het huidige dashboard ontwerp akelig leeg, er staan geen shortcuts of content in waar de gebruiker iets aan kan hebben. Daarom heb ik ervoor gekozen om het nieuwe dashboard vol te zetten met wat content componenten. Als eerste heb ik gekozen voor een welkoms bericht waar wat informatie komt te staan over het CMS zelf.  In het blok onder het welkoms bericht heb ik een tabel staan met de laatste veranderingen. Zo kan je zien welke gebruiker wat heeft veranderd, en op welke pagina dit is veranderd. Uiteindelijk kun je dan op de pagina naam klikken waar iets veranderd is. Ik heb voor dit component gekozen omdat ik aan kan tonen in mijn [marktonderzoek](marktonderzoek.md) dat dit een goede bijdrage levert voor de gebruiksvriendelijkheid van het systeem.
 
 <div>
 
@@ -124,7 +124,9 @@ Tijdens het doornemen van het huidige CMS van Blue Dragon kom je soms veel terme
 
 ### Table Component
 
-Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen.&#x20;
+Voor het maken van het table component, heb ik gekozen voor een design dat ik overal kan toepassen. Ik heb hiervoor gekozen omdat deze table vaker terug komt maar dan met een andere inhoud. Als extra feature heb ik een aantal checkboxes gemaakt aan de linkerkant zodat je meerder items kunt selecteren en dan verwijderen. Bij het huidige design moet je elk item individueel verwijderen. Ik heb voor deze feature gekozen omdat ik in mijn [marktonderzoek](marktonderzoek.md) kan aantonen dat dit een goede functie is die past bij Blue Dragons CMS.
+
+Verder heb ik hier ook een search bar bovenaan gezet zodat de gebruiker gemakkelijk kan zoeken of filteren op een bepaald item. Deze filter feature heb ik overigens ook uit mijn [marktonderzoek](marktonderzoek.md).
 
 <figure><img src="../.gitbook/assets/sstableview.png" alt=""><figcaption></figcaption></figure>
 
@@ -148,7 +150,7 @@ Ook heb ik de error messages een beetje aangepast zodat deze duidelijker zijn vo
 
 {% embed url="https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f" %}
 
-### Tree view Components
+### Tree view Componenten
 
 Bij het huidige cms van Blue Dragon is er een lijst gemaakt met allemaal pagina's die verschillende dieptes kent. Zo heb je bijvoorbeeld een "Home" pagina met daaronder alle andere pagina's die in de "Home" pagina verwezen zijn. Dus in dit geval wordt de pagina "test2" verwezen in de pagina "test1".
 
@@ -162,7 +164,7 @@ Ook heb ik een andere form gemaakt waarin je een rol kunt toepassen aan een gebr
 
 <figure><img src="../.gitbook/assets/cmstreeview.png" alt=""><figcaption></figcaption></figure>
 
-### Accordion Components
+### Accordion Componenten
 
 Voor het nieuwe design van Blue Dragons CMS heb ik een aantal accordion components gemaakt die wat informatie kunnen laten weergeven.&#x20;
 
@@ -182,7 +184,7 @@ In de tweede afbeelding (Accordion2) heb ik ook een accordion component gemaakt 
 
 ### Multi Language Tabs
 
-In de afbeelding hieronder kun je de huidige input zien en een aantal designs die ik heb gemaakt. In het CMS van Blue Dragon ben je verplicht om ook een Engelse versie van de inhoud in te vullen, dit geld overigens niet alleen voor de input. Maar omdat dit niet goed wordt aangegeven kan dit onduidelijk zijn voor de gebruiker omdat een tab component meestal als optioneel wordt gezien.&#x20;
+In de afbeelding hieronder kun je de huidige input zien en een aantal designs die ik heb gemaakt. In het CMS van Blue Dragon ben je verplicht om ook een Engelse versie (of andere taal) van de inhoud in te vullen, dit geld overigens niet alleen voor de input. Maar omdat dit niet goed wordt aangegeven kan dit onduidelijk zijn voor de gebruiker omdat een tab component meestal als optioneel wordt gezien.&#x20;
 
 
 
@@ -208,11 +210,11 @@ Daarom heb ik er uiteindelijk voor gekozen om gewoon 2 verschillende forms te ma
 
 </div>
 
-Maar later had ik nog een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht, ik heb er voor gekozen om in stappen te werken, dus je bent een soort van verplicht om elke taal in te voeren, wat ook de bedoeling is. Ook heb je de optie om bij de Engelse taal keuze de button "Overal toepassen" aan te klikken. Deze heb ik gemaakt zodat er altijd een fallback taal is, voor het geval dat een website een snelle disclaimer ergens moet neerzetten. Verder heb je ook nog de optie om te beginnen bij een taal waar de gebruiker een voorkeur voor heeft, zo is de volgorde van invullen altijd zoals de gebruiker dat wilt.
+Maar later had ik een probleem ondervonden omdat ik natuurlijk ook moet letten op de schaalbaarheid van het CMS, want wat nou als een website 8 verschillende talen heeft, dan wordt het een hele lange pagina. Daarom heb ik de volgende oplossing bedacht, ik heb er voor gekozen om in stappen te werken, dus je bent een soort van verplicht om elke taal in te voeren, wat ook de bedoeling is. Ook heb je de optie om bij de Engelse taal keuze de button "Overal toepassen" aan te klikken. Deze heb ik gemaakt zodat er altijd een fallback taal is, voor het geval dat een website een snelle disclaimer ergens moet neerzetten. Verder heb je ook nog de optie om te beginnen bij een taal waar de gebruiker een voorkeur voor heeft, zo is de volgorde van invullen altijd zoals de gebruiker dat wilt. Daarom heb ik uiteindelijk gekozen voor deze optie omdat deze het beste werkt voor het systeem van CMS, dit kan ik overigens bevestigen door middel van mijn [marktonderzoek](marktonderzoek.md).
 
 <figure><img src="../.gitbook/assets/multilanguage.png" alt=""><figcaption></figcaption></figure>
 
-### Blok Components
+### Blok Componenten
 
 Tijdens het maken van de blok componenten heb ik gekozen voor dit design, je kunt deze blok componenten aanmaken boven en onderaan de pagina, overigens kun je deze dan natuurlijk ook weer verwijderen als je op het prullenbak icoontje klikt. Ook heb ik onderaan elk component een button gemaakt zodat je een nieuwe regel kunt toevoegen. Ik heb ervoor gekozen om deze regels in een apart vak neer te zetten zodat het duidelijk is dat dit gaat om de waardes van een afbeelding of selectie.
 
@@ -226,13 +228,13 @@ Tijdens het maken van de blok componenten heb ik gekozen voor dit design, je kun
 
 </div>
 
-### Blok component bewerken
+### Blok component aanmaken
 
 Tijdens het designen van deze pagina, heb ik ervoor gekozen om aan de rechterkant een component te maken waarin je items binnen een blok kunt wijzigen. Een voorbeeld hiervan is een image carrousel, je kunt dan de images wijzigen naar eigen voorkeur. Ook kun je de item volgorde veranderen door het blokje naar een gewenste positie te slepen.
 
-<figure><img src="../.gitbook/assets/blokaanmaken.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/blokaanmakenpagina.png" alt=""><figcaption></figcaption></figure>
 
-### Formulier Components
+### Formulier Componenten
 
 In het huidige component om een formulier aan te maken, kun je zien dat de input velden veelte lang zijn. Daarom heb ik met mijn design de velden kleiner gemaakt zodat het er beter uit ziet. Ik heb het veld waarin je verschillende e-mails kunt zetten wel langer gelaten zodat je de e-mails nog kunt lezen. Ook heb ik er weer voor gekozen om de multi language option weg te laten, en ze gewoon onder elkaar te zetten zo vergeet de gebruiker niet om deze ook nog in te vullen. Verder heb ik ook nog een tool tip icoontje neergezet bij het veld "Mail type", ik heb dit gedaan omdat er een aantal termen in de dropdown staan die niet erg bekend zijn bij gebruikers zonder technische kennis.&#x20;
 
@@ -242,7 +244,7 @@ In het huidige component om een formulier aan te maken, kun je zien dat de input
 
  
 
-<figure><img src="../.gitbook/assets/nieuwformulieraanmaken.png" alt=""><figcaption><p>Nieuwe Formulier Component</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/formulieraanmakenpagina.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

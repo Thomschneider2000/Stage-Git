@@ -87,13 +87,35 @@ Meer informatie over de Scrum methode: [https://watisscrum.nl/wat-is-scrum-werke
 
 #### HCD Methode
 
-In dit proces wordt gebruik gemaakt van verschillende onderzoek/ontwerptechnieken om voor gebruikers zeer bruikbare en toegankelijke producten te maken. Ontwerpers gebruiken een combinatie van onderzoeksmethoden en hulpmiddelen als enquêtes en interviews. Ook worden er generatieve methoden gebruikt zoals brainstormen om inzicht te krijgen in de behoeften van gebruikers. Ik heb voor deze methode gekozen omdat ik een oplossing wil maken gebasseerd op reële behoeften en die effectief is in het aanpakken van die behoeften. Ook heb ik hiervoor gekozen omdat ik al eens vaker met deze methode heb gewerkt.
+In dit proces wordt gebruik gemaakt van verschillende onderzoek/ontwerptechnieken om voor gebruikers zeer bruikbare en toegankelijke producten te maken. Ontwerpers gebruiken een combinatie van onderzoeksmethoden en hulpmiddelen als enquêtes en interviews. Ook worden er generatieve methoden gebruikt zoals brainstormen om inzicht te krijgen in de behoeften van gebruikers. Ik heb voor deze methode gekozen omdat ik een oplossing wil maken gebaseerd op reële behoeften en die effectief is in het aanpakken van die behoeften. Ook heb ik hiervoor gekozen omdat ik al eens vaker met deze methode heb gewerkt.
 
 <figure><img src="../.gitbook/assets/User-centered-design.webp" alt=""><figcaption></figcaption></figure>
 
-#### Test Aanpak
+#### Discover
 
-Het testen in de vorm van code reviews worden lokaal gehouden of op Git. Hiervoor is gekozen omdat het voor structuur zorgt en er opmerkingen kunnen worden geplaats die van belang kunnen zijn in de toekomst. Bij het testen van een gebruikers test begin ik bij het maken van een testplan.
+Het doel van de Discover fase is een diepgaand begrip te krijgen van het probleem en de behoeften van de gebruikers, en deze kennis te gebruiken voor de ontwikkeling van uw oplossing.
+
+#### Define
+
+In de Define fase van de HCD-methode richt ik me op het begrijpen en definiëren van het probleem dat ik probeer op te lossen. Dit houdt in:
+
+* Het identificeren van de gebruikersbehoefte die ik wil aanpakken.&#x20;
+* Onderzoek doen en informatie verzamelen over het probleem en mogelijke oplossingen.
+* De omvang van het project bepalen en wat ik hoop te bereiken.&#x20;
+
+#### Design
+
+De ontwerpfase is een belangrijke stap in het HCD-proces, omdat ik hiermee de abstracte ideeën en hypotheses die ik in de eerdere fasen hebt ontwikkeld, kan omzetten in een concrete en levensvatbare oplossing. Het is belangrijk om gebruikers en andere belanghebbenden bij het ontwerpproces te betrekken, omdat hun feedback en inbreng ertoe kan bijdragen dat de oplossing voldoet aan de behoeften en verwachtingen van de eindgebruikers.
+
+#### Prototype & Test
+
+Het doel van de Prototype & Test fase is om het ontwerp te valideren en ervoor te zorgen dat het een oplossing is voor het probleem dat ik probeer op te lossen. Door het bouwen en testen van een functioneel prototype kan ik beter begrijpen hoe de oplossing in de praktijk zal werken, en eventuele problemen of verbeterpunten identificeren voordat ik overga tot de definitieve implementatiefase.
+
+Het testen in de vorm van code reviews worden lokaal gehouden of op Git. Hiervoor is gekozen omdat het voor structuur zorgt en er opmerkingen kunnen worden geplaatst die van belang kunnen zijn in de toekomst. Bij het testen van een gebruikers test begin ik bij het maken van een testplan.
+
+#### Plan & Implement
+
+De Plan & Implement-fase is de laatste stap in het HCD-proces, en het is waar al het harde werk en planning samenkomen. Door de implementatie van de oplossing zorgvuldig te plannen en te coördineren, kan ik ervoor zorgen dat deze succesvol wordt opgeleverd en voldoet aan de behoeften en verwachtingen van de gebruikers.
 
 ### Onderzoeksmethoden
 
