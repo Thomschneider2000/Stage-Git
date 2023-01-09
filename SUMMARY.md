@@ -16,11 +16,11 @@
   * [Componenten realiseren](stage-project/realisatie/componenten-realiseren.md)
 * [Testen](stage-project/testen.md)
 * [Advies rapport](stage-project/advies-rapport.md)
-* [Reflectie](stage-project/reflectie.md)
 
-## 🔹 Presentaties
+## 🔹 Evaluatie
 
-* [Presentatie](presentaties/presentatie.md)
+* [Tussentijdse beoordeling](evaluatie/tussentijdse-beoordeling.md)
+* [Reflectie](evaluatie/reflectie.md)
 
 ## 🔹 Extra Werkzaamheden
 
