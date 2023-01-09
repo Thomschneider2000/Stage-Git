@@ -2,6 +2,18 @@
 
 <figure><img src="../../.gitbook/assets/vakdoelgroeppersona.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
+##
+
+| Versie | Datum      | Auteur                | Wijzigingen    | Status    |
+| ------ | ---------- | --------------------- | -------------- | --------- |
+| 1.0    | 14/09/2022 | Schneider, Thom T.F.A | N.V.T          | Start     |
+| 1.1    | 26/09/2022 | Schneider, Thom T.F.A | APA toegevoegd | Start     |
+| 1.2    | 06/10/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.3    | 29/10/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.4    | 19/11/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.5    | 08/12/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.6    | 03/01/2023 | Schneider, Thom T.F.A | Feedback       | Afronding |
+
 ## Inleiding
 
 Ik heb gekozen om een aantal persona's te maken, zodat ik erachter kan komen waar het fout gaat bij de klanten. Met behulp van het maken van persona's krijg ik een visueel beeld van mijn onderzoeksresultaten.
@@ -64,11 +76,11 @@ Nu dat ik wat informatie terug heb gekregen van de klanten van Blue Dragon, ben 
 
 <div>
 
-<figure><img src="../../.gitbook/assets/updated persona.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../.gitbook/assets/persona2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hubspotpersonapieter.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

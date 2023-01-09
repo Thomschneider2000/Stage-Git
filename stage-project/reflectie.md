@@ -30,6 +30,12 @@ Tijdens mijn stage leerde ik het belang van effectieve communicatie om een succe
 
 Ook zag ik het belang van communicatie binnen het team, zodat iedereen op één lijn zat en samenwerkte. Door goede communicatie konden we ideeën bespreken, van elkaar leren en tot een ontwerp komen dat niet alleen gebruiksvriendelijk is, maar ook esthetisch verantwoord.
 
+## Documentatie
+
+Voor het documenteren van verschillende zaken, heb ik gekozen om al mijn werk op te slaan met behulp van GitHub. GitHub biedt versiebeheer voor documentatie, zodat ik wijzigingen kan bijhouden en zo nodig terug kan gaan naar eerdere versies. Elke keer dat ik mijn werk had opgeslagen, werd dit op mijn GitHub gezet zodat ik dit nooit kan verliezen.&#x20;
+
+<figure><img src="../.gitbook/assets/githubiteraties.png" alt=""><figcaption></figcaption></figure>
+
 ## Persoonlijke groei
 
 Ik ben er trots op hoeveel ik in de loop van mijn studie ben gegroeid als mediastudent. Ik heb meer vertrouwen gekregen in mijn vermogen om met verschillende software en tools te werken, en ik begrijp hoe belangrijk het is om mijn ideeën effectief te kunnen communiceren om succesvolle projecten te creëren. Ik ben ook trots op mijn vermogen om georganiseerd te blijven en mijn tijd verstandig te beheren om projecten op tijd en zo goed mogelijk af te ronden.

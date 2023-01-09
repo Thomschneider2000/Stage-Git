@@ -4,7 +4,14 @@
 
 ## Inleiding
 
-In dit document vindt u richtlijnen en aanbevelingen over verschillende onderwerpen en tools die ik ben tegengekomen tijdens dit project. Ik heb deze verzameling van nuttige adviezen samengesteld op basis van mijn eigen ervaringen en expertise.
+In dit document vindt u richtlijnen en aanbevelingen over verschillende onderwerpen en tools die ik ben tegengekomen tijdens dit project. Ik heb deze verzameling van nuttige adviezen samengesteld op basis van mijn eigen ervaringen en expertise.&#x20;
+
+In dit document ga ik advies geven op:
+
+* Welke functies ik adviseer om in het nieuwe design te implementeren.
+* Het gebruik van Tailwindo voor het converteren van Bootstrap naar Taiwind.
+* Het gebruik van Flowbite voor het implementeren van componenten.
+* Het concept in het algeheel.
 
 ## Advies functies
 

@@ -26,7 +26,6 @@
 
 * [Abbott Mail Templates](extra-werkzaamheden/abbott-mail-templates.md)
 * [Abbott Formulieren](extra-werkzaamheden/abbott-formulieren.md)
-* [Abbott LibreLink](extra-werkzaamheden/abbott-librelink.md)
 * [Abbott Adobe Experience Manager](extra-werkzaamheden/abbott-adobe-experience-manager.md)
 * [Abbvie](extra-werkzaamheden/abbvie.md)
 * [De Rooi Pannen](extra-werkzaamheden/de-rooi-pannen.md)

@@ -1,6 +1,16 @@
 # Project Plan
 
-<figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption><p>Versie 1.3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/vakprojectplan.png" alt=""><figcaption></figcaption></figure>
+
+## Versiebeheer
+
+| Versie | Datum      | Auteur                | Wijzigingen    | Status    |
+| ------ | ---------- | --------------------- | -------------- | --------- |
+| 1.0    | 29/08/2022 | Schneider, Thom T.F.A | N.V.T          | Start     |
+| 1.1    | 08/09/2022 | Schneider, Thom T.F.A | PBS toegevoegd | Start     |
+| 1.2    | 12/09/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.3    | 19/09/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.4    | 02/01/2023 | Schneider, Thom T.F.A | Feedback       | Afronding |
 
 ## Inleiding
 

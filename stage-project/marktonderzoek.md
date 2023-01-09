@@ -2,6 +2,18 @@
 
 <figure><img src="../.gitbook/assets/vakmarktonderzoek.png" alt=""><figcaption><p>Versie 1.0</p></figcaption></figure>
 
+##
+
+| Versie | Datum      | Auteur                | Wijzigingen    | Status    |
+| ------ | ---------- | --------------------- | -------------- | --------- |
+| 1.0    | 17/09/2022 | Schneider, Thom T.F.A | N.V.T          | Start     |
+| 1.1    | 28/09/2022 | Schneider, Thom T.F.A | APA toegevoegd | Start     |
+| 1.2    | 08/10/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.3    | 30/10/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.4    | 24/11/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.5    | 16/12/2022 | Schneider, Thom T.F.A | Feedback       | Afronding |
+| 1.6    | 03/01/2023 | Schneider, Thom T.F.A | Feedback       | Afronding |
+
 ## Inleiding
 
 Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
