@@ -15,6 +15,8 @@ In dit document ga ik advies geven op:
 
 ## Advies functies
 
+Tijdens mijn marktonderzoek ben ik gaan onderzoeken welke functies ik moet overwegen om in Blue Dragons nieuwe CMS te zetten. In mijn onderzoek heb ik aan kunnen tonen dat de aanbevolen functies goed bij het CMS van Blue Dragon passen, en dat het door deze functies het CMS een stuk gebruiksvriendelijker wordt. Voor meer informatie over de specifieke functies die ik heb overwogen verwijs ik u door naar mijn [marktonderzoek](marktonderzoek.md).
+
 ## Advies Tailwindo
 
 Mijn advies voor het gebruiken van Tailwindo is een beetje wisselvallig omdat het niet in alle gevallen efficiënt is. Als je een hele lay-out wilt converteren dan kun je het beste Tailwindo gebruiken want dan staan de meeste componenten al op de goede positie. Maar heb je echt custom design keuzes die je wilt door voeren dan zou ik adviseren om het vanaf scratch te maken. In mijn geval heb ik besloten om vanaf scratch te beginnen, omdat het design waar ik naar toe wil werken meer custom en gedetailleerd is.

@@ -19,7 +19,7 @@
 
 ## 🔹 Evaluatie
 
-* [Tussentijdse beoordeling](evaluatie/tussentijdse-beoordeling.md)
+* [Tussentijdse Briefing](evaluatie/tussentijdse-briefing.md)
 * [Reflectie](evaluatie/reflectie.md)
 
 ## 🔹 Extra Werkzaamheden
