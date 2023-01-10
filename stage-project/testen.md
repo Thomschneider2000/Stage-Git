@@ -102,7 +102,7 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 >
 > **Conclusie:**
 >
-> De testcase is geslaagd, want de gebruiker was in staat om met behulp van het CMS de pagina-inhoud aan de pagina toe te voegen.
+> De testcase is geslaagd, want de gebruiker is in staat om met behulp van het CMS de pagina-inhoud aan de pagina toe te voegen.
 
 ### Test case 3
 
@@ -139,10 +139,10 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 >
 > **Conclusie:**
 >
-> De testcase is geslaagd, want de gebruiker was in staat om een nieuwe gebruiker aan te maken met een gewenste rol.
+> De testcase is geslaagd, want de gebruiker is in staat om een nieuwe gebruiker aan te maken met een gewenste rol.
 
 ## Conclusie
 
-Aan het begin van het project heb ik een aantal onderzoeken gedaan die ik tijdens het testen kan toetsen, zo heb ik persona's gemaakt zodat ik weet wat de wensen en frustraties van de gebruikers zijn. Met deze informatie kon ik een design maken wat goed aansluit bij de gebruikers. Zo heb ik bijvoorbeeld de breadcrumbs duidelijker aangegeven zodat gebruikers kunnen zien in welke laag ze zitten, zodat de flow van het systeem beter verloopt. Ook heb ik door middel van mijn marktonderzoek kunnen aantonen welke functies ik heb overgenomen zodat ik deze kan toepassen in het nieuwe CMS ontwerp van Blue Dragon. Deze functies zijn bijvoorbeeld, de optie om meerdere rows te selecteren, een extra filter optie en de optie om verschillende componenten te kunnen dupliceren. En tot slot mijn onderzoek over gebruiksvriendelijkheid, waar ik heb kunnen vaststellen waar het mis gaat bij het huidige design, en hoe ik dit probleem kan oplossen.&#x20;
+Aan het begin van het project heb ik een aantal onderzoeken gedaan die ik tijdens het testen kan toetsen, zo heb ik persona's gemaakt zodat ik weet wat de wensen en frustraties van de gebruikers zijn. Met deze informatie was ik in staat om een design maken wat goed aansluit bij de gebruikers. Zo heb ik bijvoorbeeld de breadcrumbs duidelijker aangegeven zodat gebruikers kunnen zien in welke laag ze zitten, zodat de flow van het systeem beter verloopt. Ook heb ik door middel van mijn marktonderzoek kunnen aantonen welke functies ik heb overgenomen zodat ik deze kan toepassen in het nieuwe CMS ontwerp van Blue Dragon. Deze functies zijn bijvoorbeeld, de optie om meerdere rows te selecteren, een extra filter optie en de optie om verschillende componenten te kunnen dupliceren. En tot slot mijn onderzoek over gebruiksvriendelijkheid, waar ik heb kunnen vaststellen waar het mis gaat bij het huidige design, en hoe ik dit probleem kan oplossen.&#x20;
 
 Aan de hand van het usability onderzoek, kan ik concluderen dat het nieuwe design goed en efficiënt werkt. Tijdens het testen wisten de gebruikers goed waar ze naar toe moesten navigeren om uiteindelijk hun doel te bereiken, dit valideert dat mijn onderzoeksresultaten juist zijn en het systeem helpen gebruiksvriendelijker te maken.

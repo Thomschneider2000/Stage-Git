@@ -16,11 +16,11 @@
 
 ## Inleiding
 
-Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points van zijn, ga ik een marktonderzoek starten om zo een beter beeld te krijgen hoe ik de service die Blue Dragon aanbiedt te optimaliseren.
+Om erachter te komen wat voor een soortgelijke producten er al op de markt zijn en wat daarvan de unique selling points zijn, ga ik een marktonderzoek starten om zo een beeld te krijgen hoe ik de service die Blue Dragon aanbiedt beter te kunnen optimaliseren.
 
 Een marktonderzoek is ook een uitstekend middel om aan belangrijke informatie te komen als basis voor een doelgerichte marktbewerking. Marktonderzoek biedt o.a. inzicht in de behoeftes en wensen van de doelgroep, toetst de tevredenheid van de klanten en kan een beeld geven van de omvang van de doelgroep.
 
-De volgende stap is het uitwerken van de informatie over de soortgelijke producten: welke functies ze hebben, hoe gebruikers ermee omgaan met een CMS, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
+De volgende stap is het uitwerken van de informatie over de soortgelijke producten: welke functies ze hebben, hoe gebruikers omgaan met een CMS, welke functies moeten worden overwogen om in Blue Dragons product op te nemen en welke moeten worden vermeden.
 
 ## Onderzoeksmethoden
 
@@ -56,7 +56,7 @@ Drupal is een meer geavanceerd CMS dat geschikt is voor ontwikkelaars en meer te
 
 #### Joomla:
 
-Joomla is een ander populair CMS dat bekend staat om zijn gebruiksvriendelijkheid. Het heeft een eenvoudige en intuïtieve interface, en het biedt een verscheidenheid aan sjablonen en extensies om u te helpen uw website te bouwen en aan te passen.
+Joomla is een ander populair CMS dat bekend staat om zijn gebruiksvriendelijkheid. Het heeft een eenvoudige en intuïtieve interface, en het biedt een verscheidenheid aan sjablonen en extensies om je te helpen om een website te bouwen en aan te passen.
 
 #### TYPO3:
 
@@ -92,7 +92,12 @@ Over het algemeen worden WordPress en Joomla als gebruiksvriendelijker beschouwd
 
 ## Wat zijn de unique selling points van Blue Dragons huidige CMS?
 
-Belangrijke kenmerken dat het systeem van Blue Dragon heeft zijn; het CMS wordt zo geoptimaliseerd dat er geen onnodige plug-ins gebruikt moeten worden, een geavanceerd permissie systeem, de communicatie tussen de klant en Blue Dragon is uitstekend en de schaalbaarheid van het systeem, zo kan het systeem afgestemd worden op wat de klant wil hebben.
+Belangrijke kenmerken dat het systeem van Blue Dragon heeft zijn:
+
+* Het CMS wordt zo geoptimaliseerd dat er geen onnodige plug-ins gebruikt moeten worden.
+* &#x20;Een geavanceerd permissie systeem
+* De communicatie tussen de klant en Blue Dragon is uitstekend, zodat zaken snel opgelost kunnen worden.
+* De schaalbaarheid van het systeem, zo kan het systeem afgestemd worden op wat de klant wil hebben. Ook kan het systeem makkelijk uitgebreid worden.
 
 ## Gebruikers interactiviteit Blue Dragons CMS
 
@@ -124,11 +129,11 @@ Aan de hand van de tabel kun je zien dat sommige CMS'en beter zijn dan de andere
 
 ## Aanbevelen functies
 
-Om te kijken welke verschillende functies ik in het nieuwe ontwerp van Blue Dragons CMS wil zetten. Ben ik gaan kijken naar welke handige functionaliteiten de verschillende CMS'en hebben. Ik heb in dit geval een functie van Wordpress gekozen omdat omdat Wordpress het hoogste scoort op functionaliteit.
+Om te kijken welke verschillende functies ik in het nieuwe ontwerp van Blue Dragons CMS wil zetten. Ben ik gaan kijken naar welke handige functionaliteiten de verschillende CMS'en hebben. Ik heb in dit geval een functie van Wordpress gekozen omdat Wordpress het hoogste scoort op functionaliteit.
 
 ### Multi select
 
-Hier heb ik gekozen voor een multi select optie, deze multi select optie zorgt ervoor dat ik meerdere rijen kan aanpassen door middel van één klik. Ik heb voor deze optie gekozen omdat in het huidige ontwerp de gebruiker maar een individuele rij kan aanpassen, wat het erg ongebruiksvriendelijk maakt.
+Hier heb ik gekozen voor een multi select optie, deze multi select optie zorgt ervoor dat ik meerdere rijen kan aanpassen door middel van één klik. Ik heb voor deze optie gekozen omdat in het huidige ontwerp de gebruiker maar één individuele rij kan aanpassen, wat het erg ongebruiksvriendelijk maakt.
 
 <figure><img src="../.gitbook/assets/adding-new-wordpress-roles-using-plugin.png" alt=""><figcaption></figcaption></figure>
 
@@ -150,7 +155,7 @@ Verder heb ik ook nog gekeken naar een goede multi language optie, omdat het vaa
 
 <figure><img src="../.gitbook/assets/LanguagesNewContentTranslation.png" alt=""><figcaption></figcaption></figure>
 
-Verder heb ik nog een aantal andere functies overgenomen die alle bovenstaande CMS'en ook bevatten, ik ligt deze functies later toe bij het design proces.
+Verder heb ik nog een aantal andere functies overgenomen die alle bovenstaande CMS'en ook bevatten, ik licht deze functies later toe bij het design proces.
 
 ## Conclusie
 
