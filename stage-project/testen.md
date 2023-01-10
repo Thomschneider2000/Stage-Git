@@ -62,7 +62,7 @@ Ik heb de onderstaande test cases gemaakt op basis van de [user requirements](co
 >
 > **Conclusie:**
 >
-> De testcase is geslaagd, aangezien de gebruiker zoals verwacht een nieuwe pagina kon aanmaken met behulp van het CMS.
+> De testcase is geslaagd, aangezien de gebruiker zoals verwacht een nieuwe pagina kan aanmaken met behulp van het CMS.
 
 ### Test case 2
 
