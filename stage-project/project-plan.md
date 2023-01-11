@@ -60,7 +60,7 @@ Tijdens mijn stageperiode ga ik veel onderzoek doen naar bepaalde vraagstukken d
 
 #### Design Challenge
 
-> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat hun sneller en duidelijker componenten kunnen aanpassen en toevoegen op hun website.
+> Ik ga in opdracht van Blue Dragon een gebruiksvriendelijke user interface ontwerpen voor de klanten die dit systeem in gebruik hebben, zodat zij efficiënter en duidelijker hun website kunnen aanpassen.
 
 #### Hoofdvraag
 
