@@ -108,11 +108,7 @@ Het doel van de Discover fase is een diepgaand begrip te krijgen van het problee
 
 #### Define
 
-In de Define fase van de HCD-methode richt ik me op het begrijpen en definiëren van het probleem dat ik probeer op te lossen. Dit houdt in:
-
-* Het identificeren van de gebruikersbehoefte die ik wil aanpakken.&#x20;
-* Onderzoek doen en informatie verzamelen over het probleem en mogelijke oplossingen.
-* De omvang van het project bepalen en wat ik hoop te bereiken.&#x20;
+In deze fase wordt het aan te pakken probleem of de kans duidelijk gedefinieerd en begrepen. Dit omvat het vaststellen van de behoeften van de gebruikers en belanghebbenden, en het begrijpen van de context waarin het probleem bestaat. Het doel van de definiëringfase is een duidelijke en beknopte probleemstelling te ontwikkelen die de rest van het ontwerpproces stuurt. De output van deze fase is een "point of view" verklaring. Deze verklaring vat het probleem en de belangrijkste inzichten van het onderzoek samen, en definieert de gebruiker en zijn behoeften.
 
 #### Design
 
