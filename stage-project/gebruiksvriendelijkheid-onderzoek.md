@@ -146,7 +146,7 @@ In dit onderzoek is gezocht naar een antwoord op de vraag: “Hoe maak ik iets g
 
 Uit de resultaten van dit onderzoek is gebleken dat er vele verschillende aspecten zijn om iets gebruiksvriendelijk te maken. Zo zijn de grootste en belangrijkste aspecten; overzichtelijkheid, herkenbaarheid, logica en de samenhang van het systeem. Om deze aspecten te testen zijn er ook veel methodes die toegepast kunnen worden om zo informatie te verkrijgen over de gebruikservaring.&#x20;
 
-De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren en de conversie te verhogen. In mijn geval is de methode usability onderzoek het beste omdat ik dit kan toetsen bij de klanten van Blue Dragon.
+De methodes die het vaakst gebruikt worden zijn webanalytics en usability onderzoek, deze worden het vaakst gebruikt omdat je met deze methode alle stappen van een gebruiker kunt volgen. Als die stappen dan geanalyseerd zijn kunnen we hier aannames uit trekken om zo de gebruikerservaring te verbeteren. In mijn geval is de methode usability onderzoek het beste omdat ik dit kan toetsen bij de klanten van Blue Dragon.
 
 ## Vervolg stap
 
