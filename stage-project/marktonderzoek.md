@@ -76,8 +76,7 @@ Over het algemeen worden WordPress en Joomla als gebruiksvriendelijker beschouwd
 
 #### Drupal:
 
-* Aanpasbare lay-out: Met Drupal kunnen gebruikers de lay-out van hun website aanpassen met behulp van een drag-and-drop interface.
-* Toegankelijkheidsfuncties: Drupal is ontworpen om toegankelijk te zijn voor gebruikers met een handicap, met functies zoals een hoge contrastmodus en ondersteuning voor schermlezers.
+* Aanpasbare lay-out: Met Drupal kunnen gebruikers de lay-out van hun website aanpassen met behulp van een drag-and-drop interface
 * Geavanceerd permissiesysteem: Drupal heeft een krachtig permissiesysteem waarmee beheerders kunnen bepalen wie toegang heeft tot verschillende delen van de website en deze kan bewerken. [\[3\]](https://www.o8.agency/blog/reasons-drupal-remains-leading-cms)
 
 #### Joomla:
